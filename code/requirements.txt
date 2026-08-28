@@ -1,0 +1,4 @@
+# Pinned to the versions used to produce the reported results.
+# Python 3.12
+matplotlib==3.10.1
+numpy==2.2.6

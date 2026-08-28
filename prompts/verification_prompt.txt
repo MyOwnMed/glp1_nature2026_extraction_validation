@@ -1,0 +1,52 @@
+NAMES EXTRACTED:
+{chr(10).join(names_extracted)}
+
+MATCHED NAMES TO ONTOLOGY:
+{chr(10).join(ontology_matched)}
+"""
+
+        # DEBUG: Print lengths to check for potential token issues
+        logger.debug(f"DEBUG: Batch verification - Statements: {len(statements)}, Source text length: {len(source_text)}, Matched names: {len(matched_names) if matched_names else 0}")
+
+        verification_prompt = f"""Verify if the following atomic statements are supported by the source text.
+Rate each statement on a scale of 0-3:
+0 = Unsupported (no evidence in text)
+1 = Implied (might be true but not clearly stated)
+2 = Partially supported (some aspects are confirmed)
+3 = Fully supported (clearly stated in text)
+
+ATOMIC STATEMENTS:
+{statements_text}
+
+SOURCE TEXT:
+{source_text}{matched_names_section}
+
+For each statement, provide:
+1. A very brief explanation of why you assigned the score
+2. The score (0-3)
+
+Format your response as follows:
+Statement 1: [explanation]
+Score: [0-3]
+
+Statement 2: [explanation]
+Score: [0-3]
+
+And so on for all statements."""
+
+        # Add name matching instructions if we have matched names
+        if matched_names_section:
+            verification_prompt += f"""
+
+Additionally, for statements with matched names, rate the quality of the name matching on a scale of 0-3:
+0 = Not a match (names are unrelated)
+1 = Inferred match (names might be related but not clearly)
+2 = Partial match (names are related but not exact)
+3 = Exact match (names represent the same concept)
+
+Format your response for name matches as follows:
+Name 1: [explanation]
+Match Score: [0-3]
+
+And so on for all matched names.
+"""

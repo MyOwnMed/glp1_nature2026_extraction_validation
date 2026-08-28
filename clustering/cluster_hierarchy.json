@@ -1,0 +1,1711 @@
+{
+  "adherence_barriers": {
+    "0": {
+      "count": 1244,
+      "label": "Musculoskeletal \u2014 Low Back/Back Pain (chronic and acute)",
+      "parent": "Musculoskeletal & Mobility"
+    },
+    "1": {
+      "count": 1122,
+      "label": "Medication Nonadherence / Access & Affordability",
+      "parent": "Medication Access, Adherence & Management"
+    },
+    "10": {
+      "count": 864,
+      "label": "CNS Side Effects \u2014 Fatigue/Sedation",
+      "parent": "Medication Side Effects & Adverse Reactions"
+    },
+    "11": {
+      "count": 599,
+      "label": "High Cost",
+      "parent": "Access, Insurance & Cost Barriers"
+    },
+    "12": {
+      "count": 589,
+      "label": "Adverse Effects > Gastrointestinal (Ozempic/GLP\u20111 agonists)",
+      "parent": "Gastrointestinal Symptoms"
+    },
+    "13": {
+      "count": 499,
+      "label": "Medication: Refill Requests / Pharmacy Availability",
+      "parent": "Medication Access, Adherence & Management"
+    },
+    "14": {
+      "count": 905,
+      "label": "Medication Side Effects / Treatment Intolerance",
+      "parent": "Medication Side Effects & Adverse Reactions"
+    },
+    "15": {
+      "count": 762,
+      "label": "Access to Care: Insurance/Cost Barriers",
+      "parent": "Access, Insurance & Cost Barriers"
+    },
+    "16": {
+      "count": 782,
+      "label": "Weight Management: Unable to Lose Weight",
+      "parent": "Nutrition, Weight & Eating Behavior"
+    },
+    "17": {
+      "count": 743,
+      "label": "Weight/Obesity \u2014 Weight Gain",
+      "parent": "Nutrition, Weight & Eating Behavior"
+    },
+    "18": {
+      "count": 1091,
+      "label": "Patient Behavior > Refusal/Decline (Noncompliance)",
+      "parent": "Medication Access, Adherence & Management"
+    },
+    "19": {
+      "count": 1128,
+      "label": "Access and Adherence Barriers",
+      "parent": "Medication Access, Adherence & Management"
+    },
+    "2": {
+      "count": 903,
+      "label": "Diabetes \u2014 Medication Adherence & Self\u2011Monitoring Issues",
+      "parent": "Medication Access, Adherence & Management"
+    },
+    "20": {
+      "count": 922,
+      "label": "Gastrointestinal Side Effects",
+      "parent": "Gastrointestinal Symptoms"
+    },
+    "21": {
+      "count": 622,
+      "label": "Cardiovascular: Hypertension \u2014 Medication Nonadherence & Lack of Home BP Monitoring",
+      "parent": "Medication Access, Adherence & Management"
+    },
+    "22": {
+      "count": 282,
+      "label": "Home monitoring nonadherence",
+      "parent": "Monitoring, Home Monitoring & Data Quality"
+    },
+    "23": {
+      "count": 165,
+      "label": "Data Quality > Missing/Null",
+      "parent": "Monitoring, Home Monitoring & Data Quality"
+    },
+    "24": {
+      "count": 1829,
+      "label": "Adverse Drug Reactions / Medication Intolerance",
+      "parent": "Medication Side Effects & Adverse Reactions"
+    },
+    "25": {
+      "count": 751,
+      "label": "Nutrition: Poor Diet / Dietary Nonadherence",
+      "parent": "Nutrition, Weight & Eating Behavior"
+    },
+    "26": {
+      "count": 747,
+      "label": "Physical Activity \u2014 Low / Sedentary",
+      "parent": "Physical Activity & Functional Status"
+    },
+    "27": {
+      "count": 660,
+      "label": "Functional Status: Mobility & Physical Activity",
+      "parent": "Physical Activity & Functional Status"
+    },
+    "28": {
+      "count": 675,
+      "label": "Sleep Disorders & Daytime Somnolence (Insomnia, Sleep Apnea, Medication\u2011induced Drowsiness)",
+      "parent": "Sleep Disorders"
+    },
+    "29": {
+      "count": 904,
+      "label": "Mobility & Ambulation Impairment \u2014 Lower Extremity Pain/Weakness",
+      "parent": "Musculoskeletal & Mobility"
+    },
+    "3": {
+      "count": 620,
+      "label": "Treatment Failure \u2014 Medication Ineffective / Lack of Symptom Relief",
+      "parent": "Medication Access, Adherence & Management"
+    },
+    "30": {
+      "count": 483,
+      "label": "Insurance Coverage / Cost Barriers to Medications",
+      "parent": "Access, Insurance & Cost Barriers"
+    },
+    "31": {
+      "count": 895,
+      "label": "Metformin \u2014 Gastrointestinal Side Effects",
+      "parent": "Gastrointestinal Symptoms"
+    },
+    "32": {
+      "count": 341,
+      "label": "Information not documented",
+      "parent": "Monitoring, Home Monitoring & Data Quality"
+    },
+    "33": {
+      "count": 790,
+      "label": "Mental Health: Anxiety/Stress/Depression",
+      "parent": "Mental Health & Psychosocial"
+    },
+    "34": {
+      "count": 911,
+      "label": "Non-adherence and access barriers",
+      "parent": "Medication Access, Adherence & Management"
+    },
+    "35": {
+      "count": 574,
+      "label": "Access \u2014 Insurance Coverage/Cost",
+      "parent": "Access, Insurance & Cost Barriers"
+    },
+    "36": {
+      "count": 876,
+      "label": "Medications \u2014 Discontinued/Stopped (Adverse Effects, Nonadherence, Cost)",
+      "parent": "Medication Access, Adherence & Management"
+    },
+    "37": {
+      "count": 641,
+      "label": "Musculoskeletal: Knee pain / Osteoarthritis",
+      "parent": "Musculoskeletal & Mobility"
+    },
+    "38": {
+      "count": 850,
+      "label": "Occupational and psychosocial stressors",
+      "parent": "Mental Health & Psychosocial"
+    },
+    "39": {
+      "count": 356,
+      "label": "Medication adverse effect \u2014 Statin intolerance (myalgia/tolerability)",
+      "parent": "Medication Side Effects & Adverse Reactions"
+    },
+    "4": {
+      "count": 576,
+      "label": "Insurance: Denied / Not Approved",
+      "parent": "Access, Insurance & Cost Barriers"
+    },
+    "40": {
+      "count": 1083,
+      "label": "Medication Adherence \u2014 Patient-Initiated Changes & Barriers",
+      "parent": "Medication Access, Adherence & Management"
+    },
+    "41": {
+      "count": 730,
+      "label": "Adherence: Patient refusing or not taking medications/therapy",
+      "parent": "Medication Access, Adherence & Management"
+    },
+    "42": {
+      "count": 1007,
+      "label": "Weight Gain and Overeating",
+      "parent": "Nutrition, Weight & Eating Behavior"
+    },
+    "43": {
+      "count": 1336,
+      "label": "Social/Lifestyle Factors: Alcohol, Tobacco, Physical Activity",
+      "parent": "Mental Health & Psychosocial"
+    },
+    "44": {
+      "count": 516,
+      "label": "Gastrointestinal \u2014 Nausea and Vomiting",
+      "parent": "Gastrointestinal Symptoms"
+    },
+    "45": {
+      "count": 891,
+      "label": "Musculoskeletal pain \u2014 functional and mobility limitations",
+      "parent": "Musculoskeletal & Mobility"
+    },
+    "46": {
+      "count": 848,
+      "label": "Medication Access: Ran Out of Medication",
+      "parent": "Medication Access, Adherence & Management"
+    },
+    "47": {
+      "count": 750,
+      "label": "Employment: Work-related stress / Long hours",
+      "parent": "Mental Health & Psychosocial"
+    },
+    "5": {
+      "count": 1572,
+      "label": "Medication issues \u2014 side effects/intolerance and nonadherence",
+      "parent": "Medication Access, Adherence & Management"
+    },
+    "6": {
+      "count": 580,
+      "label": "Medication Nonadherence / Lack of Self\u2011Monitoring",
+      "parent": "Medication Access, Adherence & Management"
+    },
+    "7": {
+      "count": 886,
+      "label": "Appetite and Eating Behavior",
+      "parent": "Nutrition, Weight & Eating Behavior"
+    },
+    "8": {
+      "count": 1356,
+      "label": "Medication Adherence \u2014 Patient did not bring meds",
+      "parent": "Medication Access, Adherence & Management"
+    },
+    "9": {
+      "count": 785,
+      "label": "Nutrition \u2014 Overeating / Binge Eating",
+      "parent": "Nutrition, Weight & Eating Behavior"
+    }
+  },
+  "adherence_recommendations": {
+    "0": {
+      "count": 1483,
+      "label": "Medication Refills and Reconciliation",
+      "parent": "Medication Management & Prescribing"
+    },
+    "1": {
+      "count": 8592,
+      "label": "Lifestyle counseling \u2014 diet and exercise",
+      "parent": "Lifestyle Counseling (Diet, Exercise, Weight)"
+    },
+    "10": {
+      "count": 1995,
+      "label": "Lifestyle \u2014 Exercise/Physical Activity Counseling",
+      "parent": "Lifestyle Counseling (Diet, Exercise, Weight)"
+    },
+    "11": {
+      "count": 4395,
+      "label": "Prescription Orders",
+      "parent": "Medication Management & Prescribing"
+    },
+    "12": {
+      "count": 2010,
+      "label": "Lifestyle Counseling: Diet & Exercise",
+      "parent": "Lifestyle Counseling (Diet, Exercise, Weight)"
+    },
+    "13": {
+      "count": 2110,
+      "label": "Cardiovascular: Hypertension management",
+      "parent": "Condition-specific Management (Cardio/GI/Other)"
+    },
+    "14": {
+      "count": 838,
+      "label": "Medications \u2014 Counseling, Side Effects, and Compliance",
+      "parent": "Medication Counseling & Safety"
+    },
+    "15": {
+      "count": 3560,
+      "label": "Care Plan: Follow-up / Return Visit and Monitoring",
+      "parent": "Follow-up, Monitoring & Care Plans"
+    },
+    "16": {
+      "count": 1523,
+      "label": "Lifestyle Modification \u2014 Diet & Exercise / Weight Management",
+      "parent": "Lifestyle Counseling (Diet, Exercise, Weight)"
+    },
+    "17": {
+      "count": 2675,
+      "label": "Management plan \u2014 medication adjustments, lifestyle counseling, and referrals",
+      "parent": "Follow-up, Monitoring & Care Plans"
+    },
+    "18": {
+      "count": 1933,
+      "label": "Medications > Controlled Substances > Benzodiazepines & Sedative\u2011Hypnotics",
+      "parent": "Controlled Substances & Opioids"
+    },
+    "19": {
+      "count": 1014,
+      "label": "Care Plan > Follow-up: Call if Needed",
+      "parent": "Follow-up, Monitoring & Care Plans"
+    },
+    "2": {
+      "count": 3033,
+      "label": "Medications > Prescriptions",
+      "parent": "Medication Management & Prescribing"
+    },
+    "20": {
+      "count": 1896,
+      "label": "Lifestyle \u2014 Exercise/Physical Activity Counseling",
+      "parent": "Lifestyle Counseling (Diet, Exercise, Weight)"
+    },
+    "21": {
+      "count": 3060,
+      "label": "Endocrine > Diabetes mellitus > Management and follow-up",
+      "parent": "Diabetes & Endocrine Management"
+    },
+    "22": {
+      "count": 672,
+      "label": "Medication: Mounjaro prescriptions and dosing",
+      "parent": "Diabetes & Endocrine Management"
+    },
+    "23": {
+      "count": 1206,
+      "label": "Endocrine \u2014 GLP\u20111 receptor agonist prescriptions and titration (semaglutide: Ozempic/Wegovy/Zepbound)",
+      "parent": "Diabetes & Endocrine Management"
+    },
+    "24": {
+      "count": 1184,
+      "label": "Musculoskeletal / Home exercise, physical therapy & self-care",
+      "parent": "Rehabilitation & Musculoskeletal Care"
+    },
+    "25": {
+      "count": 3861,
+      "label": "Lifestyle Counseling > Diet/Nutrition & Exercise (Weight Management)",
+      "parent": "Lifestyle Counseling (Diet, Exercise, Weight)"
+    },
+    "26": {
+      "count": 1048,
+      "label": "Medication Instructions / Patient Education",
+      "parent": "Medication Counseling & Safety"
+    },
+    "27": {
+      "count": 1605,
+      "label": "Patient Education: Return Precautions and Follow\u2011Up Instructions",
+      "parent": "Patient Education & Instructions"
+    },
+    "28": {
+      "count": 4304,
+      "label": "Lifestyle: Weight Loss / Diet & Exercise",
+      "parent": "Lifestyle Counseling (Diet, Exercise, Weight)"
+    },
+    "29": {
+      "count": 589,
+      "label": "Medication Management \u2014 Refill",
+      "parent": "Medication Management & Prescribing"
+    },
+    "3": {
+      "count": 3151,
+      "label": "Medication Adherence and Patient Counseling",
+      "parent": "Medication Counseling & Safety"
+    },
+    "30": {
+      "count": 1198,
+      "label": "Diabetes \u2014 Lifestyle counseling: diet, exercise, weight loss",
+      "parent": "Diabetes & Endocrine Management"
+    },
+    "31": {
+      "count": 2072,
+      "label": "Medications: Vitamin D and Levothyroxine",
+      "parent": "Medication Management & Prescribing"
+    },
+    "32": {
+      "count": 833,
+      "label": "Follow-up Care and Orders",
+      "parent": "Follow-up, Monitoring & Care Plans"
+    },
+    "33": {
+      "count": 1873,
+      "label": "Management: Continue current treatment and care",
+      "parent": "Follow-up, Monitoring & Care Plans"
+    },
+    "34": {
+      "count": 2172,
+      "label": "Medications: Opioid/Controlled Substances Prescriptions",
+      "parent": "Controlled Substances & Opioids"
+    },
+    "35": {
+      "count": 911,
+      "label": "Lifestyle Counseling \u2014 Diet and Physical Activity",
+      "parent": "Lifestyle Counseling (Diet, Exercise, Weight)"
+    },
+    "36": {
+      "count": 1964,
+      "label": "Musculoskeletal \u2014 Conservative management (stretching/heat/PT) with red-flag warnings",
+      "parent": "Rehabilitation & Musculoskeletal Care"
+    },
+    "37": {
+      "count": 867,
+      "label": "Diabetes education and lifestyle counseling",
+      "parent": "Diabetes & Endocrine Management"
+    },
+    "38": {
+      "count": 3299,
+      "label": "Medications / Prescriptions and Medication Management",
+      "parent": "Medication Management & Prescribing"
+    },
+    "39": {
+      "count": 2588,
+      "label": "Medication Management: Continue Current Medications",
+      "parent": "Medication Management & Prescribing"
+    },
+    "4": {
+      "count": 4296,
+      "label": "Lifestyle: Diet/Nutrition (low sodium/low fat/ADA/low\u2011carb)",
+      "parent": "Lifestyle Counseling (Diet, Exercise, Weight)"
+    },
+    "40": {
+      "count": 530,
+      "label": "Gastrointestinal: GERD (acid reflux) management and lifestyle counseling",
+      "parent": "Condition-specific Management (Cardio/GI/Other)"
+    },
+    "41": {
+      "count": 2229,
+      "label": "Medication Management: Discontinue / Restart / Dose Adjustment",
+      "parent": "Medication Management & Prescribing"
+    },
+    "42": {
+      "count": 3627,
+      "label": "Counseling: Weight Management (Diet & Exercise)",
+      "parent": "Lifestyle Counseling (Diet, Exercise, Weight)"
+    },
+    "43": {
+      "count": 1369,
+      "label": "Medication: Ozempic \u2014 Dosing and Management",
+      "parent": "Diabetes & Endocrine Management"
+    },
+    "44": {
+      "count": 766,
+      "label": "Patient Education \u2014 Medication/Prescription Instructions",
+      "parent": "Medication Counseling & Safety"
+    },
+    "45": {
+      "count": 2705,
+      "label": "Endocrine \u2014 Diabetes management: medication prescriptions and glucose monitoring",
+      "parent": "Diabetes & Endocrine Management"
+    },
+    "46": {
+      "count": 2297,
+      "label": "Dietary and Hydration Counseling",
+      "parent": "Lifestyle Counseling (Diet, Exercise, Weight)"
+    },
+    "5": {
+      "count": 2155,
+      "label": "Rehabilitation: Physical Therapy, Exercise & Fall Prevention",
+      "parent": "Rehabilitation & Musculoskeletal Care"
+    },
+    "6": {
+      "count": 2435,
+      "label": "Follow-up and Monitoring / Self-care Instructions",
+      "parent": "Follow-up, Monitoring & Care Plans"
+    },
+    "7": {
+      "count": 4532,
+      "label": "Medications \u2192 Prescription and Dosing Instructions",
+      "parent": "Medication Management & Prescribing"
+    },
+    "8": {
+      "count": 3867,
+      "label": "Patient Education / Medication Counseling \u2014 Opioid Safety & Lifestyle Advice",
+      "parent": "Controlled Substances & Opioids"
+    },
+    "9": {
+      "count": 1715,
+      "label": "Exercise / Physical Activity Counseling",
+      "parent": "Lifestyle Counseling (Diet, Exercise, Weight)"
+    }
+  },
+  "dose_change_event": {
+    "0": {
+      "count": 188,
+      "label": "Medication \u2014 Dose/Frequency/Formulation Changes",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "1": {
+      "count": 422,
+      "label": "Medication Management > Dose Increase/Titration",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "10": {
+      "count": 26,
+      "label": "Therapeutic Failure (Lack of Efficacy)",
+      "parent": "Medication Indications & Reasons"
+    },
+    "11": {
+      "count": 359,
+      "label": "Cardiovascular: Hypertension (Blood Pressure Control)",
+      "parent": "Cardiovascular Conditions/Management"
+    },
+    "12": {
+      "count": 242,
+      "label": "Diabetes Management \u2014 Insulin Dose Adjustment",
+      "parent": "Endocrine & Diabetes Management"
+    },
+    "13": {
+      "count": 146,
+      "label": "Medication Dose/Frequency Documentation (Current Visit)",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "14": {
+      "count": 66,
+      "label": "Low or Decreased",
+      "parent": "Lab Abnormalities / Monitoring"
+    },
+    "15": {
+      "count": 116,
+      "label": "Cardiovascular \u2014 Heart rate/Arrhythmia (tachycardia & bradycardia)",
+      "parent": "Cardiovascular Conditions/Management"
+    },
+    "16": {
+      "count": 330,
+      "label": "Endocrine \u2014 Diabetes: Elevated A1c / Glycemic Control and Management",
+      "parent": "Endocrine & Diabetes Management"
+    },
+    "17": {
+      "count": 156,
+      "label": "Medication: Refills/Prescription Management",
+      "parent": "Prescription Management & Refills"
+    },
+    "18": {
+      "count": 198,
+      "label": "Reasons for medication change",
+      "parent": "Medication Indications & Reasons"
+    },
+    "19": {
+      "count": 91,
+      "label": "Medication Management \u2014 Mounjaro Dose Titration",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "2": {
+      "count": 239,
+      "label": "Medication Management > Dose Reduction",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "20": {
+      "count": 132,
+      "label": "Testosterone replacement therapy \u2014 dosing, monitoring, and complications",
+      "parent": "Endocrine & Diabetes Management"
+    },
+    "21": {
+      "count": 125,
+      "label": "Sleep-related adverse effects",
+      "parent": "Adverse Effects / Tolerability"
+    },
+    "22": {
+      "count": 305,
+      "label": "Medication Management > Dose Changes, Restarts, and Titration",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "23": {
+      "count": 206,
+      "label": "Medication Dose Adjustment/Titration",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "24": {
+      "count": 215,
+      "label": "Cardiovascular \u2014 Hypotension / Orthostatic Dizziness",
+      "parent": "Cardiovascular Conditions/Management"
+    },
+    "25": {
+      "count": 258,
+      "label": "Gastrointestinal Side Effects",
+      "parent": "Adverse Effects / Tolerability"
+    },
+    "26": {
+      "count": 383,
+      "label": "Medication Dose Adjustment: Efficacy or Tolerability",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "27": {
+      "count": 60,
+      "label": "Hepatic \u2014 Elevated liver enzymes (abnormal LFTs)",
+      "parent": "Lab Abnormalities / Monitoring"
+    },
+    "28": {
+      "count": 219,
+      "label": "Medication Dose Change/Adjustment",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "29": {
+      "count": 111,
+      "label": "Endocrine: Uncontrolled Diabetes \u2014 Management/Titration",
+      "parent": "Endocrine & Diabetes Management"
+    },
+    "3": {
+      "count": 294,
+      "label": "Medication Management: Statin Dose Increase",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "30": {
+      "count": 248,
+      "label": "Pain Management \u2014 Neuropathic and Spinal Pain (dose escalation)",
+      "parent": "Pain Management"
+    },
+    "31": {
+      "count": 22,
+      "label": "Patient Preference",
+      "parent": "Patient Preferences / Social"
+    },
+    "32": {
+      "count": 318,
+      "label": "Medication dose increase",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "33": {
+      "count": 165,
+      "label": "Hyperlipidemia / Lipid Management",
+      "parent": "Cardiovascular Conditions/Management"
+    },
+    "34": {
+      "count": 260,
+      "label": "Medication tapering/discontinuation",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "35": {
+      "count": 149,
+      "label": "Endocrine \u2014 Thyroid: TSH target/dose adjustment for cardiac and anxiety symptoms",
+      "parent": "Endocrine & Diabetes Management"
+    },
+    "36": {
+      "count": 439,
+      "label": "Medication indications and dose adjustments",
+      "parent": "Medication Indications & Reasons"
+    },
+    "37": {
+      "count": 158,
+      "label": "Medication Dose Increase / Titration",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "38": {
+      "count": 356,
+      "label": "Medication: Dose/Frequency Adjustments and Adherence",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "39": {
+      "count": 28,
+      "label": "Endocrine > Thyroid > Replacement therapy",
+      "parent": "Endocrine & Diabetes Management"
+    },
+    "4": {
+      "count": 287,
+      "label": "Medication > Dose titration / dosing adjustment",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "40": {
+      "count": 180,
+      "label": "Vitamin D deficiency \u2014 supplementation and dose adjustment",
+      "parent": "Supplements / Nutritional Deficiency"
+    },
+    "41": {
+      "count": 51,
+      "label": "Hematologic: Iron Deficiency Anemia",
+      "parent": "Lab Abnormalities / Monitoring"
+    },
+    "42": {
+      "count": 206,
+      "label": "Medication \u2014 Dose Increase",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "43": {
+      "count": 244,
+      "label": "Medication Indications (Therapeutic Reasons)",
+      "parent": "Medication Indications & Reasons"
+    },
+    "44": {
+      "count": 316,
+      "label": "Diabetes medication adjustments \u2014 hypoglycemia and intolerance",
+      "parent": "Endocrine & Diabetes Management"
+    },
+    "45": {
+      "count": 340,
+      "label": "Medication Dose Increase",
+      "parent": "Medication Dose Management/Titration"
+    },
+    "46": {
+      "count": 81,
+      "label": "Musculoskeletal Side Effects \u2014 Myalgia (Statin-related)",
+      "parent": "Adverse Effects / Tolerability"
+    },
+    "47": {
+      "count": 381,
+      "label": "Hypertension \u2014 Increase Antihypertensive Medication Dose",
+      "parent": "Cardiovascular Conditions/Management"
+    },
+    "5": {
+      "count": 88,
+      "label": "Cardiovascular: Uncontrolled Hyperlipidemia",
+      "parent": "Cardiovascular Conditions/Management"
+    },
+    "6": {
+      "count": 169,
+      "label": "Pain Management \u2014 Opioid/Analgesic Prescribing",
+      "parent": "Pain Management"
+    },
+    "7": {
+      "count": 474,
+      "label": "Endocrine \u2014 Thyroid replacement dose adjustments",
+      "parent": "Endocrine & Diabetes Management"
+    },
+    "8": {
+      "count": 318,
+      "label": "Diabetes \u2014 Increase/Adjust Antihyperglycemic Therapy for Hyperglycemia",
+      "parent": "Endocrine & Diabetes Management"
+    },
+    "9": {
+      "count": 205,
+      "label": "Weight Management \u2014 Dose Escalation/Titration",
+      "parent": "Medication Dose Management/Titration"
+    }
+  },
+  "hospitalizations": {
+    "0": {
+      "count": 881,
+      "label": "Cardiac Procedures / Coronary Angiography, Angioplasty & Stenting",
+      "parent": "Cardiology & Cardiac Procedures"
+    },
+    "1": {
+      "count": 1158,
+      "label": "Lower Extremity \u2014 Pain/Swelling/Infection/Thromboembolic (Orthopedic/Vascular)",
+      "parent": "Orthopedics & Musculoskeletal"
+    },
+    "10": {
+      "count": 566,
+      "label": "Biliary/Gallbladder Conditions & Procedures",
+      "parent": "Gastrointestinal"
+    },
+    "11": {
+      "count": 1676,
+      "label": "Abdominal Pain \u2014 Gastrointestinal & Genitourinary Causes",
+      "parent": "Gastrointestinal & Abdominal Pain"
+    },
+    "12": {
+      "count": 861,
+      "label": "Infections \u2014 Urosepsis/Urinary Tract Infection",
+      "parent": "Infectious Diseases"
+    },
+    "13": {
+      "count": 645,
+      "label": "Trauma \u2014 Falls and Motor Vehicle Accidents",
+      "parent": "Trauma & Injury"
+    },
+    "14": {
+      "count": 1062,
+      "label": "Respiratory \u2014 Shortness of Breath / Asthma & COPD Exacerbations",
+      "parent": "Respiratory & Pulmonary"
+    },
+    "15": {
+      "count": 1571,
+      "label": "Orthopedics \u2014 Spinal Surgery (Cervical and Lumbar)",
+      "parent": "Orthopedics & Musculoskeletal"
+    },
+    "16": {
+      "count": 763,
+      "label": "Neurology & Psychiatry \u2014 TIA/Stroke and Mental Health",
+      "parent": "Neurology & Psychiatry"
+    },
+    "17": {
+      "count": 755,
+      "label": "Neurology \u2014 Acute Facial Palsy and Focal Neurologic Deficits (ER visits)",
+      "parent": "Neurology & Stroke Care"
+    },
+    "18": {
+      "count": 1586,
+      "label": "Orthopedics \u2014 Knee Arthroplasty/Replacement",
+      "parent": "Orthopedics & Musculoskeletal"
+    },
+    "19": {
+      "count": 431,
+      "label": "Cardiology \u2014 Atrial Arrhythmias (AF/AFL) \u2014 Ablation/Cardioversion",
+      "parent": "Cardiology & Cardiac Procedures"
+    },
+    "2": {
+      "count": 732,
+      "label": "Gastrointestinal \u2014 Bleeding, Vomiting & Diarrhea",
+      "parent": "Gastrointestinal"
+    },
+    "20": {
+      "count": 525,
+      "label": "Cardiology \u2014 Acute Coronary Syndromes & Heart Failure",
+      "parent": "Cardiology & Cardiac Procedures"
+    },
+    "21": {
+      "count": 902,
+      "label": "Cardiovascular Procedures \u2014 Coronary Artery Bypass Grafting (CABG)",
+      "parent": "Cardiology & Cardiac Procedures"
+    },
+    "22": {
+      "count": 813,
+      "label": "Respiratory \u2014 Pneumonia",
+      "parent": "Respiratory & Pulmonary"
+    },
+    "23": {
+      "count": 1928,
+      "label": "Hematology \u2014 Severe anemia and blood transfusion",
+      "parent": "Hematology & Transfusion"
+    },
+    "24": {
+      "count": 1430,
+      "label": "Cardiac \u2014 Chest Pain and Pericardial/Procedural Complications",
+      "parent": "Cardiology & Cardiac Procedures"
+    },
+    "25": {
+      "count": 530,
+      "label": "Foot infections \u2014 osteomyelitis and toe/foot amputations",
+      "parent": "Infectious Diseases & Wound Care"
+    },
+    "26": {
+      "count": 256,
+      "label": "Cardiology \u2014 Pacemaker/ICD Implantation",
+      "parent": "Cardiology & Cardiac Procedures"
+    },
+    "27": {
+      "count": 751,
+      "label": "Surgical Procedures \u2014 Hip Arthroplasty & Aortic Valve Replacement",
+      "parent": "General Surgery & Surgical Procedures"
+    },
+    "28": {
+      "count": 1006,
+      "label": "Spine / Thoracic myelopathy / Laminectomy and posterior fusion",
+      "parent": "Orthopedics & Musculoskeletal"
+    },
+    "29": {
+      "count": 368,
+      "label": "Genitourinary Surgery \u2014 Radical Prostatectomy (including robotic and lymph node dissection)",
+      "parent": "Urology & Genitourinary Surgery"
+    },
+    "3": {
+      "count": 419,
+      "label": "Musculoskeletal: Fractures and Orthopedic Surgery",
+      "parent": "Orthopedics & Musculoskeletal"
+    },
+    "30": {
+      "count": 246,
+      "label": "Surgical Procedures: Bilateral Carpal Tunnel Releases",
+      "parent": "General Surgery & Surgical Procedures"
+    },
+    "31": {
+      "count": 889,
+      "label": "Hospitalizations / Inpatient Care",
+      "parent": "Hospitalizations & Acute Care"
+    },
+    "32": {
+      "count": 376,
+      "label": "Urology \u2014 Penile and Male Genital Surgical Procedures",
+      "parent": "Urology & Genitourinary Surgery"
+    },
+    "33": {
+      "count": 739,
+      "label": "Surgical Procedures > Bariatric (Gastric Bypass) & Cosmetic (Abdominoplasty/Liposuction)",
+      "parent": "General Surgery & Surgical Procedures"
+    },
+    "34": {
+      "count": 304,
+      "label": "Endocrine: Diabetes \u2014 Hyperglycemia/DKA/Hypoglycemia",
+      "parent": "Endocrine & Metabolic"
+    },
+    "35": {
+      "count": 736,
+      "label": "Musculoskeletal / Orthopedic Trauma and Surgery",
+      "parent": "Orthopedics & Musculoskeletal"
+    },
+    "36": {
+      "count": 595,
+      "label": "Musculoskeletal Injuries / Hand (Thumb) & Achilles Tendon",
+      "parent": "Orthopedics & Musculoskeletal"
+    },
+    "37": {
+      "count": 614,
+      "label": "Venous Thromboembolism (DVT and Pulmonary Embolism)",
+      "parent": "Vascular & Thromboembolic Disease"
+    },
+    "38": {
+      "count": 451,
+      "label": "Orthopedics \u2014 Ankle Fracture/Injury",
+      "parent": "Orthopedics & Musculoskeletal"
+    },
+    "39": {
+      "count": 985,
+      "label": "Cardiac Arrhythmia \u2014 Atrial Fibrillation (rapid / cardioversion)",
+      "parent": "Cardiology & Cardiac Procedures"
+    },
+    "4": {
+      "count": 303,
+      "label": "Infectious Disease Treatment \u2014 Syphilis (IM Penicillin)",
+      "parent": "Infectious Diseases"
+    },
+    "40": {
+      "count": 774,
+      "label": "Surgery > Abdominal > Hernia & Bariatric Procedures",
+      "parent": "General Surgery & Surgical Procedures"
+    },
+    "41": {
+      "count": 398,
+      "label": "Neurosurgery \u2014 Intracranial Aneurysm Repair and Complications",
+      "parent": "Neurology & Neurosurgery"
+    },
+    "42": {
+      "count": 1007,
+      "label": "Emergency Department Visits / Acute Presentations",
+      "parent": "Hospitalizations & Acute Care"
+    },
+    "43": {
+      "count": 382,
+      "label": "ENT: Sinusitis and Sinus Surgery",
+      "parent": "ENT & Head and Neck"
+    },
+    "44": {
+      "count": 1181,
+      "label": "Infectious Diseases \u2014 Acute Infections",
+      "parent": "Infectious Diseases"
+    },
+    "45": {
+      "count": 1190,
+      "label": "Surgical Procedures / Operations",
+      "parent": "General Surgery & Surgical Procedures"
+    },
+    "46": {
+      "count": 941,
+      "label": "Neurologic: Syncope / Dizziness / Seizures",
+      "parent": "Neurology & Stroke Care"
+    },
+    "47": {
+      "count": 533,
+      "label": "Gastrointestinal: Colorectal neoplasia and surgical procedures",
+      "parent": "Gastrointestinal"
+    },
+    "48": {
+      "count": 648,
+      "label": "Musculoskeletal / Low Back Pain & Spinal Disorders",
+      "parent": "Orthopedics & Musculoskeletal"
+    },
+    "5": {
+      "count": 1027,
+      "label": "Surgical Procedures / Nephrectomy \u00b7 Lobectomy \u00b7 Orthopedic",
+      "parent": "General Surgery & Surgical Procedures"
+    },
+    "6": {
+      "count": 1186,
+      "label": "Surgical Complications: Intra-abdominal Sepsis & Wound Infections",
+      "parent": "Surgery & Surgical Complications"
+    },
+    "7": {
+      "count": 1413,
+      "label": "Endocrine > Thyroid surgery and radioiodine therapy",
+      "parent": "Endocrine & Thyroid Care"
+    },
+    "8": {
+      "count": 556,
+      "label": "Neurology \u2014 Cerebrovascular Disease (Stroke/TIA)",
+      "parent": "Neurology & Stroke Care"
+    },
+    "9": {
+      "count": 843,
+      "label": "Infectious \u2014 COVID-19 / COVID-19 pneumonia",
+      "parent": "Infectious Diseases"
+    }
+  },
+  "med_stop_event": {
+    "0": {
+      "count": 719,
+      "label": "Medication \u2014 Dose Change/Adjustment",
+      "parent": "Dosing & Titration"
+    },
+    "1": {
+      "count": 405,
+      "label": "Edema \u2014 Peripheral (Lower\u2011extremity) Fluid Retention",
+      "parent": "Cardiovascular and Fluid-related Issues"
+    },
+    "10": {
+      "count": 495,
+      "label": "Medication Duplicate",
+      "parent": "Medication Administration & Prescribing"
+    },
+    "11": {
+      "count": 328,
+      "label": "Dermatologic Side Effects \u2014 Rash/Itching (Allergic)",
+      "parent": "Dermatologic / Allergic / Respiratory"
+    },
+    "12": {
+      "count": 1256,
+      "label": "Unclear/Single-character entry",
+      "parent": "Status / Miscellaneous"
+    },
+    "13": {
+      "count": 485,
+      "label": "Adverse Effects / Safety Concerns \u2014 Cardiac, Renal, Hepatic, Electrolyte, Sexual",
+      "parent": "Adverse Effects & Safety"
+    },
+    "14": {
+      "count": 309,
+      "label": "High Cost",
+      "parent": "Adherence, Access & Cost"
+    },
+    "15": {
+      "count": 411,
+      "label": "Medication Status (current vs. discontinued)",
+      "parent": "Status / Miscellaneous"
+    },
+    "16": {
+      "count": 565,
+      "label": "Dose Increase",
+      "parent": "Dosing & Titration"
+    },
+    "17": {
+      "count": 681,
+      "label": "Gastrointestinal Side Effects/Intolerance",
+      "parent": "Gastrointestinal Side Effects"
+    },
+    "18": {
+      "count": 525,
+      "label": "Medication dosing and titration",
+      "parent": "Dosing & Titration"
+    },
+    "19": {
+      "count": 635,
+      "label": "Medication Discontinuation \u2014 Renal/Cardiac Adverse Events",
+      "parent": "Discontinuation / Hold / Switch"
+    },
+    "2": {
+      "count": 348,
+      "label": "Medication Discontinued",
+      "parent": "Discontinuation / Hold / Switch"
+    },
+    "20": {
+      "count": 489,
+      "label": "Medication: Not Taking/Discontinued",
+      "parent": "Adherence, Access & Cost"
+    },
+    "21": {
+      "count": 2803,
+      "label": "Status: Done",
+      "parent": "Status / Miscellaneous"
+    },
+    "22": {
+      "count": 685,
+      "label": "Medication Discontinued",
+      "parent": "Discontinuation / Hold / Switch"
+    },
+    "23": {
+      "count": 255,
+      "label": "Medication management \u2014 Medication hold/temporary discontinuation",
+      "parent": "Discontinuation / Hold / Switch"
+    },
+    "24": {
+      "count": 333,
+      "label": "Medication Access: Availability/Cost",
+      "parent": "Adherence, Access & Cost"
+    },
+    "25": {
+      "count": 283,
+      "label": "Preoperative Instructions > Hold/Stop Medication",
+      "parent": "Discontinuation / Hold / Switch"
+    },
+    "26": {
+      "count": 321,
+      "label": "Adverse Drug Reactions \u2014 Allergic/Hypersensitivity & Respiratory Effects",
+      "parent": "Dermatologic / Allergic / Respiratory"
+    },
+    "27": {
+      "count": 88,
+      "label": "Fear of serious illness (cancer/lupus)",
+      "parent": "Status / Miscellaneous"
+    },
+    "28": {
+      "count": 940,
+      "label": "Treatment Completed",
+      "parent": "Status / Miscellaneous"
+    },
+    "29": {
+      "count": 618,
+      "label": "Medication Side Effects",
+      "parent": "Adverse Effects & Safety"
+    },
+    "3": {
+      "count": 132,
+      "label": "Infections \u2014 Fungal",
+      "parent": "Infections"
+    },
+    "30": {
+      "count": 830,
+      "label": "Outcome: Improved",
+      "parent": "Efficacy / Outcome"
+    },
+    "31": {
+      "count": 327,
+      "label": "Lack of Efficacy",
+      "parent": "Efficacy / Outcome"
+    },
+    "32": {
+      "count": 74,
+      "label": "Gastrointestinal Side Effects \u2014 Medication Hold",
+      "parent": "Discontinuation / Hold / Switch"
+    },
+    "33": {
+      "count": 402,
+      "label": "Gastrointestinal Side Effects",
+      "parent": "Gastrointestinal Side Effects"
+    },
+    "34": {
+      "count": 487,
+      "label": "Musculoskeletal \u2014 Myalgia / Muscle Cramps",
+      "parent": "Musculoskeletal"
+    },
+    "35": {
+      "count": 454,
+      "label": "Medications > Current medications",
+      "parent": "Medication Administration & Prescribing"
+    },
+    "36": {
+      "count": 522,
+      "label": "Insurance Coverage/Denial",
+      "parent": "Adherence, Access & Cost"
+    },
+    "37": {
+      "count": 1108,
+      "label": "Medication discontinuation or change",
+      "parent": "Discontinuation / Hold / Switch"
+    },
+    "38": {
+      "count": 83,
+      "label": "Hematologic Conditions: Anemia and Erythrocytosis",
+      "parent": "Hematologic"
+    },
+    "39": {
+      "count": 567,
+      "label": "Medication Side Effects / Adverse Reactions",
+      "parent": "Adverse Effects & Safety"
+    },
+    "4": {
+      "count": 593,
+      "label": "Medication Nonadherence \u2014 Not Taking/Refusing Medication",
+      "parent": "Adherence, Access & Cost"
+    },
+    "40": {
+      "count": 360,
+      "label": "Medication Not Taken \u2014 Patient Refusal / Insurance & Cost Barriers",
+      "parent": "Adherence, Access & Cost"
+    },
+    "41": {
+      "count": 938,
+      "label": "Medication Changes \u2014 Discontinuations/Switches",
+      "parent": "Discontinuation / Hold / Switch"
+    },
+    "42": {
+      "count": 364,
+      "label": "Adverse Effects \u2014 Hypoglycemia and Medication Intolerance",
+      "parent": "Adverse Effects & Safety"
+    },
+    "43": {
+      "count": 317,
+      "label": "Medication Discontinued",
+      "parent": "Discontinuation / Hold / Switch"
+    },
+    "44": {
+      "count": 362,
+      "label": "Medication Nonadherence",
+      "parent": "Adherence, Access & Cost"
+    },
+    "45": {
+      "count": 141,
+      "label": "Ozempic \u2014 Use, Access/Cost, Tolerability, and Dosing",
+      "parent": "Adherence, Access & Cost"
+    },
+    "46": {
+      "count": 466,
+      "label": "Gastrointestinal Side Effects (Nausea/Vomiting)",
+      "parent": "Gastrointestinal Side Effects"
+    },
+    "47": {
+      "count": 284,
+      "label": "Efficacy Issues \u2014 Therapeutic Failure",
+      "parent": "Efficacy / Outcome"
+    },
+    "5": {
+      "count": 1118,
+      "label": "Medication Discontinuation / Nonadherence",
+      "parent": "Adherence, Access & Cost"
+    },
+    "6": {
+      "count": 171,
+      "label": "Prescription Not Transmitted/Printed",
+      "parent": "Medication Administration & Prescribing"
+    },
+    "7": {
+      "count": 327,
+      "label": "Medication Intolerance \u2014 Adverse Effects",
+      "parent": "Adverse Effects & Safety"
+    },
+    "8": {
+      "count": 418,
+      "label": "Adverse effects and medical contraindications",
+      "parent": "Adverse Effects & Safety"
+    },
+    "9": {
+      "count": 279,
+      "label": "Cardiovascular \u2014 Hypotension/Orthostatic Hypotension",
+      "parent": "Cardiovascular and Fluid-related Issues"
+    }
+  },
+  "med_switch_event": {
+    "0": {
+      "count": 926,
+      "label": "Medication Side Effects \u2014 Intolerance/Tolerability",
+      "parent": "Adverse Effects / Intolerance / Allergies"
+    },
+    "1": {
+      "count": 1750,
+      "label": "Diabetes \u2014 Insulin and GLP\u20111 therapy changes",
+      "parent": "Endocrine \u2014 Diabetes & Thyroid"
+    },
+    "10": {
+      "count": 1529,
+      "label": "Cardiovascular \u2014 Antihypertensive intolerance and medication changes",
+      "parent": "Cardiovascular \u2014 Hypertension/Antihypertensive"
+    },
+    "11": {
+      "count": 1582,
+      "label": "Cardiovascular Medications > ARBs (Losartan) \u2014 dose changes, switches, efficacy & adverse effects",
+      "parent": "Cardiovascular \u2014 Hypertension/Antihypertensive"
+    },
+    "12": {
+      "count": 2305,
+      "label": "Medication Changes",
+      "parent": "Medication Changes / Management"
+    },
+    "13": {
+      "count": 3149,
+      "label": "Medication Change/Switch",
+      "parent": "Medication Changes / Management"
+    },
+    "14": {
+      "count": 3177,
+      "label": "Insurance/Formulary Coverage Issues",
+      "parent": "Insurance / Formulary / Cost / Access"
+    },
+    "15": {
+      "count": 845,
+      "label": "Medication Management \u2192 Changes / Prescriptions & Samples",
+      "parent": "Medication Changes / Management"
+    },
+    "16": {
+      "count": 3758,
+      "label": "Medication \u2014 Dose Increase",
+      "parent": "Dose Adjustments / Dosing"
+    },
+    "17": {
+      "count": 3754,
+      "label": "Lipid Management \u2014 Statin initiation/switches",
+      "parent": "Cardiovascular \u2014 Hypertension/Antihypertensive"
+    },
+    "18": {
+      "count": 1482,
+      "label": "High Cost / Financial Barriers",
+      "parent": "Insurance / Formulary / Cost / Access"
+    },
+    "19": {
+      "count": 974,
+      "label": "Antidepressant ineffective or not tolerated (Cymbalta/Duloxetine)",
+      "parent": "Psychiatric / Psychotropic Medications"
+    },
+    "2": {
+      "count": 1217,
+      "label": "Indication: Weight loss and treatment efficacy optimization",
+      "parent": "Endocrine \u2014 Diabetes & Thyroid"
+    },
+    "20": {
+      "count": 1879,
+      "label": "Medications \u2014 Current use and dosing",
+      "parent": "Dose Adjustments / Dosing"
+    },
+    "21": {
+      "count": 1265,
+      "label": "Medication Changes \u2014 Substitution/Alternatives",
+      "parent": "Medication Changes / Management"
+    },
+    "22": {
+      "count": 546,
+      "label": "Sleep Disorders / Insomnia \u2014 Medication Management",
+      "parent": "Psychiatric / Psychotropic Medications"
+    },
+    "23": {
+      "count": 3094,
+      "label": "Medication Management: Change/Switch",
+      "parent": "Medication Changes / Management"
+    },
+    "24": {
+      "count": 1533,
+      "label": "Diabetes \u2014 Uncontrolled; Medication/Regimen Change (Intensification)",
+      "parent": "Endocrine \u2014 Diabetes & Thyroid"
+    },
+    "25": {
+      "count": 1193,
+      "label": "Gastrointestinal: GERD \u2014 Acid\u2011suppression medication management",
+      "parent": "Gastrointestinal Medication Management"
+    },
+    "26": {
+      "count": 2080,
+      "label": "Pain Management / Analgesic Medication Changes",
+      "parent": "Pain / Opioid Management"
+    },
+    "27": {
+      "count": 2480,
+      "label": "Medication Adverse Effects/Allergies",
+      "parent": "Adverse Effects / Intolerance / Allergies"
+    },
+    "28": {
+      "count": 3894,
+      "label": "Medication Problems > Side Effects or Inefficacy > Patient-Requested Medication Change",
+      "parent": "Adverse Effects / Intolerance / Allergies"
+    },
+    "29": {
+      "count": 814,
+      "label": "Adverse Drug Reaction > Gastrointestinal > Metformin intolerance",
+      "parent": "Adverse Effects / Intolerance / Allergies"
+    },
+    "3": {
+      "count": 2322,
+      "label": "Cardiovascular: Hypertension management",
+      "parent": "Cardiovascular \u2014 Hypertension/Antihypertensive"
+    },
+    "30": {
+      "count": 1059,
+      "label": "Endocrine: Thyroid \u2014 Levothyroxine/Synthroid dose adjustment",
+      "parent": "Endocrine \u2014 Diabetes & Thyroid"
+    },
+    "31": {
+      "count": 1979,
+      "label": "Infections \u2014 Antibiotic selection/change and resistance",
+      "parent": "Medication Changes / Management"
+    },
+    "32": {
+      "count": 2533,
+      "label": "Medication Access \u2014 Insurance/Formulary & Supply Issues",
+      "parent": "Insurance / Formulary / Cost / Access"
+    },
+    "33": {
+      "count": 3399,
+      "label": "Medication Management: Drug Intolerance / Medication Switches",
+      "parent": "Adverse Effects / Intolerance / Allergies"
+    },
+    "34": {
+      "count": 1590,
+      "label": "Insurance/Formulary Coverage",
+      "parent": "Insurance / Formulary / Cost / Access"
+    },
+    "35": {
+      "count": 1382,
+      "label": "Medications > Opioids > Change/Restart",
+      "parent": "Pain / Opioid Management"
+    },
+    "36": {
+      "count": 1207,
+      "label": "Medication Adverse Effects & Therapeutic Inefficacy \u2192 Medication Change",
+      "parent": "Adverse Effects / Intolerance / Allergies"
+    },
+    "37": {
+      "count": 996,
+      "label": "Renal Impairment / Chronic Kidney Disease",
+      "parent": "Renal Impairment / CKD Considerations"
+    },
+    "38": {
+      "count": 1806,
+      "label": "Musculoskeletal Side Effects \u2014 Statin-induced Myalgia/Intolerance",
+      "parent": "Adverse Effects / Intolerance / Allergies"
+    },
+    "39": {
+      "count": 2872,
+      "label": "Psychotropic medication changes \u2014 antidepressant/antipsychotic/stimulant",
+      "parent": "Psychiatric / Psychotropic Medications"
+    },
+    "4": {
+      "count": 3634,
+      "label": "Medication Dose Adjustment",
+      "parent": "Dose Adjustments / Dosing"
+    },
+    "40": {
+      "count": 1142,
+      "label": "Medication discontinuation / regimen change",
+      "parent": "Medication Changes / Management"
+    },
+    "41": {
+      "count": 2255,
+      "label": "Cardiovascular \u2014 Antihypertensive medication adverse effects and regimen adjustments",
+      "parent": "Cardiovascular \u2014 Hypertension/Antihypertensive"
+    },
+    "42": {
+      "count": 1490,
+      "label": "Medication changes \u2192 switches/discontinuations (formulary, side effects, efficacy)",
+      "parent": "Medication Changes / Management"
+    },
+    "43": {
+      "count": 656,
+      "label": "Peripheral Edema \u2014 Medication-induced",
+      "parent": "Adverse Effects / Intolerance / Allergies"
+    },
+    "44": {
+      "count": 4584,
+      "label": "Medication changes \u2014 switches, discontinuations, formulary and dose/formulation changes",
+      "parent": "Medication Changes / Management"
+    },
+    "45": {
+      "count": 1543,
+      "label": "Respiratory Side Effects \u2014 ACE Inhibitor\u2013Induced Cough",
+      "parent": "Adverse Effects / Intolerance / Allergies"
+    },
+    "46": {
+      "count": 3261,
+      "label": "Medications \u2014 Dosing/Discontinuation/Formulary/Cost",
+      "parent": "Insurance / Formulary / Cost / Access"
+    },
+    "47": {
+      "count": 1292,
+      "label": "Medication switching/trial \u2014 efficacy, side effects, cost, or patient preference",
+      "parent": "Medication Changes / Management"
+    },
+    "48": {
+      "count": 256,
+      "label": "Therapeutic Failure / Lack of Efficacy",
+      "parent": "Therapeutic Failure / Lack of Effectiveness"
+    },
+    "49": {
+      "count": 1643,
+      "label": "Endocrine: Diabetes \u2014 Medication changes/switches",
+      "parent": "Endocrine \u2014 Diabetes & Thyroid"
+    },
+    "5": {
+      "count": 3801,
+      "label": "Medication Changes > Opioid substitution/rotation",
+      "parent": "Pain / Opioid Management"
+    },
+    "6": {
+      "count": 1317,
+      "label": "Cardiovascular: Antihypertensive medication changes",
+      "parent": "Cardiovascular \u2014 Hypertension/Antihypertensive"
+    },
+    "7": {
+      "count": 56,
+      "label": "Medication Samples Unavailable",
+      "parent": "Samples / Availability"
+    },
+    "8": {
+      "count": 1348,
+      "label": "Insurance coverage / cost barriers",
+      "parent": "Insurance / Formulary / Cost / Access"
+    },
+    "9": {
+      "count": 988,
+      "label": "Lack of Effectiveness",
+      "parent": "Therapeutic Failure / Lack of Effectiveness"
+    }
+  },
+  "med_symptom_event": {
+    "0": {
+      "count": 61,
+      "label": "Musculoskeletal: Back Pain",
+      "parent": "Musculoskeletal"
+    },
+    "1": {
+      "count": 1792,
+      "label": "Adverse Drug Reactions / Side Effects",
+      "parent": "Medication-related adverse events"
+    },
+    "10": {
+      "count": 360,
+      "label": "Respiratory Symptoms \u2014 Cough",
+      "parent": "Respiratory/ENT"
+    },
+    "11": {
+      "count": 581,
+      "label": "ENT / Oral and Throat Symptoms",
+      "parent": "Respiratory/ENT"
+    },
+    "12": {
+      "count": 2461,
+      "label": "No Medication Side Effects",
+      "parent": "Medication-related adverse events"
+    },
+    "13": {
+      "count": 1433,
+      "label": "Neurological Symptoms: Headache",
+      "parent": "Neurologic/Neuropsychiatric"
+    },
+    "14": {
+      "count": 4226,
+      "label": "Gastrointestinal Symptoms: Nausea",
+      "parent": "Gastrointestinal"
+    },
+    "15": {
+      "count": 597,
+      "label": "Neurological \u2014 Tremors",
+      "parent": "Neurologic/Neuropsychiatric"
+    },
+    "16": {
+      "count": 334,
+      "label": "Severe Gastrointestinal Adverse Events",
+      "parent": "Gastrointestinal"
+    },
+    "17": {
+      "count": 471,
+      "label": "Weight Changes \u2014 Weight Gain",
+      "parent": "General/Constitutional"
+    },
+    "18": {
+      "count": 631,
+      "label": "Neurological \u2014 Visual Disturbances & Cognitive Fog/Hallucinations",
+      "parent": "Neurologic/Neuropsychiatric"
+    },
+    "19": {
+      "count": 1127,
+      "label": "Urinary and Renal Disorders",
+      "parent": "Cardiovascular/Fluid/Electrolyte/Renal"
+    },
+    "2": {
+      "count": 2393,
+      "label": "Musculoskeletal Pain / Myalgia",
+      "parent": "Musculoskeletal"
+    },
+    "20": {
+      "count": 1194,
+      "label": "Cardiovascular Adverse Effects",
+      "parent": "Cardiovascular/Fluid/Electrolyte/Renal"
+    },
+    "21": {
+      "count": 625,
+      "label": "Dermatologic Side Effects: Pruritus/Urticaria",
+      "parent": "Dermatologic & Allergic"
+    },
+    "22": {
+      "count": 266,
+      "label": "Psychiatric Side Effects \u2014 Depression and Suicidality",
+      "parent": "Neurologic/Neuropsychiatric"
+    },
+    "23": {
+      "count": 221,
+      "label": "Infections \u2014 Skin/Soft Tissue: Necrotizing Fasciitis",
+      "parent": "Infections"
+    },
+    "24": {
+      "count": 560,
+      "label": "Bleeding and Hemorrhagic Events",
+      "parent": "Bleeding/Hematologic"
+    },
+    "25": {
+      "count": 593,
+      "label": "Allergic/Hypersensitivity Reactions",
+      "parent": "Dermatologic & Allergic"
+    },
+    "26": {
+      "count": 425,
+      "label": "General/Constitutional Side Effects \u2014 Malaise/Feeling Unwell & Taste Changes",
+      "parent": "General/Constitutional"
+    },
+    "27": {
+      "count": 837,
+      "label": "Gastrointestinal: Constipation",
+      "parent": "Gastrointestinal"
+    },
+    "28": {
+      "count": 505,
+      "label": "Lack of Efficacy (Ineffective Treatment)",
+      "parent": "Medication-related adverse events"
+    },
+    "29": {
+      "count": 905,
+      "label": "Neuropsychiatric Side Effects",
+      "parent": "Neurologic/Neuropsychiatric"
+    },
+    "3": {
+      "count": 1785,
+      "label": "Sleep-related Side Effects",
+      "parent": "Medication-related adverse events"
+    },
+    "30": {
+      "count": 750,
+      "label": "Metabolic/Endocrine Side Effects \u2014 Hyperglycemia/DKA and Hepatic Injury",
+      "parent": "Endocrine/Metabolic"
+    },
+    "31": {
+      "count": 366,
+      "label": "Medication Safety Risks / Serious Adverse Events",
+      "parent": "Medication-related adverse events"
+    },
+    "32": {
+      "count": 716,
+      "label": "Medication intolerance",
+      "parent": "Medication-related adverse events"
+    },
+    "33": {
+      "count": 468,
+      "label": "Gastrointestinal \u2014 Reflux/GERD (Heartburn)",
+      "parent": "Gastrointestinal"
+    },
+    "34": {
+      "count": 279,
+      "label": "Edema/Swelling (including angioedema)",
+      "parent": "Cardiovascular/Fluid/Electrolyte/Renal"
+    },
+    "35": {
+      "count": 2156,
+      "label": "Gastrointestinal Side Effects",
+      "parent": "Gastrointestinal"
+    },
+    "36": {
+      "count": 1376,
+      "label": "Cardiac - Palpitations/Arrhythmia",
+      "parent": "Cardiovascular/Fluid/Electrolyte/Renal"
+    },
+    "37": {
+      "count": 1500,
+      "label": "Neurologic Side Effects \u2014 Dizziness/Vertigo/Lightheadedness",
+      "parent": "Neurologic/Neuropsychiatric"
+    },
+    "38": {
+      "count": 762,
+      "label": "Gastrointestinal Symptoms - Abdominal Pain/Bloating",
+      "parent": "Gastrointestinal"
+    },
+    "39": {
+      "count": 2187,
+      "label": "Gastrointestinal: Nausea and Vomiting",
+      "parent": "Gastrointestinal"
+    },
+    "4": {
+      "count": 7398,
+      "label": "Medication Side Effects",
+      "parent": "Medication-related adverse events"
+    },
+    "40": {
+      "count": 529,
+      "label": "Dermatologic Reactions",
+      "parent": "Dermatologic & Allergic"
+    },
+    "41": {
+      "count": 536,
+      "label": "Fatigue and Low Energy",
+      "parent": "General/Constitutional"
+    },
+    "42": {
+      "count": 667,
+      "label": "Neurologic: Paresthesia / Peripheral Neuropathy",
+      "parent": "Neurologic/Neuropsychiatric"
+    },
+    "43": {
+      "count": 342,
+      "label": "Fungal Infections \u2014 Candidiasis (Yeast Infections)",
+      "parent": "Infections"
+    },
+    "44": {
+      "count": 1235,
+      "label": "Medication Side Effects \u2014 None Reported",
+      "parent": "Medication-related adverse events"
+    },
+    "45": {
+      "count": 580,
+      "label": "Cardiovascular, Renal, and Electrolyte Effects",
+      "parent": "Cardiovascular/Fluid/Electrolyte/Renal"
+    },
+    "46": {
+      "count": 1233,
+      "label": "Medication Misuse, Dependence, and Adverse Effects",
+      "parent": "Medication-related adverse events"
+    },
+    "47": {
+      "count": 1701,
+      "label": "Gastrointestinal Side Effects",
+      "parent": "Gastrointestinal"
+    },
+    "48": {
+      "count": 1069,
+      "label": "Appetite, Weight, and Taste Alterations",
+      "parent": "General/Constitutional"
+    },
+    "5": {
+      "count": 886,
+      "label": "Endocrine \u2014 Hypoglycemia (Low Blood Sugar)",
+      "parent": "Endocrine/Metabolic"
+    },
+    "6": {
+      "count": 455,
+      "label": "Infections \u2014 Mycotic (Fungal)",
+      "parent": "Infections"
+    },
+    "7": {
+      "count": 724,
+      "label": "Gastrointestinal \u2014 Symptoms/Side Effects",
+      "parent": "Gastrointestinal"
+    },
+    "8": {
+      "count": 155,
+      "label": "Temperature Intolerance",
+      "parent": "General/Constitutional"
+    },
+    "9": {
+      "count": 508,
+      "label": "Peripheral Edema / Lower Extremity Swelling",
+      "parent": "Cardiovascular/Fluid/Electrolyte/Renal"
+    }
+  }
+}

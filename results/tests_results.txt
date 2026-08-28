@@ -1,0 +1,15 @@
+test_annotation_count (test_experiment3.TestGoldParser.test_annotation_count) ... ok
+test_document_count (test_experiment3.TestGoldParser.test_document_count) ... ok
+test_documents_with_no_annotations_are_retained (test_experiment3.TestGoldParser.test_documents_with_no_annotations_are_retained) ... ok
+test_every_annotation_carries_an_hpo_id (test_experiment3.TestGoldParser.test_every_annotation_carries_an_hpo_id) ... ok
+test_first_annotation_is_retained (test_experiment3.TestGoldParser.test_first_annotation_is_retained) ... ok
+test_generic_token_alone_does_not_match (test_experiment3.TestMatcherAcceptsVariants.test_generic_token_alone_does_not_match) ... ok
+test_variants_are_accepted (test_experiment3.TestMatcherAcceptsVariants.test_variants_are_accepted) ... ok
+test_opposites_are_rejected (test_experiment3.TestMatcherRejectsOpposites.test_opposites_are_rejected) ... ok
+test_invalid_phenotypes_are_dropped (test_experiment3.TestValidityFilter.test_invalid_phenotypes_are_dropped) ... ok
+test_valid_phenotypes_are_kept (test_experiment3.TestValidityFilter.test_valid_phenotypes_are_kept) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.003s
+
+OK

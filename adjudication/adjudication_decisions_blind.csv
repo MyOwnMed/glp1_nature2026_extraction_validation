@@ -1,0 +1,38 @@
+visit_num,section,finding_index,finding,reviewerA,A_verdict,A_reason,reviewerB,B_verdict,B_reason,adjudication,timestamp
+28,assessment_status,11,Refractive axis,PhysicianA,correct,,physicianB,incorrect,unable to verify this value as refractive axis,PhysicianA,2026-07-01T16:38:48.432Z
+28,assessment_status,12,Refractive axis,PhysicianA,correct,,physicianB,incorrect,unable to verify this value as refractive axis,PhysicianA,2026-07-01T16:38:59.160Z
+30,assessment_status,4,Urine blood (dipstick),physicianB,incorrect,"Unclear what ""WARD"" represents",PhysicianA,correct,,PhysicianA,2026-07-01T16:40:07.486Z
+11,medications,4,Blood pressure monitor,PhysicianA,incorrect,Not a med,physicianB,correct,,PhysicianA,2026-07-01T16:40:50.923Z
+11,medications,9,Medical marijuana,PhysicianA,correct,Not current,physicianB,incorrect,Medication name is redacted. ,PhysicianA,2026-07-01T16:41:08.178Z
+11,medications,38,REDACTED 4% Topical Cream,physicianB,incorrect,Medication name redacted.,PhysicianA,correct,,PhysicianA,2026-07-01T16:41:23.036Z
+11,medications,39,REDACTED Ophthalmic Drops,physicianB,incorrect,Medication name redacted.,PhysicianA,correct,,PhysicianA,2026-07-01T16:41:38.457Z
+11,medications,44,Neomycin / Polymyxin B / Dexamethasone Ophthalmic Suspension,PhysicianA,correct,,physicianB,incorrect,"dose missing: 3.5mg-10,000units-1mg/ml",PhysicianA,2026-07-01T16:44:08.028Z
+11,medications,52,Promethazine / Dextromethorphan Oral Syrup,physicianB,incorrect,Dose missing 6.25mg-15mg/5ml,PhysicianA,correct,,PhysicianA,2026-07-01T16:43:17.410Z
+11,medications,56,REDACTED 500 MG Extended Release Oral Tablet,PhysicianA,correct,Not a med,physicianB,incorrect,Medication name redacted,PhysicianA,2026-07-01T16:49:31.039Z
+11,medications,63,REDACTED Ophthalmic Solution,PhysicianA,correct,,physicianB,incorrect,Medication name redacted,PhysicianA,2026-07-01T16:51:48.347Z
+13,medications,0,Levonorgestrel 52 MG Intrauterine Device [Mirena],PhysicianA,correct,,physicianB,incorrect,Unclear in note whether this medication was prescribed,PhysicianA,2026-07-01T16:55:26.435Z
+14,medications,4,Semaglutide Subcutaneous [Ozempic],physicianB,incorrect,Dose missing: 0.25mg,PhysicianA,correct,,PhysicianA,2026-07-01T16:56:08.730Z
+14,medications,5,Gabapentin Oral Capsule,physicianB,incorrect,Dose missing: 400mg,PhysicianA,correct,,PhysicianA,2026-07-01T16:57:24.456Z
+14,medications,6,Rosuvastatin Oral Tablet [Crestor],PhysicianA,correct,,physicianB,incorrect,Dose missing: 10mg,PhysicianA,2026-07-01T16:58:22.927Z
+14,medications,15,Liraglutide Subcutaneous Injection [Victoza],physicianB,incorrect,Dose missing: 1.2mcg,PhysicianA,correct,,PhysicianA,2026-07-01T17:04:27.708Z
+21,medications,6,Omega-3 Fatty Acids Oral Product,PhysicianA,correct,,physicianB,incorrect,Unclear what Arcadia-3 is,PhysicianA,2026-07-01T17:10:28.865Z
+21,medications,8,Cholecalciferol Oral Product,PhysicianA,correct,,physicianB,incorrect,Unclear what is meant by vitamin d rediscovery and not certain it's a med,PhysicianA,2026-07-01T17:11:33.566Z
+22,medications,31,Blood glucose meter kit,physicianB,correct,,PhysicianA,incorrect,Not a med,physicianB,2026-07-01T17:17:49.072Z
+22,medications,32,Syringe,PhysicianA,incorrect,Not a med,physicianB,correct,,physicianB,2026-07-01T17:18:35.832Z
+22,medications,33,Unknown medication (REDACTED) 50 mg-325 mg-40 mg-30 mg Oral Capsule,physicianB,correct,,PhysicianA,incorrect,Not a med (incomplete),physicianB,2026-07-01T17:18:59.107Z
+22,medications,34,Unknown medication (REDACTED) External Paste,physicianB,correct,,PhysicianA,incorrect,Not a med (incomplete),physicianB,2026-07-01T17:19:14.320Z
+22,medications,36,Unknown medication [Remedy] (REDACTED) Cream,physicianB,correct,,PhysicianA,incorrect,Not a med (incomplete),physicianB,2026-07-01T17:19:23.214Z
+26,medications,6,Continuous glucose monitoring system device,PhysicianA,incorrect,Not a med,physicianB,correct,,physicianB,2026-07-01T17:19:41.040Z
+26,medications,7,Freestyle Libre reader device,PhysicianA,incorrect,Not a med,physicianB,correct,,physicianB,2026-07-01T17:19:50.836Z
+26,medications,8,Freestyle Libre sensor,PhysicianA,incorrect,Not a med,physicianB,correct,,physicianB,2026-07-01T17:19:59.570Z
+26,medications,9,Blood glucose test strip,PhysicianA,incorrect,Not a med,physicianB,correct,,physicianB,2026-07-01T17:20:04.686Z
+26,medications,10,Pen needle device,physicianB,correct,,PhysicianA,incorrect,Not a med (incomplete),physicianB,2026-07-01T17:20:10.060Z
+28,medications,0,Intravitreal injection (unspecified drug),PhysicianA,incorrect,Not a med (incomplete),physicianB,correct,,physicianB,2026-07-01T17:20:22.670Z
+30,medications,11,Blood Pressure Monitoring Kit,physicianB,correct,,PhysicianA,incorrect,Not a med,physicianB,2026-07-01T17:20:32.349Z
+30,medications,17,Clotrimazole 10 MG/GM / Betamethasone Dipropionate 0.5 MG/GM Topical Cream,physicianB,incorrect,clotrimazole 1% and betamethasone 0.05%,PhysicianA,correct,,PhysicianA,2026-07-01T17:20:44.786Z
+30,medications,26,Ketoconazole 20 MG/ML Shampoo,physicianB,incorrect,Ketconazole 2%,PhysicianA,correct,,PhysicianA,2026-07-01T17:22:12.983Z
+11,phenotypes,4,Hyperpigmentation,PhysicianA,correct,,physicianB,incorrect,Color change is unspecified and unable to verity if hyper pigmented,physicianB,2026-07-01T17:23:09.432Z
+14,phenotypes,7,Hypoxemia,physicianB,incorrect,Current level does not meet threshold for hypoxia,PhysicianA,correct,,PhysicianA,2026-07-01T17:23:43.480Z
+19,phenotypes,10,Obesity,PhysicianA,incorrect,Negation error,physicianB,correct,,physicianB,2026-07-01T17:24:57.196Z
+26,phenotypes,7,Elevated alanine aminotransferase,PhysicianA,correct,,physicianB,incorrect,Not elevated in this highlighted portion,PhysicianA,2026-07-01T17:26:57.358Z
+30,phenotypes,16,Respiratory distress,PhysicianA,correct,,physicianB,incorrect,No general distress,physicianB,2026-07-01T17:30:00.252Z

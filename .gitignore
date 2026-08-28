@@ -1,0 +1,72 @@
+# ---------------------------------------------------------------------------
+# NOTE ON SCOPE, PLEASE READ BEFORE EDITING
+#
+# This is NOT a copy of the Part II .gitignore. Part II excludes data/, *.tsv,
+# *.json and *.png because its inputs are licensed patient records that must
+# never be committed. Part I is the opposite case: its data/ directory holds the
+# evaluation inputs the paper's validation results are computed from, and those
+# files ARE the release. Blanket data patterns would silently exclude the entire
+# point of this repository.
+#
+# What must never be committed here is raw clinical note text. No file in this
+# package contains any, and nothing in the pipeline writes any. The patterns
+# below cover the accidents that are actually possible.
+# ---------------------------------------------------------------------------
+
+# Clinical note text and cohort extracts. Nothing matching these may ever be
+# committed. Names are conservative and deliberately broad.
+*note*.csv
+*notes*.csv
+*_raw_notes*
+*cohort*.csv
+*patient*.csv
+*phi*
+root_data/
+extracts/
+
+# ---------------------------------------------------------------------------
+# Large regenerable inputs
+# The ontology and the benchmark corpus are third-party redistributions; if a
+# future version of this repository replaces them with a download script,
+# uncomment these two lines.
+# ---------------------------------------------------------------------------
+# data/hp.obo
+# data/phenotype.hpoa
+
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ---------------------------------------------------------------------------
+# Editors and operating systems
+# ---------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---------------------------------------------------------------------------
+# Credentials. Belt and braces; none are used by this code.
+# ---------------------------------------------------------------------------
+.env
+.env.*
+*.pem
+*.key
+secrets.*

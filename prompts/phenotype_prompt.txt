@@ -1,0 +1,181 @@
+SYSTEM_MSG = "You are an expert medical AI analyzing clinical notes for phenotype information."
+
+DOMAIN_INSTRUCTIONS = """\
+Look for Human Phenotype Ontology (HPO) terms and provide the name or synonym \
+that best matches the described phenotype.
+Each term in the HPO describes a phenotypic abnormality, such as Atrial septal defect.
+If possible (and if it adequately matches the source) extract the name as it \
+might be referred to in HPO.
+
+For each phenotype, assess:
+- severity (mild, moderate, severe) — leave null if not specified.
+- clinical_status — active, resolved, improving, worsening, stable, or unknown.
+  * "edema improving on diuretics" → clinical_status: "improving"
+  * "history of seizures, now resolved" → clinical_status: "resolved"
+- certainty — confirmed, suspected, possible, or ruled_out.
+  * "possible sleep apnea" → certainty: "suspected"
+  * "denies edema" → negated: true, certainty: "confirmed"
+
+Focus on observable clinical signs and phenotypic abnormalities — leave disease \
+diagnoses to the disease status extractor.
+
+For each finding, ALWAYS structure them as objects with the "name" field \
+to ensure compatibility with our medical concept mapping system."""
+
+
+def _full_prompt(notes: str, visit_date: Optional[str] = None) -> str:
+    vd = f"The current visit date is {visit_date}." if visit_date else ""
+    return f"""\
+Analyze the following clinical notes and extract phenotype information.
+{vd}
+
+{TEMPORAL_INSTRUCTIONS}
+
+{DOMAIN_INSTRUCTIONS}
+
+{NEGATION_INSTRUCTIONS}
+
+{DETAILS_INSTRUCTIONS}
+
+Notes:
+{notes}
+
+Return ONLY valid JSON with this EXACT structure:
+{{
+  "phenotypes": {{
+    "mentioned": true|false,
+    "findings": [
+      {{
+{COMMON_FINDING_SCHEMA_BLOCK},
+        "severity": "mild|moderate|severe"|null,
+        "clinical_status": "active|resolved|improving|worsening|stable|unknown",
+        "certainty": "confirmed|suspected|possible|ruled_out"
+      }}
+    ]
+  }},
+  "token_usage": {{
+    "input_tokens": 0,
+    "output_tokens": 0
+  }}
+}}"""
+
+
+def _differential_prompt(
+    notes: str,
+    prior_json: str,
+    visit_date: Optional[str] = None,
+) -> str:
+    vd = f"The current visit date is {visit_date}." if visit_date else ""
+    return f"""\
+Analyze the current clinical notes and compare with the previous extraction to identify ONLY what changed.
+
+{vd}
+
+IMPORTANT CONTEXT:
+The "PREVIOUS EXTRACTION" below was extracted from the [Visit 1 Prior] (and earlier) sections in the notes.
+Those prior sections are included inside the CURRENT NOTES for reference.
+Your task is to evaluate only what is NEW or UPDATED in the [Current Visit] section.
+
+PREVIOUS EXTRACTION FROM PRIOR VISITS:
+{prior_json}
+
+CURRENT NOTES (contains [Visit 1 Prior] sections for reference AND the [Current Visit] section to analyze):
+{notes}
+
+EXTRACTION GUIDELINES:
+{TEMPORAL_INSTRUCTIONS}
+
+{DOMAIN_INSTRUCTIONS}
+
+{NEGATION_INSTRUCTIONS}
+
+{DETAILS_INSTRUCTIONS}
+
+{differential_instructions("phenotype")}
+
+Return ONLY valid JSON with this EXACT structure:
+{{
+  "phenotypes": {{
+    "mentioned": true|false,
+    "removed": ["phenotype_name_1", "phenotype_name_2"],
+    "added": [
+      {{
+{COMMON_FINDING_SCHEMA_BLOCK},
+        "severity": "mild|moderate|severe"|null,
+        "clinical_status": "active|resolved|improving|worsening|stable|unknown",
+        "certainty": "confirmed|suspected|possible|ruled_out"
+      }}
+    ],
+    "modified": [
+      {{
+{COMMON_FINDING_SCHEMA_BLOCK},
+        "severity": "mild|moderate|severe"|null,
+        "clinical_status": "active|resolved|improving|worsening|stable|unknown",
+        "certainty": "confirmed|suspected|possible|ruled_out"
+      }}
+    ]
+  }},
+  "token_usage": {{
+    "input_tokens": 0,
+    "output_tokens": 0
+  }}
+}}
+
+NOTE: The "removed" field should contain an array of phenotype NAME STRINGS (not objects)."""
+
+
+# ── Standardisation ───────────────────────────────────────────────────
+
+def _standardize(data: Dict[str, Any]) -> Dict[str, Any]:
+    section = data.get(SECTION_KEY, {})
+
+    # mentioned → bool
+    mentioned = section.get("mentioned")
+    if isinstance(mentioned, str):
+        section["mentioned"] = mentioned.lower() in ("true", "yes")
+    elif mentioned is None:
+        section["mentioned"] = False
+
+    # ensure findings list
+    if ITEMS_KEY not in section:
+        section[ITEMS_KEY] = []
+    elif not isinstance(section[ITEMS_KEY], list):
+        section[ITEMS_KEY] = [section[ITEMS_KEY]]
+
+    for i, f in enumerate(section[ITEMS_KEY]):
+        if isinstance(f, str):
+            section[ITEMS_KEY][i] = {"name": f}
+            f = section[ITEMS_KEY][i]
+
+        # Map legacy field names
+        if "phenotype" in f and "name" not in f:
+            f["name"] = f.pop("phenotype")
+        # Map old "status" (which was severity) → severity
+        if "status" in f and f.get("severity") is None:
+            old_status = str(f.pop("status", "")).lower()
+            if old_status in ("mild", "moderate", "severe"):
+                f["severity"] = old_status
+
+        # Apply common standardisation
+        standardize_common_fields(f)
+
+        # Tag for HPO postprocessor
+        f["phenotype"] = True
+
+        # Fallback atomic_statement
+        if "atomic_statement" not in f and not f.get("carry_forward"):
+            name = f["name"]
+            if f["negated"]:
+                f["atomic_statement"] = f"The patient does not have {name} — it was explicitly denied or absent."
+            elif f.get("severity"):
+                f["atomic_statement"] = (
+                    f"The patient presents with {name}, assessed as {f['severity']} severity"
+                    f" (clinical status: {f['clinical_status']})."
+                )
+            elif f["clinical_status"] != "unknown":
+                f["atomic_statement"] = f"The patient has {name} (clinical status: {f['clinical_status']})."
+            else:
+                f["atomic_statement"] = f"The patient has {name}."
+
+    data[SECTION_KEY] = section
+    return data

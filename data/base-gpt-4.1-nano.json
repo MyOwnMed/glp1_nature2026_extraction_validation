@@ -1,0 +1,4933 @@
+{
+  "10196695": [],
+  "10417280": [],
+  "1003450": [
+    {
+      "name": "brachydactyly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "A syndrome of brachydactyly (absence of some middle or distal phalanges)",
+      "negation": false,
+      "hpo_matched_name": "Brachydactyly",
+      "atomic_statement": "presence of brachydactyly"
+    },
+    {
+      "name": "onychodysplasia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "aplastic or hypoplastic nails",
+      "negation": false,
+      "hpo_matched_name": "Onychodysplasia",
+      "atomic_statement": "presence of onychodysplasia (aplastic or hypoplastic nails)"
+    },
+    {
+      "name": "symphalangism",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "symphalangism (ankylosis of proximal interphalangeal joints)",
+      "negation": false,
+      "hpo_matched_name": "Symphalangism",
+      "atomic_statement": "presence of symphalangism (ankylosis of proximal interphalangeal joints)"
+    },
+    {
+      "name": "carpal bone fusion",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "synostosis of some carpal and tarsal bones",
+      "negation": false,
+      "hpo_matched_name": "Carpal bone fusion",
+      "atomic_statement": "presence of synostosis of some carpal bones"
+    },
+    {
+      "name": "craniosynostosis",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "craniosynostosis",
+      "negation": false,
+      "hpo_matched_name": "Craniosynostosis",
+      "atomic_statement": "presence of craniosynostosis"
+    },
+    {
+      "name": "hip dysplasia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "dysplastic hip joints",
+      "negation": false,
+      "hpo_matched_name": "Hip dysplasia",
+      "atomic_statement": "presence of dysplastic hip joints"
+    }
+  ],
+  "10051003": [
+    {
+      "name": "external ear anomaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Major findings include external ear anomalies",
+      "negation": false,
+      "hpo_matched_name": "Abnormality of the external ear",
+      "atomic_statement": "external ear anomalies"
+    },
+    {
+      "name": "hearing loss",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Major findings include hearing loss",
+      "negation": false,
+      "hpo_matched_name": "Hearing impairment",
+      "atomic_statement": "hearing loss"
+    },
+    {
+      "name": "preaxial polydactyly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Major findings include preaxial polydactyly",
+      "negation": false,
+      "hpo_matched_name": "Preaxial polydactyly",
+      "atomic_statement": "preaxial polydactyly"
+    },
+    {
+      "name": "triphalangeal thumbs",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Major findings include triphalangeal thumbs",
+      "negation": false,
+      "hpo_matched_name": "Triphalangeal thumb",
+      "atomic_statement": "triphalangeal thumbs"
+    },
+    {
+      "name": "imperforate anus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Major findings include imperforate anus",
+      "negation": false,
+      "hpo_matched_name": "Imperforate anus",
+      "atomic_statement": "imperforate anus"
+    },
+    {
+      "name": "renal malformation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Major findings include renal malformations",
+      "negation": false,
+      "hpo_matched_name": "Abnormal kidney morphology",
+      "atomic_statement": "renal malformations"
+    },
+    {
+      "name": "mental retardation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Most patients with Townes-Brocks syndrome have normal intelligence, although mental retardation has been noted in a few",
+      "negation": true,
+      "hpo_matched_name": "Intellectual disability",
+      "atomic_statement": "mental retardation"
+    }
+  ],
+  "10066029": [
+    {
+      "name": "nevoid basal cell carcinoma syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Nevoid basal cell carcinoma syndrome (NBCCS) is a hereditary condition transmitted as an autosomal dominant trait with complete penetrance and variable expressivity.",
+      "negation": false,
+      "hpo_matched_name": "nevoid basal cell carcinoma syndrome",
+      "atomic_statement": "Nevoid basal cell carcinoma syndrome (NBCCS) is a hereditary condition transmitted as an autosomal dominant trait with complete penetrance and variable expressivity."
+    },
+    {
+      "name": "basal cell carcinoma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The syndrome is characterised by numerous basal cell carcinomas (BCCs).",
+      "negation": false,
+      "hpo_matched_name": "basal cell carcinoma",
+      "atomic_statement": "The syndrome is characterised by numerous basal cell carcinomas (BCCs)."
+    },
+    {
+      "name": "odontogenic keratocyst",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The syndrome is characterised by odontogenic keratocysts of the jaws.",
+      "negation": false,
+      "hpo_matched_name": "odontogenic keratocyst",
+      "atomic_statement": "The syndrome is characterised by odontogenic keratocysts of the jaws."
+    },
+    {
+      "name": "palmar pits",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The syndrome is characterised by palmar and/or plantar pits.",
+      "negation": false,
+      "hpo_matched_name": "palmar pits",
+      "atomic_statement": "The syndrome is characterised by palmar and/or plantar pits."
+    },
+    {
+      "name": "plantar pits",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The syndrome is characterised by palmar and/or plantar pits.",
+      "negation": false,
+      "hpo_matched_name": "plantar pits",
+      "atomic_statement": "The syndrome is characterised by palmar and/or plantar pits."
+    },
+    {
+      "name": "skeletal abnormalities",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The syndrome is characterised by skeletal abnormalities.",
+      "negation": false,
+      "hpo_matched_name": "skeletal abnormality",
+      "atomic_statement": "The syndrome is characterised by skeletal abnormalities."
+    },
+    {
+      "name": "intracranial calcifications",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The syndrome is characterised by intracranial calcifications.",
+      "negation": false,
+      "hpo_matched_name": "intracranial calcification",
+      "atomic_statement": "The syndrome is characterised by intracranial calcifications."
+    }
+  ],
+  "10440824": [],
+  "10712204": [],
+  "10482951": [
+    {
+      "name": "severe mental retardation",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "The clinical features of Angelman syndrome (AS) comprise severe mental retardation",
+      "negation": false,
+      "hpo_matched_name": "mental retardation",
+      "atomic_statement": "severe mental retardation"
+    },
+    {
+      "name": "microcephaly",
+      "status": "postnatal",
+      "is_new_information": true,
+      "details": "postnatal microcephaly",
+      "negation": false,
+      "hpo_matched_name": "microcephaly",
+      "atomic_statement": "postnatal microcephaly"
+    },
+    {
+      "name": "macrostomia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "macrostomia",
+      "negation": false,
+      "hpo_matched_name": "macrostomia",
+      "atomic_statement": "macrostomia"
+    },
+    {
+      "name": "prognathia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "prognathia",
+      "negation": false,
+      "hpo_matched_name": "prognathia",
+      "atomic_statement": "prognathia"
+    },
+    {
+      "name": "absence of speech",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "absence of speech",
+      "negation": false,
+      "hpo_matched_name": "absent speech",
+      "atomic_statement": "absence of speech"
+    },
+    {
+      "name": "ataxia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "ataxia",
+      "negation": false,
+      "hpo_matched_name": "ataxia",
+      "atomic_statement": "ataxia"
+    },
+    {
+      "name": "obesity",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "presented with obesity",
+      "negation": false,
+      "hpo_matched_name": "obesity",
+      "atomic_statement": "obesity"
+    },
+    {
+      "name": "muscular hypotonia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "muscular hypotonia",
+      "negation": false,
+      "hpo_matched_name": "hypotonia",
+      "atomic_statement": "muscular hypotonia"
+    },
+    {
+      "name": "mild mental retardation",
+      "status": "mild",
+      "is_new_information": true,
+      "details": "mild mental retardation",
+      "negation": false,
+      "hpo_matched_name": "mental retardation",
+      "atomic_statement": "mild mental retardation"
+    }
+  ],
+  "10569966": [],
+  "10771486": [],
+  "10982040": [],
+  "10593995": [
+    {
+      "name": "popliteal webbing",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The main clinical manifestations are popliteal webbing, cleft lip, cleft palate, lower lip pits, syndactyly, and genital and nail anomalies.",
+      "negation": false,
+      "hpo_matched_name": "popliteal webbing",
+      "atomic_statement": "popliteal webbing"
+    },
+    {
+      "name": "cleft lip",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The main clinical manifestations are popliteal webbing, cleft lip, cleft palate, lower lip pits, syndactyly, and genital and nail anomalies.",
+      "negation": false,
+      "hpo_matched_name": "cleft lip",
+      "atomic_statement": "cleft lip"
+    },
+    {
+      "name": "cleft palate",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The main clinical manifestations are popliteal webbing, cleft lip, cleft palate, lower lip pits, syndactyly, and genital and nail anomalies.",
+      "negation": false,
+      "hpo_matched_name": "cleft palate",
+      "atomic_statement": "cleft palate"
+    },
+    {
+      "name": "lower lip pits",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The main clinical manifestations are popliteal webbing, cleft lip, cleft palate, lower lip pits, syndactyly, and genital and nail anomalies.",
+      "negation": false,
+      "hpo_matched_name": "lower lip pits",
+      "atomic_statement": "lower lip pits"
+    },
+    {
+      "name": "syndactyly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The main clinical manifestations are popliteal webbing, cleft lip, cleft palate, lower lip pits, syndactyly, and genital and nail anomalies.",
+      "negation": false,
+      "hpo_matched_name": "syndactyly",
+      "atomic_statement": "syndactyly"
+    },
+    {
+      "name": "genital anomalies",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The main clinical manifestations are popliteal webbing, cleft lip, cleft palate, lower lip pits, syndactyly, and genital and nail anomalies.",
+      "negation": false,
+      "hpo_matched_name": "genital anomalies",
+      "atomic_statement": "genital anomalies"
+    },
+    {
+      "name": "nail anomalies",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The main clinical manifestations are popliteal webbing, cleft lip, cleft palate, lower lip pits, syndactyly, and genital and nail anomalies.",
+      "negation": false,
+      "hpo_matched_name": "nail anomalies",
+      "atomic_statement": "nail anomalies"
+    }
+  ],
+  "1110452": [],
+  "10631923": [
+    {
+      "name": "imperforate anus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Case 1 was operated on for imperforate anus.",
+      "negation": false,
+      "hpo_matched_name": "imperforate anus",
+      "atomic_statement": "imperforate anus"
+    },
+    {
+      "name": "triphalangeal thumb",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Triphalangeal thumb and ear anomalies were remarkable.",
+      "negation": false,
+      "hpo_matched_name": "triphalangeal thumb",
+      "atomic_statement": "triphalangeal thumb"
+    },
+    {
+      "name": "ear anomalies",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Triphalangeal thumb and ear anomalies were remarkable.",
+      "negation": false,
+      "hpo_matched_name": "ear anomaly",
+      "atomic_statement": "ear anomalies"
+    },
+    {
+      "name": "deafness",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Deafness was diagnosed when the patient was 6 months old.",
+      "negation": false,
+      "hpo_matched_name": "deafness",
+      "atomic_statement": "deafness"
+    },
+    {
+      "name": "anomalies of the semicircular canals",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Anomalies of the semicircular canals and the incus with inculomalleolar fusion were shown when the patient was 3.5 years old.",
+      "negation": false,
+      "hpo_matched_name": "abnormal semicircular canals",
+      "atomic_statement": "anomalies of the semicircular canals"
+    },
+    {
+      "name": "anomalies of the incus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Anomalies of the semicircular canals and the incus with inculomalleolar fusion were shown when the patient was 3.5 years old.",
+      "negation": false,
+      "hpo_matched_name": "abnormal incus",
+      "atomic_statement": "anomalies of the incus"
+    },
+    {
+      "name": "inculomalleolar fusion",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Anomalies of the semicircular canals and the incus with inculomalleolar fusion were shown when the patient was 3.5 years old.",
+      "negation": false,
+      "hpo_matched_name": "abnormal incus",
+      "atomic_statement": "inculomalleolar fusion"
+    },
+    {
+      "name": "recurrent episodes of abdominal pain",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "During childhood, recurrent episodes of abdominal pain appeared.",
+      "negation": false,
+      "hpo_matched_name": "recurrent abdominal pain",
+      "atomic_statement": "recurrent episodes of abdominal pain"
+    },
+    {
+      "name": "hereditary angioneurotic edema",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The diagnosis of hereditary angioneurotic edema (HANE) was made.",
+      "negation": false,
+      "hpo_matched_name": "hereditary angioneurotic edema",
+      "atomic_statement": "hereditary angioneurotic edema"
+    },
+    {
+      "name": "mild intellectual disability",
+      "status": "mild",
+      "is_new_information": true,
+      "details": "The parents of case 2, a female, are both mildly mentally retarded.",
+      "negation": false,
+      "hpo_matched_name": "mild intellectual disability",
+      "atomic_statement": "mild intellectual disability"
+    },
+    {
+      "name": "short stature",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The mother had short stature.",
+      "negation": false,
+      "hpo_matched_name": "short stature",
+      "atomic_statement": "short stature"
+    },
+    {
+      "name": "antepositioned anus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The child had an antepositioned anus.",
+      "negation": false,
+      "hpo_matched_name": "antepositioned anus",
+      "atomic_statement": "antepositioned anus"
+    },
+    {
+      "name": "bifid right thumb",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The child had ... bifid right thumb.",
+      "negation": false,
+      "hpo_matched_name": "bifid thumb",
+      "atomic_statement": "bifid right thumb"
+    },
+    {
+      "name": "large toes",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The child had ... large toes.",
+      "negation": false,
+      "hpo_matched_name": "large toes",
+      "atomic_statement": "large toes"
+    },
+    {
+      "name": "low set ears",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The child had ... low set ears.",
+      "negation": false,
+      "hpo_matched_name": "low set ears",
+      "atomic_statement": "low set ears"
+    },
+    {
+      "name": "microretrognathia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The child had ... microretrognathia.",
+      "negation": false,
+      "hpo_matched_name": "microretrognathia",
+      "atomic_statement": "microretrognathia"
+    },
+    {
+      "name": "deafness",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The child had ... deafness.",
+      "negation": false,
+      "hpo_matched_name": "deafness",
+      "atomic_statement": "deafness"
+    }
+  ],
+  "10767004": [
+    {
+      "name": "craniofacial anomaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "In addition to craniofacial, auricular, ophthalmologic, and oral anomalies",
+      "negation": false,
+      "hpo_matched_name": "craniofacial abnormality",
+      "atomic_statement": "craniofacial anomaly"
+    },
+    {
+      "name": "auricular anomaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "In addition to craniofacial, auricular, ophthalmologic, and oral anomalies",
+      "negation": false,
+      "hpo_matched_name": "auricular abnormality",
+      "atomic_statement": "auricular anomaly"
+    },
+    {
+      "name": "ophthalmologic anomaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "In addition to craniofacial, auricular, ophthalmologic, and oral anomalies",
+      "negation": false,
+      "hpo_matched_name": "abnormality of the eye",
+      "atomic_statement": "ophthalmologic anomaly"
+    },
+    {
+      "name": "oral anomaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "In addition to craniofacial, auricular, ophthalmologic, and oral anomalies",
+      "negation": false,
+      "hpo_matched_name": "oral anomaly",
+      "atomic_statement": "oral anomaly"
+    },
+    {
+      "name": "skin defect of neck or infra/supra-auricular region",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "features of skin defects in the neck or infra/supra-auricular region",
+      "negation": false,
+      "hpo_matched_name": "skin defect",
+      "atomic_statement": "skin defect of neck or infra/supra-auricular region"
+    },
+    {
+      "name": "thin, erythematous wrinkled skin",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "these unusual areas of thin, erythematous wrinkled skin",
+      "negation": false,
+      "hpo_matched_name": "skin defect",
+      "atomic_statement": "thin, erythematous wrinkled skin"
+    }
+  ],
+  "10861661": [],
+  "11152153": [
+    {
+      "name": "branchio-oculo-facial syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "A 1-year-old male with branchio-oculo-facial syndrome together with preaxial polydatyly and a white forelock at birth is described.",
+      "negation": false,
+      "hpo_matched_name": "branchio-oculo-facial syndrome",
+      "atomic_statement": "The patient has branchio-oculo-facial syndrome"
+    },
+    {
+      "name": "preaxial polydactyly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "A 1-year-old male with branchio-oculo-facial syndrome together with preaxial polydatyly and a white forelock at birth is described.",
+      "negation": false,
+      "hpo_matched_name": "preaxial polydactyly",
+      "atomic_statement": "The patient has preaxial polydactyly"
+    },
+    {
+      "name": "white forelock",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "A 1-year-old male with branchio-oculo-facial syndrome together with preaxial polydatyly and a white forelock at birth is described.",
+      "negation": false,
+      "hpo_matched_name": "white forelock",
+      "atomic_statement": "The patient has a white forelock"
+    }
+  ],
+  "11169564": [
+    {
+      "name": "brachydactyly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Hereditary isolated brachydactyly type C (OMIM 113100) mostly follows an autosomal dominant pattern of inheritance with a marked variability in expression.",
+      "negation": false,
+      "hpo_matched_name": "brachydactyly",
+      "atomic_statement": "presence of brachydactyly"
+    }
+  ],
+  "11455389": [
+    {
+      "name": "brachydactyly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Brachydactyly type A-1 (BDA-1; MIM 112500) is characterized by shortening or missing of the middle phalanges",
+      "negation": false,
+      "hpo_matched_name": "brachydactyly",
+      "atomic_statement": "brachydactyly"
+    }
+  ],
+  "11342693": [],
+  "11078565": [
+    {
+      "name": "global developmental delay",
+      "status": "moderate",
+      "is_new_information": true,
+      "details": "We present a child with mild to moderate global developmental delay including severe speech impairment, inappropriate happy demeanor, wide-based gait, frequent ear infections with mild hearing loss, deep-set eyes, a wide mouth, widely-spaced teeth, normal head circumference, and no seizures.",
+      "negation": false,
+      "hpo_matched_name": "Global developmental delay",
+      "atomic_statement": "global developmental delay (moderate)"
+    },
+    {
+      "name": "speech impairment",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "We present a child with mild to moderate global developmental delay including severe speech impairment, inappropriate happy demeanor, wide-based gait, frequent ear infections with mild hearing loss, deep-set eyes, a wide mouth, widely-spaced teeth, normal head circumference, and no seizures.",
+      "negation": false,
+      "hpo_matched_name": "Speech impairment",
+      "atomic_statement": "severe speech impairment"
+    },
+    {
+      "name": "inappropriate happy demeanor",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "We present a child with mild to moderate global developmental delay including severe speech impairment, inappropriate happy demeanor, wide-based gait, frequent ear infections with mild hearing loss, deep-set eyes, a wide mouth, widely-spaced teeth, normal head circumference, and no seizures.",
+      "negation": false,
+      "hpo_matched_name": "Inappropriate happy demeanor",
+      "atomic_statement": "inappropriate happy demeanor"
+    },
+    {
+      "name": "wide-based gait",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "We present a child with mild to moderate global developmental delay including severe speech impairment, inappropriate happy demeanor, wide-based gait, frequent ear infections with mild hearing loss, deep-set eyes, a wide mouth, widely-spaced teeth, normal head circumference, and no seizures.",
+      "negation": false,
+      "hpo_matched_name": "Wide-based gait",
+      "atomic_statement": "wide-based gait"
+    },
+    {
+      "name": "ear infections",
+      "status": "mild",
+      "is_new_information": true,
+      "details": "We present a child with mild to moderate global developmental delay including severe speech impairment, inappropriate happy demeanor, wide-based gait, frequent ear infections with mild hearing loss, deep-set eyes, a wide mouth, widely-spaced teeth, normal head circumference, and no seizures.",
+      "negation": false,
+      "hpo_matched_name": "Otitis media",
+      "atomic_statement": "frequent ear infections with mild hearing loss"
+    },
+    {
+      "name": "mild hearing loss",
+      "status": "mild",
+      "is_new_information": true,
+      "details": "We present a child with mild to moderate global developmental delay including severe speech impairment, inappropriate happy demeanor, wide-based gait, frequent ear infections with mild hearing loss, deep-set eyes, a wide mouth, widely-spaced teeth, normal head circumference, and no seizures.",
+      "negation": false,
+      "hpo_matched_name": "Hearing impairment",
+      "atomic_statement": "frequent ear infections with mild hearing loss"
+    },
+    {
+      "name": "deep-set eyes",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "We present a child with mild to moderate global developmental delay including severe speech impairment, inappropriate happy demeanor, wide-based gait, frequent ear infections with mild hearing loss, deep-set eyes, a wide mouth, widely-spaced teeth, normal head circumference, and no seizures.",
+      "negation": false,
+      "hpo_matched_name": "Deep-set eyes",
+      "atomic_statement": "deep-set eyes"
+    },
+    {
+      "name": "wide mouth",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "We present a child with mild to moderate global developmental delay including severe speech impairment, inappropriate happy demeanor, wide-based gait, frequent ear infections with mild hearing loss, deep-set eyes, a wide mouth, widely-spaced teeth, normal head circumference, and no seizures.",
+      "negation": false,
+      "hpo_matched_name": "Wide mouth",
+      "atomic_statement": "wide mouth"
+    },
+    {
+      "name": "widely-spaced teeth",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "We present a child with mild to moderate global developmental delay including severe speech impairment, inappropriate happy demeanor, wide-based gait, frequent ear infections with mild hearing loss, deep-set eyes, a wide mouth, widely-spaced teeth, normal head circumference, and no seizures.",
+      "negation": false,
+      "hpo_matched_name": "Widely spaced teeth",
+      "atomic_statement": "widely-spaced teeth"
+    },
+    {
+      "name": "normal head circumference",
+      "status": "normal",
+      "is_new_information": true,
+      "details": "We present a child with mild to moderate global developmental delay including severe speech impairment, inappropriate happy demeanor, wide-based gait, frequent ear infections with mild hearing loss, deep-set eyes, a wide mouth, widely-spaced teeth, normal head circumference, and no seizures.",
+      "negation": false,
+      "hpo_matched_name": "Normal head size",
+      "atomic_statement": "normal head circumference"
+    },
+    {
+      "name": "seizures",
+      "status": "unknown",
+      "is_new_information": false,
+      "details": "We present a child with mild to moderate global developmental delay including severe speech impairment, inappropriate happy demeanor, wide-based gait, frequent ear infections with mild hearing loss, deep-set eyes, a wide mouth, widely-spaced teeth, normal head circumference, and no seizures.",
+      "negation": true,
+      "hpo_matched_name": "Seizures",
+      "atomic_statement": "no seizures"
+    }
+  ],
+  "11837604": [],
+  "11343340": [],
+  "11896453": [],
+  "11382639": [],
+  "11748306": [
+    {
+      "name": "severe developmental delay",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "Most patients acquire AS by one of five mechanisms: ... All classical patients from these classes exhibit four cardinal features, including severe developmental delay and/or mental retardation, profound speech impairment, a movement and balance disorder, and AS specific behaviour typified by an inappropriately happy affect.",
+      "negation": false,
+      "hpo_matched_name": "Intellectual disability",
+      "atomic_statement": "severe developmental delay"
+    },
+    {
+      "name": "seizures",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "In addition, patients can display other characteristics, including microcephaly, hypopigmentation, and seizures.",
+      "negation": false,
+      "hpo_matched_name": "Seizures",
+      "atomic_statement": "seizures"
+    },
+    {
+      "name": "microcephaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "In addition, patients can display other characteristics, including microcephaly, hypopigmentation, and seizures.",
+      "negation": false,
+      "hpo_matched_name": "Microcephaly",
+      "atomic_statement": "microcephaly"
+    },
+    {
+      "name": "hypopigmentation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "In addition, patients can display other characteristics, including microcephaly, hypopigmentation, and seizures.",
+      "negation": false,
+      "hpo_matched_name": "Hypopigmentation",
+      "atomic_statement": "hypopigmentation"
+    }
+  ],
+  "11484202": [
+    {
+      "name": "imperforate anus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Townes-Brocks syndrome (TBS) is a condition with imperforate anus, hand anomalies, and ear malformations with sensorineural hearing loss.",
+      "negation": false,
+      "hpo_matched_name": "imperforate anus",
+      "atomic_statement": "imperforate anus"
+    },
+    {
+      "name": "hand anomalies",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Townes-Brocks syndrome (TBS) is a condition with imperforate anus, hand anomalies, and ear malformations with sensorineural hearing loss.",
+      "negation": false,
+      "hpo_matched_name": "hand anomalies",
+      "atomic_statement": "hand anomalies"
+    },
+    {
+      "name": "ear malformations",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Townes-Brocks syndrome (TBS) is a condition with imperforate anus, hand anomalies, and ear malformations with sensorineural hearing loss.",
+      "negation": false,
+      "hpo_matched_name": "ear malformations",
+      "atomic_statement": "ear malformations"
+    },
+    {
+      "name": "sensorineural hearing loss",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Townes-Brocks syndrome (TBS) is a condition with imperforate anus, hand anomalies, and ear malformations with sensorineural hearing loss.",
+      "negation": false,
+      "hpo_matched_name": "sensorineural hearing loss",
+      "atomic_statement": "sensorineural hearing loss"
+    },
+    {
+      "name": "cardiac anomalies",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Unique cardiac anomalies seen in this family include lethal truncus arteriosus in one patient and a lethal complicated defect, including pulmonary valve atresia, in a second patient.",
+      "negation": false,
+      "hpo_matched_name": "cardiac anomaly",
+      "atomic_statement": "cardiac anomalies"
+    },
+    {
+      "name": "truncus arteriosus",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "Unique cardiac anomalies seen in this family include lethal truncus arteriosus in one patient",
+      "negation": false,
+      "hpo_matched_name": "truncus arteriosus",
+      "atomic_statement": "truncus arteriosus"
+    },
+    {
+      "name": "pulmonary valve atresia",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "including pulmonary valve atresia, in a second patient.",
+      "negation": false,
+      "hpo_matched_name": "pulmonary valve atresia",
+      "atomic_statement": "pulmonary valve atresia"
+    },
+    {
+      "name": "hypoplastic thumbs",
+      "status": "mild",
+      "is_new_information": true,
+      "details": "hypoplastic thumbs were seen in two individuals in this family and should, therefore, be considered a true feature of TBS.",
+      "negation": false,
+      "hpo_matched_name": "hypoplastic thumb",
+      "atomic_statement": "hypoplastic thumbs"
+    }
+  ],
+  "12136076": [],
+  "12011146": [],
+  "12357473": [],
+  "12235555": [],
+  "12384778": [],
+  "12473765": [],
+  "12219090": [],
+  "12404110": [],
+  "12592607": [],
+  "12868482": [
+    {
+      "name": "calcification of the falx cerebri",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "A mother and daughter with Gorlin syndrome with similar neuroradiological findings are reported. These include calcification of the falx cerebri",
+      "negation": false,
+      "hpo_matched_name": "calcium deposit in the falx cerebri",
+      "atomic_statement": "calcification of the falx cerebri"
+    },
+    {
+      "name": "calcification of the tentorium cerebelli",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "These include calcification of the falx cerebri and tentorium cerebelli",
+      "negation": false,
+      "hpo_matched_name": "calcium deposit in the tentorium cerebelli",
+      "atomic_statement": "calcification of the tentorium cerebelli"
+    },
+    {
+      "name": "dysgenesis of the corpus callosum",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "These include calcification of the falx cerebri and tentorium cerebelli and dysgenesis of the corpus callosum",
+      "negation": false,
+      "hpo_matched_name": "corpus callosum dysgenesis",
+      "atomic_statement": "dysgenesis of the corpus callosum"
+    },
+    {
+      "name": "dysgenesis of the cerebellar vermis",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "These include calcification of the falx cerebri and tentorium cerebelli and dysgenesis of the corpus callosum and vermis",
+      "negation": false,
+      "hpo_matched_name": "cerebellar vermis dysgenesis",
+      "atomic_statement": "dysgenesis of the cerebellar vermis"
+    }
+  ],
+  "1248162": [
+    {
+      "name": "mixed hearing loss",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The present report concerns a two-generation family of nine individuals in which the father and three of the six living children all had: (1) a mixed hearing loss with a Mondini type cochlear malformation and stapes fixation;",
+      "negation": false,
+      "hpo_matched_name": "Sensorineural hearing impairment",
+      "atomic_statement": "The father and three children had mixed hearing loss"
+    },
+    {
+      "name": "Mondini malformation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "a mixed hearing loss with a Mondini type cochlear malformation",
+      "negation": false,
+      "hpo_matched_name": "Mondini dysplasia",
+      "atomic_statement": "Mixed hearing loss with Mondini type cochlear malformation"
+    },
+    {
+      "name": "stapes fixation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "a mixed hearing loss with a Mondini type cochlear malformation and stapes fixation",
+      "negation": false,
+      "hpo_matched_name": "Stapes fixation",
+      "atomic_statement": "Mixed hearing loss with stapes fixation"
+    },
+    {
+      "name": "cup-shaped pinnae",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "cup-shaped, anteverted pinnae",
+      "negation": false,
+      "hpo_matched_name": "Cup-shaped ears",
+      "atomic_statement": "Cup-shaped pinnae"
+    },
+    {
+      "name": "anteverted pinnae",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "cup-shaped, anteverted pinnae",
+      "negation": false,
+      "hpo_matched_name": "Cup-shaped ears",
+      "atomic_statement": "Anteverted pinnae"
+    },
+    {
+      "name": "bilateral prehelical pits",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "bilateral prehelical pits",
+      "negation": false,
+      "hpo_matched_name": "Preauricular pits",
+      "atomic_statement": "Bilateral prehelical pits"
+    },
+    {
+      "name": "bilateral branchial cleft fistulas",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "bilateral branchial cleft fistulas",
+      "negation": false,
+      "hpo_matched_name": "Branchial fistula",
+      "atomic_statement": "Bilateral branchial cleft fistulas"
+    },
+    {
+      "name": "bilateral renal dysplasia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "bilateral renal dysplasia and anomalies of the collecting system",
+      "negation": false,
+      "hpo_matched_name": "Renal dysplasia",
+      "atomic_statement": "Bilateral renal dysplasia"
+    },
+    {
+      "name": "anomalies of the collecting system",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "bilateral renal dysplasia and anomalies of the collecting system",
+      "negation": false,
+      "hpo_matched_name": "Abnormality of the renal collecting system",
+      "atomic_statement": "Anomalies of the collecting system"
+    },
+    {
+      "name": "lacrimal duct aplasia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "the father and one affected son also had aplasia of the lacrimal ducts",
+      "negation": false,
+      "hpo_matched_name": "Aplasia of lacrimal duct",
+      "atomic_statement": "Aplasia of lacrimal ducts"
+    },
+    {
+      "name": "bilateral polycystic kidneys",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "a fourth child who died at 5 months of age was reported to have branchial cleft fistulas and bilateral polycystic kidneys at autopsy",
+      "negation": false,
+      "hpo_matched_name": "Polycystic kidney disease",
+      "atomic_statement": "bilateral polycystic kidneys"
+    }
+  ],
+  "12567410": [],
+  "1307249": [],
+  "1347096": [
+    {
+      "name": "nevoid basal cell carcinoma syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The Gorlin (naevoid-basal-cell-carcinoma) syndrome is an autosomal dominant disorder characterised by multiple naevoid basal-cell carcinomas, recurrent odontogenic keratocysts, skeletal anomalies, intracranial calcification, and developmental malformations.",
+      "negation": false,
+      "hpo_matched_name": "nevoid basal cell carcinoma syndrome",
+      "atomic_statement": "The patient has nevoid basal cell carcinoma syndrome"
+    }
+  ],
+  "1363801": [],
+  "1357962": [
+    {
+      "name": "hypotonia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The child was hypotonic at birth",
+      "negation": false,
+      "hpo_matched_name": "hypotonia",
+      "atomic_statement": "hypotonia at birth"
+    },
+    {
+      "name": "Prader-Willi syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "We describe a particularly instructive case which raises important issues concerning the mechanisms producing uniparental disomy and whose evaluation provides evidence that trisomy may precede uniparental disomy in a fetus. ... features of PWS developed.",
+      "negation": false,
+      "hpo_matched_name": "Prader-Willi syndrome",
+      "atomic_statement": "features of Prader-Willi syndrome developed"
+    }
+  ],
+  "1348213": [],
+  "14717907": [],
+  "1456285": [],
+  "1456287": [],
+  "14735582": [
+    {
+      "name": "brachydactyly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Brachydactyly type C (BDC) is characterized by shortening of the middle phalanges of the index, middle, and little finger with hyperphalangy, usually of the index and middle finger.",
+      "negation": false,
+      "hpo_matched_name": "brachydactyly",
+      "atomic_statement": "presence of brachydactyly"
+    },
+    {
+      "name": "hyperphalangy",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "shortening of the middle phalanges of the index, middle, and little finger with hyperphalangy, usually of the index and middle finger.",
+      "negation": false,
+      "hpo_matched_name": "hyperphalangy",
+      "atomic_statement": "presence of hyperphalangy"
+    },
+    {
+      "name": "shortening of the middle phalanges",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "shortening of the middle phalanges of the index, middle, and little finger",
+      "negation": false,
+      "hpo_matched_name": "hyperphalangy",
+      "atomic_statement": "shortening of the middle phalanges"
+    },
+    {
+      "name": "pronounced ulnar deviation of digits",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "pronounced ulnar deviation of the second and third digits",
+      "negation": false,
+      "hpo_matched_name": "ulnar deviation of fingers",
+      "atomic_statement": "pronounced ulnar deviation of the second and third digits"
+    }
+  ],
+  "1479598": [],
+  "1415348": [],
+  "1478663": [
+    {
+      "name": "deafness",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Branchiootorenal syndrome is an autosomal dominant disorder that affects an estimated 2% of profoundly deaf children.",
+      "negation": false,
+      "hpo_matched_name": "Deafness",
+      "atomic_statement": "deafness"
+    },
+    {
+      "name": "lop-ear deformity",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "In addition to hearing impairment, it is characterized by a lop-ear deformity",
+      "negation": false,
+      "hpo_matched_name": "Lop ears",
+      "atomic_statement": "lop-ear deformity"
+    },
+    {
+      "name": "preauricular pits",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "In addition to hearing impairment, it is characterized by ... preauricular pits",
+      "negation": false,
+      "hpo_matched_name": "Preauricular skin tags or pits",
+      "atomic_statement": "preauricular pits"
+    },
+    {
+      "name": "branchial cleft sinus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "It is characterized by ... branchial cleft sinus tracts",
+      "negation": false,
+      "hpo_matched_name": "Branchial cleft sinus",
+      "atomic_statement": "branchial cleft sinus"
+    },
+    {
+      "name": "renal anomalies",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "It is characterized by ... renal anomalies.",
+      "negation": false,
+      "hpo_matched_name": "Renal anomaly",
+      "atomic_statement": "renal anomalies"
+    }
+  ],
+  "1496981": [],
+  "15150776": [],
+  "1479599": [],
+  "1496982": [],
+  "15190457": [],
+  "15385437": [],
+  "1583664": [
+    {
+      "name": "brachydactyly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "A four generation autosomal dominant pedigree of brachydactyly type C is presented with its radiological features.",
+      "negation": false,
+      "hpo_matched_name": "brachydactyly",
+      "atomic_statement": "brachydactyly"
+    },
+    {
+      "name": "shortening of the big toes",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "All the subjects showing these changes had shortening of the big toes",
+      "negation": false,
+      "hpo_matched_name": "shortening of the big toes",
+      "atomic_statement": "shortening of the big toes"
+    },
+    {
+      "name": "cupped ears",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "and, in addition, had cupped ears",
+      "negation": false,
+      "hpo_matched_name": "cupped ears",
+      "atomic_statement": "cupped ears"
+    }
+  ],
+  "1484939": [
+    {
+      "name": "neurofibromatosis type 2",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The clinical features, age at onset of symptoms and survival of 150 patients with type 2 neurofibromatosis were studied.",
+      "negation": false,
+      "hpo_matched_name": "Neurofibromatosis type 2",
+      "atomic_statement": "The patient has neurofibromatosis type 2"
+    },
+    {
+      "name": "deafness",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "44 per cent presented with deafness and this was unilateral in the majority (35/44).",
+      "negation": false,
+      "hpo_matched_name": "Deafness",
+      "atomic_statement": "The patient has deafness"
+    },
+    {
+      "name": "tinnitus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Deafness was accompanied by tinnitus in a further 10 per cent.",
+      "negation": false,
+      "hpo_matched_name": "Tinnitus",
+      "atomic_statement": "The patient has tinnitus"
+    },
+    {
+      "name": "muscle weakness",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "muscle weakness or wasting was the first symptom in 12 per cent.",
+      "negation": false,
+      "hpo_matched_name": "Muscle weakness",
+      "atomic_statement": "The patient has muscle weakness"
+    },
+    {
+      "name": "seizures",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Less common presenting symptoms were seizures (8 per cent).",
+      "negation": false,
+      "hpo_matched_name": "Seizures",
+      "atomic_statement": "The patient has seizures"
+    },
+    {
+      "name": "vertigo",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Less common presenting symptoms were ... vertigo (8 per cent).",
+      "negation": false,
+      "hpo_matched_name": "Vertigo",
+      "atomic_statement": "The patient has vertigo"
+    },
+    {
+      "name": "numbness and tingling",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Less common presenting symptoms were ... numbness and tingling (2 per cent).",
+      "negation": false,
+      "hpo_matched_name": "Numbness and tingling",
+      "atomic_statement": "The patient has numbness and tingling"
+    },
+    {
+      "name": "blindness",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Less common presenting symptoms were ... blindness (1 per cent).",
+      "negation": false,
+      "hpo_matched_name": "Blindness",
+      "atomic_statement": "The patient has blindness"
+    },
+    {
+      "name": "café au lait spots",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Café au lait spots occurred in 43 per cent (n = 43) but only one case had six.",
+      "negation": false,
+      "hpo_matched_name": "Café-au-lait macule",
+      "atomic_statement": "The patient has café au lait spots"
+    },
+    {
+      "name": "skin tumors",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Skin tumours were detected in 68 per cent (68/100).",
+      "negation": false,
+      "hpo_matched_name": "Skin tumor",
+      "atomic_statement": "The patient has skin tumors"
+    },
+    {
+      "name": "lens opacity",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "38 per cent (34/90) had an identifiable lens opacity or cataract.",
+      "negation": false,
+      "hpo_matched_name": "Lens opacity",
+      "atomic_statement": "The patient has lens opacity"
+    },
+    {
+      "name": "cataract",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "38 per cent (34/90) had an identifiable lens opacity or cataract.",
+      "negation": false,
+      "hpo_matched_name": "Lens opacity",
+      "atomic_statement": "The patient has cataract"
+    }
+  ],
+  "15994874": [],
+  "15470370": [
+    {
+      "name": "Angelman syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Angelman syndrome (AS) can result from either a 15q11-q13 deletion (del), paternal uniparental disomy (UPD), imprinting, or UBE3A mutations.",
+      "negation": false,
+      "hpo_matched_name": "Angelman syndrome",
+      "atomic_statement": "Angelman syndrome"
+    },
+    {
+      "name": "absent vocalization",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "all BP1-BP3 deletion patients showed complete absence of vocalization",
+      "negation": false,
+      "hpo_matched_name": "Absence of vocalization",
+      "atomic_statement": "absence of vocalization"
+    },
+    {
+      "name": "swallowing disorder",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "deletion patients presented a higher incidence of swallowing disorders (73.9% del x 22.2% UPD)",
+      "negation": false,
+      "hpo_matched_name": "Dysphagia",
+      "atomic_statement": "swallowing disorder"
+    },
+    {
+      "name": "hypotonia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "deletion patients presented a higher incidence of hypotonia (73.3% del x 28.57% UPD)",
+      "negation": false,
+      "hpo_matched_name": "Hypotonia",
+      "atomic_statement": "hypotonia"
+    },
+    {
+      "name": "microcephaly",
+      "status": "unknown",
+      "is_new_information": false,
+      "details": "lower incidence of microcephaly in UPD patients",
+      "negation": false,
+      "hpo_matched_name": "Microcephaly",
+      "atomic_statement": "microcephaly"
+    },
+    {
+      "name": "seizures",
+      "status": "unknown",
+      "is_new_information": false,
+      "details": "fewer or no seizures in UPD patients",
+      "negation": true,
+      "hpo_matched_name": "Seizures",
+      "atomic_statement": "seizures"
+    },
+    {
+      "name": "ataxia",
+      "status": "unknown",
+      "is_new_information": false,
+      "details": "less ataxia in UPD patients",
+      "negation": true,
+      "hpo_matched_name": "Ataxia",
+      "atomic_statement": "ataxia"
+    },
+    {
+      "name": "impaired speech",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "all BP1-BP3 deletion patients showed complete absence of vocalization, and some BP2-BP3 could pronounce syllabic sounds with doubtful meaning",
+      "negation": false,
+      "hpo_matched_name": "Absence of vocalization",
+      "atomic_statement": "severe impairment of speech (absence of vocalization)"
+    }
+  ],
+  "1619642": [],
+  "15734008": [
+    {
+      "name": "lacrimal sac fistula",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "examination disclosed openings of sinus tracts on each side of the nose connecting the lacrimal sac to skin",
+      "negation": false,
+      "hpo_matched_name": "lacrimal sac fistula",
+      "atomic_statement": "lacrimal sac fistula"
+    },
+    {
+      "name": "orbital dermoid cyst",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "she had undergone excision of a left orbital dermoid cyst at age 18 months",
+      "negation": false,
+      "hpo_matched_name": "dermoid cyst",
+      "atomic_statement": "orbital dermoid cyst"
+    },
+    {
+      "name": "iris pigment epithelial cyst",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "In the right eye, an iris pigment epithelial cyst was confirmed with ultrasound biomicroscopy",
+      "negation": false,
+      "hpo_matched_name": "iris pigment epithelial cyst",
+      "atomic_statement": "iris pigment epithelial cyst"
+    },
+    {
+      "name": "combined hamartoma of the retina and retinal pigment epithelium",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "In the left eye, there was a combined hamartoma of the retina and retina pigment epithelium",
+      "negation": false,
+      "hpo_matched_name": "retinal hamartoma",
+      "atomic_statement": "combined hamartoma of the retina and retinal pigment epithelium"
+    }
+  ],
+  "16871364": [],
+  "1672177": [
+    {
+      "name": "intellectual disability",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Angelman's syndrome and Prader-Willi syndrome are both causes of mental retardation with recognisable, but quite different, clinical phenotypes.",
+      "negation": false,
+      "hpo_matched_name": "Intellectual disability",
+      "atomic_statement": "Angelman's syndrome and Prader-Willi syndrome are both causes of mental retardation"
+    }
+  ],
+  "16957682": [],
+  "17307835": [],
+  "17353411": [
+    {
+      "name": "posterior subcapsular cataract",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "juvenile posterior subcapsular cataracts",
+      "negation": false,
+      "hpo_matched_name": "posterior subcapsular cataract",
+      "atomic_statement": "juvenile posterior subcapsular cataracts"
+    },
+    {
+      "name": "epiretinal membrane",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "epiretinal membranes",
+      "negation": false,
+      "hpo_matched_name": "epiretinal membrane",
+      "atomic_statement": "epiretinal membranes"
+    },
+    {
+      "name": "schwannoma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "intrascleral schwannoma",
+      "negation": false,
+      "hpo_matched_name": "schwannoma",
+      "atomic_statement": "intrascleral schwannoma"
+    }
+  ],
+  "16401744": [
+    {
+      "name": "Angelman syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Angelman syndrome (AS) is a neurogenetic disorder characterized by severe mental retardation, speech disorder, stereotyped jerky movements, and a peculiar behavioral profile, with a happy disposition and outbursts of laughter.",
+      "negation": false,
+      "hpo_matched_name": "Angelman syndrome",
+      "atomic_statement": "Angelman syndrome (AS) is a neurogenetic disorder characterized by severe mental retardation, speech disorder, stereotyped jerky movements, and a peculiar behavioral profile, with a happy disposition and outbursts of laughter."
+    },
+    {
+      "name": "epilepsy",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Most patients with AS present with epilepsy and suggestive electroencephalographic patterns, which may be used as diagnostic criteria. ... All patients with AS in this group had generalized epilepsy, and 10 (53%) also had partial epilepsy. Main seizure types were atypical absences and myoclonic and tonic-clonic seizures. Mean age at onset was 1 year 1 month. Epilepsy aggravated by fever occurred in 10 patients (53%) and status epilepticus in 16 (84%). Eighteen patients (95%) had previous or current history of daily seizures, of which 14 (64%) had disabling seizures. Multiple seizure types were observed in 13 patients (53%). History of refractory epilepsy was reported in 16 patients (84%).",
+      "negation": false,
+      "hpo_matched_name": "Epilepsy",
+      "atomic_statement": "Most patients with AS present with epilepsy and suggestive electroencephalographic patterns, which may be used as diagnostic criteria."
+    }
+  ],
+  "18000979": [],
+  "18285427": [],
+  "17431915": [
+    {
+      "name": "external ear anomaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The mother had abnormal external ears",
+      "negation": false,
+      "hpo_matched_name": "Abnormal external ears",
+      "atomic_statement": "The mother had abnormal external ears"
+    },
+    {
+      "name": "preaxial polydactyly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "the elder sister presented with preaxial polydactyly",
+      "negation": false,
+      "hpo_matched_name": "Preaxial polydactyly",
+      "atomic_statement": "the elder sister presented with preaxial polydactyly"
+    },
+    {
+      "name": "anteriorly placed anus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "the elder sister presented with anteriorly placed anus",
+      "negation": false,
+      "hpo_matched_name": "Anteriorly placed anus",
+      "atomic_statement": "the elder sister presented with anteriorly placed anus"
+    },
+    {
+      "name": "atretic ear canal",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "the younger sister presented with atretic ear canals",
+      "negation": false,
+      "hpo_matched_name": "Atretic ear canal",
+      "atomic_statement": "the younger sister presented with atretic ear canals"
+    },
+    {
+      "name": "mandibular hypoplasia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "the younger sister presented with mandibular hypoplasia",
+      "negation": false,
+      "hpo_matched_name": "Mandibular hypoplasia",
+      "atomic_statement": "the younger sister presented with mandibular hypoplasia"
+    },
+    {
+      "name": "preaxial polydactyly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "right preaxial polydactyly",
+      "negation": false,
+      "hpo_matched_name": "Preaxial polydactyly",
+      "atomic_statement": "right preaxial polydactyly"
+    },
+    {
+      "name": "epibulbar dermoid",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "an epibulbar dermoid",
+      "negation": false,
+      "hpo_matched_name": "Epibulbar dermoid",
+      "atomic_statement": "an epibulbar dermoid"
+    }
+  ],
+  "1745350": [
+    {
+      "name": "neurofibromatosis type 1",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "We studied two families with an unusual variant of neurofibromatosis (NF).",
+      "negation": false,
+      "hpo_matched_name": "neurofibromatosis type 1",
+      "atomic_statement": "neurofibromatosis type 1"
+    },
+    {
+      "name": "cafe au lait spots",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The first family had spinal neurofibromas and café au lait spots (CLS)",
+      "negation": false,
+      "hpo_matched_name": "cafe au lait spots",
+      "atomic_statement": "cafe au lait spots"
+    },
+    {
+      "name": "spinal neurofibromas",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The first family had spinal neurofibromas and café au lait spots (CLS)",
+      "negation": false,
+      "hpo_matched_name": "spinal neurofibromas",
+      "atomic_statement": "spinal neurofibromas"
+    },
+    {
+      "name": "spinal neurofibromas",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The second spinal neurofibromas without CLS.",
+      "negation": false,
+      "hpo_matched_name": "spinal neurofibromas",
+      "atomic_statement": "spinal neurofibromas"
+    },
+    {
+      "name": "cutaneous tumors",
+      "status": "unknown",
+      "is_new_information": false,
+      "details": "Other signs of NF1 or NF2, such as cutaneous tumors, Lisch nodules, or acoustic tumors, were absent.",
+      "negation": true,
+      "hpo_matched_name": "cutaneous tumors",
+      "atomic_statement": "cutaneous tumors"
+    },
+    {
+      "name": "Lisch nodules",
+      "status": "unknown",
+      "is_new_information": false,
+      "details": "Other signs of NF1 or NF2, such as cutaneous tumors, Lisch nodules, or acoustic tumors, were absent.",
+      "negation": true,
+      "hpo_matched_name": "Lisch nodules",
+      "atomic_statement": "Lisch nodules"
+    },
+    {
+      "name": "acoustic tumors",
+      "status": "unknown",
+      "is_new_information": false,
+      "details": "Other signs of NF1 or NF2, such as cutaneous tumors, Lisch nodules, or acoustic tumors, were absent.",
+      "negation": true,
+      "hpo_matched_name": "acoustic tumors",
+      "atomic_statement": "acoustic tumors"
+    }
+  ],
+  "18283415": [],
+  "18629882": [],
+  "18220287": [
+    {
+      "name": "branchial fistula",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Branchio-oto-renal syndrome (BOR) is an autosomal dominant disorder characterized by the association of branchial and external ear malformations, hearing loss, and renal anomalies.",
+      "negation": false,
+      "hpo_matched_name": "branchial fistula",
+      "atomic_statement": "presence of branchial fistula"
+    },
+    {
+      "name": "ear malformation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "characterized by the association of branchial and external ear malformations",
+      "negation": false,
+      "hpo_matched_name": "ear malformation",
+      "atomic_statement": "presence of ear malformation"
+    },
+    {
+      "name": "hearing loss",
+      "status": "varies",
+      "is_new_information": true,
+      "details": "hearing loss, and renal anomalies. The phenotype varies from ear pits to profound hearing loss",
+      "negation": false,
+      "hpo_matched_name": "hearing loss",
+      "atomic_statement": "presence of hearing loss"
+    },
+    {
+      "name": "renal anomaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "and renal anomalies. The phenotype varies from ear pits to profound hearing loss, branchial fistulae, and kidney agenesis",
+      "negation": false,
+      "hpo_matched_name": "renal anomaly",
+      "atomic_statement": "presence of renal anomaly"
+    }
+  ],
+  "18423521": [],
+  "18478600": [
+    {
+      "name": "popliteal pterygium syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Popliteal pterygium syndrome (PPS) and Van der Woude syndrome (VWS) are caused by mutations in the gene interferon regulatory factor 6 (IRF6). Skeletal, genital malformations and involvement of the skin occur in PPS and orofacial clefting and lip pits occur in both.",
+      "negation": false,
+      "hpo_matched_name": "popliteal pterygium syndrome",
+      "atomic_statement": "presence of popliteal pterygium syndrome"
+    },
+    {
+      "name": "Van der Woude syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Popliteal pterygium syndrome (PPS) and Van der Woude syndrome (VWS) are caused by mutations in the gene interferon regulatory factor 6 (IRF6). Skeletal, genital malformations and involvement of the skin occur in PPS and orofacial clefting and lip pits occur in both.",
+      "negation": false,
+      "hpo_matched_name": "Van der Woude syndrome",
+      "atomic_statement": "presence of Van der Woude syndrome"
+    },
+    {
+      "name": "unilateral cleft lip",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "unilateral cleft lip and palate",
+      "negation": false,
+      "hpo_matched_name": "cleft lip",
+      "atomic_statement": "presence of unilateral cleft lip"
+    },
+    {
+      "name": "unilateral cleft palate",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "unilateral cleft lip and palate",
+      "negation": false,
+      "hpo_matched_name": "cleft palate",
+      "atomic_statement": "presence of unilateral cleft palate"
+    },
+    {
+      "name": "ankyloblepharon",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "ankyloblepharon",
+      "negation": false,
+      "hpo_matched_name": "ankyloblepharon",
+      "atomic_statement": "presence of ankyloblepharon"
+    },
+    {
+      "name": "lip pits",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "parameidan lip pits",
+      "negation": false,
+      "hpo_matched_name": "lip pits",
+      "atomic_statement": "presence of lip pits"
+    },
+    {
+      "name": "unilateral renal aplasia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "unilateral renal aplasia",
+      "negation": false,
+      "hpo_matched_name": "renal agenesis",
+      "atomic_statement": "presence of unilateral renal aplasia"
+    },
+    {
+      "name": "hypospadias",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "coronal hypospadias",
+      "negation": false,
+      "hpo_matched_name": "hypospadias",
+      "atomic_statement": "presence of hypospadias"
+    }
+  ],
+  "18701717": [
+    {
+      "name": "severe intellectual disability",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "Angelman syndrome is a neurological disorder whose symptoms include severe mental retardation",
+      "negation": false,
+      "hpo_matched_name": "Intellectual disability",
+      "atomic_statement": "severe intellectual disability"
+    },
+    {
+      "name": "loss of motor coordination",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "loss of motor coordination",
+      "negation": false,
+      "hpo_matched_name": "Ataxia",
+      "atomic_statement": "loss of motor coordination"
+    },
+    {
+      "name": "sleep disturbances",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "sleep disturbances",
+      "negation": false,
+      "hpo_matched_name": "Sleep disturbance",
+      "atomic_statement": "sleep disturbances"
+    }
+  ],
+  "19206155": [],
+  "1931625": [],
+  "1951448": [
+    {
+      "name": "mental retardation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "We report on 2 children with Townes-Brocks syndrome (TBS) and mental retardation.",
+      "negation": false,
+      "hpo_matched_name": "Intellectual disability",
+      "atomic_statement": "mental retardation"
+    },
+    {
+      "name": "hearing loss",
+      "status": "mild",
+      "is_new_information": true,
+      "details": "One child had mild hearing loss, but the other only had hearing loss at 8000 Hz.",
+      "negation": false,
+      "hpo_matched_name": "Hearing impairment",
+      "atomic_statement": "mild hearing loss"
+    },
+    {
+      "name": "hearing loss",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "but the other only had hearing loss at 8000 Hz.",
+      "negation": false,
+      "hpo_matched_name": "Hearing impairment",
+      "atomic_statement": "hearing loss at 8000 Hz"
+    }
+  ],
+  "19533801": [],
+  "19557015": [],
+  "2035528": [],
+  "19476995": [],
+  "2105641": [
+    {
+      "name": "neurofibromatosis type 2",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "Neurofibromatosis 2 or bilateral acoustic neurofibromatosis (NF2) is a severe autosomal dominant disorder characterized by the development of multiple tumors of the nervous system, including meningiomas, gliomas, neurofibromas, ependymomas, and particularly acoustic neuromas.",
+      "negation": false,
+      "hpo_matched_name": "neurofibromatosis type 2",
+      "atomic_statement": "The patient has neurofibromatosis type 2, a severe autosomal dominant disorder characterized by multiple nervous system tumors."
+    }
+  ],
+  "2012134": [
+    {
+      "name": "global developmental delay",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "All 4 have deletions of the region q11.2-q13 of chromosome 15. In the 3 cases in which parents were available for study the deleted chromosome 15 was maternally derived, as determined by cytological markers. All of the patients presented with severe to profound global developmental delay and postnatal-onset microcephaly; they had seizures, hypotonia, hyperreflexia, and hyperkinesis.",
+      "negation": false,
+      "hpo_matched_name": "Global developmental delay",
+      "atomic_statement": "severe global developmental delay"
+    },
+    {
+      "name": "microcephaly",
+      "status": "postnatal-onset",
+      "is_new_information": true,
+      "details": "All of the patients presented with severe to profound global developmental delay and postnatal-onset microcephaly; they had seizures, hypotonia, hyperreflexia, and hyperkinesis.",
+      "negation": false,
+      "hpo_matched_name": "Microcephaly",
+      "atomic_statement": "postnatal-onset microcephaly"
+    },
+    {
+      "name": "seizures",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "All of the patients presented with severe to profound global developmental delay and postnatal-onset microcephaly; they had seizures, hypotonia, hyperreflexia, and hyperkinesis.",
+      "negation": false,
+      "hpo_matched_name": "Seizures",
+      "atomic_statement": "seizures"
+    },
+    {
+      "name": "hypotonia",
+      "status": "moderate",
+      "is_new_information": true,
+      "details": "All of the patients presented with severe to profound global developmental delay and postnatal-onset microcephaly; they had seizures, hypotonia, hyperreflexia, and hyperkinesis.",
+      "negation": false,
+      "hpo_matched_name": "Hypotonia",
+      "atomic_statement": "hypotonia"
+    },
+    {
+      "name": "hyperreflexia",
+      "status": "moderate",
+      "is_new_information": true,
+      "details": "All of the patients presented with severe to profound global developmental delay and postnatal-onset microcephaly; they had seizures, hypotonia, hyperreflexia, and hyperkinesis.",
+      "negation": false,
+      "hpo_matched_name": "Hyperreflexia",
+      "atomic_statement": "hyperreflexia"
+    },
+    {
+      "name": "hyperkinesis",
+      "status": "moderate",
+      "is_new_information": true,
+      "details": "All of the patients presented with severe to profound global developmental delay and postnatal-onset microcephaly; they had seizures, hypotonia, hyperreflexia, and hyperkinesis.",
+      "negation": false,
+      "hpo_matched_name": "Hyperkinesis",
+      "atomic_statement": "hyperkinesis"
+    },
+    {
+      "name": "hypopigmentation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "All 4 have deletions of the region q11.2-q13 of chromosome 15. ... All have hypopigmented as compared to their relatives.",
+      "negation": false,
+      "hpo_matched_name": "Hypopigmentation",
+      "atomic_statement": "hypopigmentation"
+    },
+    {
+      "name": "choroidal pigment hypoplasia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "All had eye abnormalities; all had choroidal pigment hypoplasia.",
+      "negation": false,
+      "hpo_matched_name": "Choroidal hypoplasia",
+      "atomic_statement": "choroidal pigment hypoplasia"
+    }
+  ],
+  "2164325": [],
+  "2282716": [],
+  "2354548": [],
+  "2667456": [
+    {
+      "name": "cardiac defect",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The authors report a new case of Townes-Brocks syndrome with cardiac defect, ossicular anomalies and dominant transmission.",
+      "negation": false,
+      "hpo_matched_name": "Atrial septal defect",
+      "atomic_statement": "cardiac defect"
+    },
+    {
+      "name": "ossicular anomalies",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The authors report a new case of Townes-Brocks syndrome with cardiac defect, ossicular anomalies and dominant transmission.",
+      "negation": false,
+      "hpo_matched_name": "Ossicular abnormality",
+      "atomic_statement": "ossicular anomalies"
+    }
+  ],
+  "2705922": [],
+  "263442": [],
+  "2888021": [],
+  "2893543": [],
+  "292745": [],
+  "3063533": [
+    {
+      "name": "psychomotor retardation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "We report on seven children with Angelman syndrome presenting with psychomotor retardation during the 1st year of life.",
+      "negation": false,
+      "hpo_matched_name": "psychomotor retardation",
+      "atomic_statement": "psychomotor retardation"
+    },
+    {
+      "name": "seizures",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Seizures developed in six patients",
+      "negation": false,
+      "hpo_matched_name": "seizures",
+      "atomic_statement": "seizures"
+    },
+    {
+      "name": "brain atrophy",
+      "status": "diffuse",
+      "is_new_information": true,
+      "details": "computed tomography (CT) scanning showed diffuse atrophy of the brain in five patients",
+      "negation": false,
+      "hpo_matched_name": "brain atrophy",
+      "atomic_statement": "diffuse atrophy of the brain"
+    }
+  ],
+  "3092103": [],
+  "2918545": [
+    {
+      "name": "intellectual disability",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The inheritance of Angelman's syndrome, a disorder characterised by mental retardation, epilepsy, ataxia, and a happy disposition",
+      "negation": false,
+      "hpo_matched_name": "Intellectual disability",
+      "atomic_statement": "The inheritance of Angelman's syndrome, a disorder characterised by mental retardation"
+    },
+    {
+      "name": "epilepsy",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The inheritance of Angelman's syndrome, a disorder characterised by mental retardation, epilepsy, ataxia, and a happy disposition",
+      "negation": false,
+      "hpo_matched_name": "Epilepsy",
+      "atomic_statement": "The inheritance of Angelman's syndrome, a disorder characterised by mental retardation, epilepsy"
+    },
+    {
+      "name": "ataxia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The inheritance of Angelman's syndrome, a disorder characterised by mental retardation, epilepsy, ataxia, and a happy disposition",
+      "negation": false,
+      "hpo_matched_name": "Ataxia",
+      "atomic_statement": "The inheritance of Angelman's syndrome, a disorder characterised by mental retardation, epilepsy, ataxia"
+    },
+    {
+      "name": "happy disposition",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The inheritance of Angelman's syndrome, a disorder characterised by mental retardation, epilepsy, ataxia, and a happy disposition",
+      "negation": false,
+      "hpo_matched_name": "Happy disposition",
+      "atomic_statement": "The inheritance of Angelman's syndrome, a disorder characterised by mental retardation, epilepsy, ataxia, and a happy disposition"
+    }
+  ],
+  "2466440": [
+    {
+      "name": "global developmental delay",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Thirty six children with typical features of Angelman's syndrome, including global developmental delay, ataxia, episodes of paroxysmal laughter, seizures, and microcephaly were studied.",
+      "negation": false,
+      "hpo_matched_name": "Global developmental delay",
+      "atomic_statement": "global developmental delay"
+    },
+    {
+      "name": "ataxia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Thirty six children with typical features of Angelman's syndrome, including global developmental delay, ataxia, episodes of paroxysmal laughter, seizures, and microcephaly were studied.",
+      "negation": false,
+      "hpo_matched_name": "Ataxia",
+      "atomic_statement": "ataxia"
+    },
+    {
+      "name": "paroxysmal laughter",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Thirty six children with typical features of Angelman's syndrome, including global developmental delay, ataxia, episodes of paroxysmal laughter, seizures, and microcephaly were studied.",
+      "negation": false,
+      "hpo_matched_name": "Paroxysmal laughter",
+      "atomic_statement": "paroxysmal laughter"
+    },
+    {
+      "name": "seizures",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Thirty six children with typical features of Angelman's syndrome, including global developmental delay, ataxia, episodes of paroxysmal laughter, seizures, and microcephaly were studied.",
+      "negation": false,
+      "hpo_matched_name": "Seizures",
+      "atomic_statement": "seizures"
+    },
+    {
+      "name": "microcephaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Thirty six children with typical features of Angelman's syndrome, including global developmental delay, ataxia, episodes of paroxysmal laughter, seizures, and microcephaly were studied.",
+      "negation": false,
+      "hpo_matched_name": "Microcephaly",
+      "atomic_statement": "microcephaly"
+    },
+    {
+      "name": "prominent jaw",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The facial appearance is characterised by a prominent jaw, a wide mouth, and a pointed chin.",
+      "negation": false,
+      "hpo_matched_name": "Prominent jaw",
+      "atomic_statement": "prominent jaw"
+    },
+    {
+      "name": "wide mouth",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The facial appearance is characterised by a prominent jaw, a wide mouth, and a pointed chin.",
+      "negation": false,
+      "hpo_matched_name": "Wide mouth",
+      "atomic_statement": "wide mouth"
+    },
+    {
+      "name": "pointed chin",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The facial appearance is characterised by a prominent jaw, a wide mouth, and a pointed chin.",
+      "negation": false,
+      "hpo_matched_name": "Pointed chin",
+      "atomic_statement": "pointed chin"
+    },
+    {
+      "name": "tongue thrusting",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Tongue thrusting is common.",
+      "negation": false,
+      "hpo_matched_name": "Tongue thrusting",
+      "atomic_statement": "tongue thrusting"
+    },
+    {
+      "name": "wide based ataxic gait",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The movement disorder consists of a wide based, ataxic gait with frequent jerky limb movements and flapping of the hands.",
+      "negation": false,
+      "hpo_matched_name": "Wide based ataxic gait",
+      "atomic_statement": "wide based, ataxic gait"
+    },
+    {
+      "name": "jerky limb movements",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The movement disorder consists of a wide based, ataxic gait with frequent jerky limb movements and flapping of the hands.",
+      "negation": false,
+      "hpo_matched_name": "Jerky limb movements",
+      "atomic_statement": "jerky limb movements"
+    },
+    {
+      "name": "hand flapping",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The movement disorder consists of a wide based, ataxic gait with frequent jerky limb movements and flapping of the hands.",
+      "negation": false,
+      "hpo_matched_name": "Hand flapping",
+      "atomic_statement": "flapping of the hands"
+    },
+    {
+      "name": "variable limb tone",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Tone is variable in the limbs with normal reflexes, and the plantar responses are usually flexor.",
+      "negation": false,
+      "hpo_matched_name": "Variable limb tone",
+      "atomic_statement": "Tone is variable in the limbs"
+    },
+    {
+      "name": "normal reflexes",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Tone is variable in the limbs with normal reflexes, and the plantar responses are usually flexor.",
+      "negation": false,
+      "hpo_matched_name": "Normal reflexes",
+      "atomic_statement": "normal reflexes"
+    },
+    {
+      "name": "flexor plantar responses",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Tone is variable in the limbs with normal reflexes, and the plantar responses are usually flexor.",
+      "negation": false,
+      "hpo_matched_name": "Flexor plantar responses",
+      "atomic_statement": "plantar responses are usually flexor"
+    }
+  ],
+  "3100017": [],
+  "3134615": [],
+  "3098672": [],
+  "3105060": [],
+  "3281570": [
+    {
+      "name": "brachydactyly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "We report a type C brachydactyly transmitted through four generations",
+      "negation": false,
+      "hpo_matched_name": "brachydactyly",
+      "atomic_statement": "presence of brachydactyly"
+    },
+    {
+      "name": "feet abnormality",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "feet abnormalities in the proposita",
+      "negation": false,
+      "hpo_matched_name": "abnormality of the foot",
+      "atomic_statement": "feet abnormality"
+    }
+  ],
+  "3321989": [],
+  "3287922": [],
+  "3185841": [],
+  "3409926": [],
+  "3180506": [
+    {
+      "name": "anal atresia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The proband shows the full spectrum of anomalies, including imperforate anus",
+      "negation": false,
+      "hpo_matched_name": "anal atresia",
+      "atomic_statement": "The proband shows the full spectrum of anomalies, including imperforate anus"
+    },
+    {
+      "name": "preauricular skin tags",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "preauricular protuberances",
+      "negation": false,
+      "hpo_matched_name": "preauricular skin tags",
+      "atomic_statement": "preauricular protuberances"
+    },
+    {
+      "name": "hypoplastic satyr ears",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "hypoplastic satyr ears",
+      "negation": false,
+      "hpo_matched_name": "hypoplastic satyr ears",
+      "atomic_statement": "hypoplastic satyr ears"
+    },
+    {
+      "name": "sensorineural hearing loss",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "sensorineural hearing loss",
+      "negation": false,
+      "hpo_matched_name": "sensorineural hearing impairment",
+      "atomic_statement": "sensorineural hearing loss"
+    },
+    {
+      "name": "urinary system malformation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "urorenal anomalies",
+      "negation": false,
+      "hpo_matched_name": "urinary system malformation",
+      "atomic_statement": "urorenal anomalies"
+    },
+    {
+      "name": "triphalangeal thumb",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "triphalangeal thumb",
+      "negation": false,
+      "hpo_matched_name": "triphalangeal thumb",
+      "atomic_statement": "triphalangeal thumb"
+    },
+    {
+      "name": "preaxial hexadactyly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "preaxial hexadactyly",
+      "negation": false,
+      "hpo_matched_name": "preaxial hexadactyly",
+      "atomic_statement": "preaxial hexadactyly"
+    },
+    {
+      "name": "syndactyly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "syndactyly",
+      "negation": false,
+      "hpo_matched_name": "syndactyly",
+      "atomic_statement": "syndactyly"
+    },
+    {
+      "name": "clinodactyly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "clinodactyly",
+      "negation": false,
+      "hpo_matched_name": "clinodactyly",
+      "atomic_statement": "clinodactyly"
+    }
+  ],
+  "3674117": [],
+  "3740720": [
+    {
+      "name": "hearing loss",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Branchio-oto-renal dysplasia, often called the BOR syndrome, in its full expression consists of hearing loss of conductive, sensorineural, or mixed type",
+      "negation": false,
+      "hpo_matched_name": "Hearing impairment",
+      "atomic_statement": "hearing loss of conductive, sensorineural, or mixed type"
+    },
+    {
+      "name": "preauricular pits",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Branchio-oto-renal dysplasia, often called the BOR syndrome, in its full expression consists of ... preauricular pits",
+      "negation": false,
+      "hpo_matched_name": "Preauricular skin tag",
+      "atomic_statement": "preauricular pits"
+    },
+    {
+      "name": "auricular deformities",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Branchio-oto-renal dysplasia, often called the BOR syndrome, in its full expression consists of ... auricular deformities",
+      "negation": false,
+      "hpo_matched_name": "Auricular deformity",
+      "atomic_statement": "auricular deformities"
+    },
+    {
+      "name": "lateral cervical sinus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Branchio-oto-renal dysplasia, often called the BOR syndrome, in its full expression consists of ... lateral cervical sinuses, cysts, or fistulas",
+      "negation": false,
+      "hpo_matched_name": "Branchial fistula",
+      "atomic_statement": "lateral cervical sinuses, cysts, or fistulas"
+    },
+    {
+      "name": "renal malformations",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Branchio-oto-renal dysplasia, often called the BOR syndrome, in its full expression consists of ... renal malformations",
+      "negation": false,
+      "hpo_matched_name": "Renal agenesis",
+      "atomic_statement": "renal malformations"
+    }
+  ],
+  "391043": [
+    {
+      "name": "short stature",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Short stature may be a component of the brachydactyly C syndrome.",
+      "negation": false,
+      "hpo_matched_name": "short stature",
+      "atomic_statement": "short stature"
+    },
+    {
+      "name": "brachydactyly C",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "A family is presented in which the propositus has brachydactyly C, short stature, and hip dysplasia.",
+      "negation": false,
+      "hpo_matched_name": "brachydactyly C",
+      "atomic_statement": "brachydactyly C"
+    },
+    {
+      "name": "hip dysplasia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "A family is presented in which the propositus has brachydactyly C, short stature, and hip dysplasia.",
+      "negation": false,
+      "hpo_matched_name": "hip dysplasia",
+      "atomic_statement": "hip dysplasia"
+    }
+  ],
+  "3321995": [
+    {
+      "name": "abnormal upper lip",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "an autosomal dominant disorder of abnormal upper lip, which resembles a poorly repaired cleft lip",
+      "negation": false,
+      "hpo_matched_name": "short upper lip",
+      "atomic_statement": "abnormal upper lip"
+    },
+    {
+      "name": "malformed nose",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "malformed nose with broad bridge and flattened tip",
+      "negation": false,
+      "hpo_matched_name": "nasal deformity",
+      "atomic_statement": "malformed nose with broad bridge and flattened tip"
+    },
+    {
+      "name": "lacrimal duct obstruction",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "lacrimal duct obstruction",
+      "negation": false,
+      "hpo_matched_name": "lacrimal duct obstruction",
+      "atomic_statement": "lacrimal duct obstruction"
+    },
+    {
+      "name": "malformed ears",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "malformed ears",
+      "negation": false,
+      "hpo_matched_name": "malformed ear",
+      "atomic_statement": "malformed ears"
+    },
+    {
+      "name": "branchial cleft sinus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "branchial cleft sinuses",
+      "negation": false,
+      "hpo_matched_name": "branchial cleft sinus",
+      "atomic_statement": "branchial cleft sinuses"
+    },
+    {
+      "name": "linear skin lesion behind ear",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "linear skin lesions behind the ears",
+      "negation": false,
+      "hpo_matched_name": "linear skin lesion",
+      "atomic_statement": "linear skin lesions behind the ears"
+    },
+    {
+      "name": "coloboma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "coloboma",
+      "negation": false,
+      "hpo_matched_name": "coloboma",
+      "atomic_statement": "coloboma"
+    },
+    {
+      "name": "microphthalmia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "microphthalmia",
+      "negation": false,
+      "hpo_matched_name": "microphthalmia",
+      "atomic_statement": "microphthalmia"
+    },
+    {
+      "name": "auricular pits",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "auricular pits",
+      "negation": false,
+      "hpo_matched_name": "auricular pit",
+      "atomic_statement": "auricular pits"
+    },
+    {
+      "name": "lip pits",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "lip pits",
+      "negation": false,
+      "hpo_matched_name": "lip pits",
+      "atomic_statement": "lip pits"
+    },
+    {
+      "name": "high arched palate",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "highly arched plate",
+      "negation": false,
+      "hpo_matched_name": "high arched palate",
+      "atomic_statement": "high arched palate"
+    },
+    {
+      "name": "dental anomalies",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "dental anomalies",
+      "negation": false,
+      "hpo_matched_name": "dental anomaly",
+      "atomic_statement": "dental anomalies"
+    },
+    {
+      "name": "subcutaneous cyst of scalp",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "subcutaneous cysts of the scalp",
+      "negation": false,
+      "hpo_matched_name": "subcutaneous cyst",
+      "atomic_statement": "subcutaneous cysts of the scalp"
+    },
+    {
+      "name": "premature graying of hair",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Premature graying of hair occurred in the affected adults",
+      "negation": false,
+      "hpo_matched_name": "premature hair graying",
+      "atomic_statement": "Premature graying of hair"
+    },
+    {
+      "name": "growth retardation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Growth retardation",
+      "negation": false,
+      "hpo_matched_name": "growth retardation",
+      "atomic_statement": "growth retardation"
+    },
+    {
+      "name": "developmental delay",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "developmental delay",
+      "negation": false,
+      "hpo_matched_name": "global developmental delay",
+      "atomic_statement": "developmental delay"
+    },
+    {
+      "name": "hand anomalies",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "hand anomalies",
+      "negation": false,
+      "hpo_matched_name": "hand anomaly",
+      "atomic_statement": "hand anomalies"
+    }
+  ],
+  "3547011": [
+    {
+      "name": "nevoid basal-cell carcinoma syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The nevoid basal-cell carcinoma syndrome is characterized by major manifestations, such as multiple basal-cell carcinomata, cysts of the jaws, and skeletal--specifically, rib--abnormalities.",
+      "negation": false,
+      "hpo_matched_name": "nevoid basal-cell carcinoma syndrome",
+      "atomic_statement": "The patient has nevoid basal-cell carcinoma syndrome"
+    },
+    {
+      "name": "multiple basal-cell carcinomata",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The nevoid basal-cell carcinoma syndrome is characterized by major manifestations, such as multiple basal-cell carcinomata, cysts of the jaws, and skeletal--specifically, rib--abnormalities.",
+      "negation": false,
+      "hpo_matched_name": "basal cell carcinoma",
+      "atomic_statement": "The patient has multiple basal-cell carcinomata"
+    },
+    {
+      "name": "jaw cysts",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The nevoid basal-cell carcinoma syndrome is characterized by major manifestations, such as multiple basal-cell carcinomata, cysts of the jaws, and skeletal--specifically, rib--abnormalities.",
+      "negation": false,
+      "hpo_matched_name": "jaw cyst",
+      "atomic_statement": "The patient has jaw cysts"
+    },
+    {
+      "name": "rib abnormalities",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The nevoid basal-cell carcinoma syndrome is characterized by major manifestations, such as multiple basal-cell carcinomata, cysts of the jaws, and skeletal--specifically, rib--abnormalities.",
+      "negation": false,
+      "hpo_matched_name": "rib abnormality",
+      "atomic_statement": "The patient has rib abnormalities"
+    },
+    {
+      "name": "milia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Findings in 53 patients and a review of the literature document both major and lesser-known manifestations of the disorder. The odontogenic keratocyst, which usually appears during adolescence, has a marked tendency to recur. In addition to the skin tumors, milia, epidermoid cysts, chalazia, comedones, and palmar and plantar pits are frequent.",
+      "negation": false,
+      "hpo_matched_name": "milia",
+      "atomic_statement": "The patient has milia"
+    },
+    {
+      "name": "epidermoid cysts",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Findings in 53 patients and a review of the literature document both major and lesser-known manifestations of the disorder. The odontogenic keratocyst, which usually appears during adolescence, has a marked tendency to recur. In addition to the skin tumors, milia, epidermoid cysts, chalazia, comedones, and palmar and plantar pits are frequent.",
+      "negation": false,
+      "hpo_matched_name": "epidermoid cyst",
+      "atomic_statement": "The patient has epidermoid cysts"
+    },
+    {
+      "name": "chalazia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Findings in 53 patients and a review of the literature document both major and lesser-known manifestations of the disorder. The odontogenic keratocyst, which usually appears during adolescence, has a marked tendency to recur. In addition to the skin tumors, milia, epidermoid cysts, chalazia, comedones, and palmar and plantar pits are frequent.",
+      "negation": false,
+      "hpo_matched_name": "chalazion",
+      "atomic_statement": "The patient has chalazia"
+    },
+    {
+      "name": "comedones",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Findings in 53 patients and a review of the literature document both major and lesser-known manifestations of the disorder. The odontogenic keratocyst, which usually appears during adolescence, has a marked tendency to recur. In addition to the skin tumors, milia, epidermoid cysts, chalazia, comedones, and palmar and plantar pits are frequent.",
+      "negation": false,
+      "hpo_matched_name": "comedones",
+      "atomic_statement": "The patient has comedones"
+    },
+    {
+      "name": "palmar pits",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Findings in 53 patients and a review of the literature document both major and lesser-known manifestations of the disorder. The odontogenic keratocyst, which usually appears during adolescence, has a marked tendency to recur. In addition to the skin tumors, milia, epidermoid cysts, chalazia, comedones, and palmar and plantar pits are frequent.",
+      "negation": false,
+      "hpo_matched_name": "palmar pit",
+      "atomic_statement": "The patient has palmar pits"
+    },
+    {
+      "name": "plantar pits",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Findings in 53 patients and a review of the literature document both major and lesser-known manifestations of the disorder. The odontogenic keratocyst, which usually appears during adolescence, has a marked tendency to recur. In addition to the skin tumors, milia, epidermoid cysts, chalazia, comedones, and palmar and plantar pits are frequent.",
+      "negation": false,
+      "hpo_matched_name": "plantar pit",
+      "atomic_statement": "The patient has plantar pits"
+    }
+  ],
+  "3688021": [
+    {
+      "name": "seizures",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "severe mental retardation, seizures and ataxia-like incoordination",
+      "negation": false,
+      "hpo_matched_name": "Seizures",
+      "atomic_statement": "seizures"
+    },
+    {
+      "name": "ataxia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "ataxia-like incoordination",
+      "negation": false,
+      "hpo_matched_name": "Ataxia",
+      "atomic_statement": "ataxia"
+    },
+    {
+      "name": "hyperactivity",
+      "status": "unknown",
+      "is_new_information": false,
+      "details": "frequent, unprovoked and prolonged bouts of laughter and facial appearance are more compatible with the diagnosis of Angelman syndrome",
+      "negation": false,
+      "hpo_matched_name": "Hyperactivity",
+      "atomic_statement": "hyperactivity"
+    },
+    {
+      "name": "hypertelorism",
+      "status": "mild",
+      "is_new_information": true,
+      "details": "mild hypertelorism",
+      "negation": false,
+      "hpo_matched_name": "Hypertelorism",
+      "atomic_statement": "hypertelorism"
+    }
+  ],
+  "6261046": [
+    {
+      "name": "cardiac fibroma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "exploratory thoracotomy and biopsy revealed an unresectable left ventricular fibroma",
+      "negation": false,
+      "hpo_matched_name": "cardiac fibroma",
+      "atomic_statement": "unresectable left ventricular fibroma"
+    },
+    {
+      "name": "ventricular arrhythmia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "the tumor continued to enlarge and began causing ventricular arrhythmia",
+      "negation": false,
+      "hpo_matched_name": "ventricular arrhythmia",
+      "atomic_statement": "causing ventricular arrhythmia"
+    }
+  ],
+  "509397": [],
+  "4006277": [
+    {
+      "name": "Branchio-oto-renal syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Branchio-oto-renal (BOR) syndrome is a developmental complex presenting with various combinations of ear pits, branchial cleft cysts, deafness and renal anomalies, which is inherited as an autosomal dominant trait.",
+      "negation": false,
+      "hpo_matched_name": "Branchio-oto-renal syndrome",
+      "atomic_statement": "Branchio-oto-renal syndrome is present"
+    },
+    {
+      "name": "deafness",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Branchio-oto-renal (BOR) syndrome is a developmental complex presenting with various combinations of ear pits, branchial cleft cysts, deafness and renal anomalies, which is inherited as an autosomal dominant trait.",
+      "negation": false,
+      "hpo_matched_name": "Deafness",
+      "atomic_statement": "deafness is present"
+    },
+    {
+      "name": "renal anomaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Branchio-oto-renal (BOR) syndrome is a developmental complex presenting with various combinations of ear pits, branchial cleft cysts, deafness and renal anomalies, which is inherited as an autosomal dominant trait.",
+      "negation": false,
+      "hpo_matched_name": "Renal anomaly",
+      "atomic_statement": "renal anomalies are present"
+    },
+    {
+      "name": "ear pit",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Branchio-oto-renal (BOR) syndrome is a developmental complex presenting with various combinations of ear pits, branchial cleft cysts, deafness and renal anomalies, which is inherited as an autosomal dominant trait.",
+      "negation": false,
+      "hpo_matched_name": "Ear pit",
+      "atomic_statement": "ear pits are present"
+    },
+    {
+      "name": "branchial cleft cyst",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Branchio-oto-renal (BOR) syndrome is a developmental complex presenting with various combinations of ear pits, branchial cleft cysts, deafness and renal anomalies, which is inherited as an autosomal dominant trait.",
+      "negation": false,
+      "hpo_matched_name": "Branchial cleft cyst",
+      "atomic_statement": "branchial cleft cysts are present"
+    },
+    {
+      "name": "gustatory lacrimation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "gustatory lacrimation (GL) was also present in 2 of them.",
+      "negation": false,
+      "hpo_matched_name": "Gustatory lacrimation",
+      "atomic_statement": "gustatory lacrimation is present"
+    }
+  ],
+  "657583": [],
+  "6631421": [],
+  "6774282": [
+    {
+      "name": "neurofibromatosis",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Neurofibromatosis includes the common \"peripheral\" form and a recently documented \"central\" form. We describe the central form in 130 cases from 9 kindreds personally studied and 15 reported kindreds.",
+      "negation": false,
+      "hpo_matched_name": "neurofibromatosis",
+      "atomic_statement": "neurofibromatosis"
+    },
+    {
+      "name": "bilateral acoustic neuroma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Central neurofibromatosis with bilateral acoustic neuroma is an autosomal dominant disorder beginning about 20 years of age, accompanied by mild skin changes.",
+      "negation": false,
+      "hpo_matched_name": "bilateral acoustic neuroma",
+      "atomic_statement": "bilateral acoustic neuroma"
+    },
+    {
+      "name": "mild skin changes",
+      "status": "mild",
+      "is_new_information": true,
+      "details": "Central neurofibromatosis with bilateral acoustic neuroma is an autosomal dominant disorder beginning about 20 years of age, accompanied by mild skin changes.",
+      "negation": false,
+      "hpo_matched_name": "skin changes",
+      "atomic_statement": "mild skin changes"
+    }
+  ],
+  "6741990": [
+    {
+      "name": "sensorineural hearing impairment",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "This is a report on a child with sensorineural deafness",
+      "negation": false,
+      "hpo_matched_name": "Sensorineural hearing impairment",
+      "atomic_statement": "The child has sensorineural deafness"
+    },
+    {
+      "name": "imperforate anus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "imperforate anus with rectovaginal fistula",
+      "negation": false,
+      "hpo_matched_name": "Imperforate anus",
+      "atomic_statement": "The child has imperforate anus"
+    },
+    {
+      "name": "rectovaginal fistula",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "imperforate anus with rectovaginal fistula",
+      "negation": false,
+      "hpo_matched_name": "Rectovaginal fistula",
+      "atomic_statement": "The child has rectovaginal fistula"
+    },
+    {
+      "name": "hypoplastic thumb",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "hypoplastic thumb",
+      "negation": false,
+      "hpo_matched_name": "Hypoplastic thumb",
+      "atomic_statement": "The child has hypoplastic thumb"
+    },
+    {
+      "name": "congenital heart defect",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "congenital heart defect",
+      "negation": false,
+      "hpo_matched_name": "Congenital heart defect",
+      "atomic_statement": "The child has a congenital heart defect"
+    }
+  ],
+  "6859100": [
+    {
+      "name": "sensorineural hearing impairment",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "We report two families in which propositi had severe bilateral sensorineural hearing loss",
+      "negation": false,
+      "hpo_matched_name": "Sensorineural hearing impairment",
+      "atomic_statement": "severe bilateral sensorineural hearing loss"
+    },
+    {
+      "name": "preauricular skin tag",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "a preauricular pit or tag",
+      "negation": false,
+      "hpo_matched_name": "Preauricular skin tag",
+      "atomic_statement": "preauricular pit or tag"
+    },
+    {
+      "name": "duplication of the ureters",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "duplication of the ureters or bifid renal pelvices",
+      "negation": false,
+      "hpo_matched_name": "Duplicated ureter",
+      "atomic_statement": "duplication of the ureters"
+    },
+    {
+      "name": "bifid renal pelvis",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "duplication of the ureters or bifid renal pelvices",
+      "negation": false,
+      "hpo_matched_name": "Duplicated ureter",
+      "atomic_statement": "bifid renal pelvices"
+    }
+  ],
+  "6846397": [
+    {
+      "name": "branchio-oto-renal syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "We report a man who had the branchio-oto-renal (BOR) syndrome with crossed renal ectopia.",
+      "negation": false,
+      "hpo_matched_name": "branchio-oto-renal syndrome",
+      "atomic_statement": "The patient has branchio-oto-renal syndrome"
+    },
+    {
+      "name": "crossed renal ectopia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "We report a man who had the branchio-oto-renal (BOR) syndrome with crossed renal ectopia.",
+      "negation": false,
+      "hpo_matched_name": "crossed renal ectopia",
+      "atomic_statement": "The patient has crossed renal ectopia"
+    },
+    {
+      "name": "bilateral renal agenesis",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "His three children were born with bilateral renal agenesis and the so-called Potter syndrome.",
+      "negation": false,
+      "hpo_matched_name": "bilateral renal agenesis",
+      "atomic_statement": "The children have bilateral renal agenesis"
+    },
+    {
+      "name": "Potter syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "His three children were born with bilateral renal agenesis and the so-called Potter syndrome.",
+      "negation": false,
+      "hpo_matched_name": "Potter syndrome",
+      "atomic_statement": "The children have Potter syndrome"
+    }
+  ],
+  "6928117": [],
+  "6882181": [
+    {
+      "name": "hydrocephalus",
+      "status": "mild",
+      "is_new_information": true,
+      "details": "Neurological symptoms included mild hydrocephalus",
+      "negation": false,
+      "hpo_matched_name": "hydrocephalus",
+      "atomic_statement": "mild hydrocephalus"
+    },
+    {
+      "name": "ventricular malformation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "ventricular malformation",
+      "negation": false,
+      "hpo_matched_name": "ventricular malformation",
+      "atomic_statement": "ventricular malformation"
+    },
+    {
+      "name": "cerebellar ataxia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "cerebellar syndrome",
+      "negation": false,
+      "hpo_matched_name": "cerebellar ataxia",
+      "atomic_statement": "cerebellar syndrome"
+    },
+    {
+      "name": "intracranial calcification",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "intracranial calcification",
+      "negation": false,
+      "hpo_matched_name": "intracranial calcification",
+      "atomic_statement": "intracranial calcification"
+    },
+    {
+      "name": "ocular motility disturbance",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "oculomotor disturbances",
+      "negation": false,
+      "hpo_matched_name": "ocular motility disturbance",
+      "atomic_statement": "oculomotor disturbances"
+    },
+    {
+      "name": "abnormal EEG",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "EEG abnormalities",
+      "negation": false,
+      "hpo_matched_name": "abnormal EEG",
+      "atomic_statement": "EEG abnormalities"
+    },
+    {
+      "name": "peripheral nervous system disorder",
+      "status": "mild",
+      "is_new_information": true,
+      "details": "rarely, mild peripheral nervous disorders",
+      "negation": false,
+      "hpo_matched_name": "peripheral nervous system disorder",
+      "atomic_statement": "mild peripheral nervous disorders"
+    },
+    {
+      "name": "calcium metabolism disorder",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "A disturbance of calcium metabolism appears to be a prominent feature",
+      "negation": false,
+      "hpo_matched_name": "abnormal calcium metabolism",
+      "atomic_statement": "disturbance of calcium metabolism"
+    }
+  ],
+  "6973119": [],
+  "6964893": [
+    {
+      "name": "sensorineural hearing loss",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Several pedigrees with 19 new cases of the earpits-deafness syndrome (McK +12510) [28] are presented. Mention is made of clinical findings obtained in audiometric and vestibular studies...",
+      "negation": false,
+      "hpo_matched_name": "sensorineural hearing impairment",
+      "atomic_statement": "sensorineural hearing loss"
+    },
+    {
+      "name": "conductive hearing loss",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "affected individuals may have sensorineural, conductive or mixed hearing loss",
+      "negation": false,
+      "hpo_matched_name": "conductive hearing impairment",
+      "atomic_statement": "conductive hearing loss"
+    },
+    {
+      "name": "mixed hearing loss",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "affected individuals may have sensorineural, conductive or mixed hearing loss",
+      "negation": false,
+      "hpo_matched_name": "mixed hearing loss",
+      "atomic_statement": "mixed hearing loss"
+    },
+    {
+      "name": "preauricular pits",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "affected individuals may have ... preauricular pits",
+      "negation": false,
+      "hpo_matched_name": "preauricular skin tags",
+      "atomic_statement": "preauricular pits"
+    },
+    {
+      "name": "structural defects of the outer ear",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "features found in 138 cases and in our 19 cases are presented ... structural defects of the outer, middle and inner ear",
+      "negation": false,
+      "hpo_matched_name": "abnormal outer ear morphology",
+      "atomic_statement": "structural defects of the outer ear"
+    },
+    {
+      "name": "structural defects of the middle ear",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "features found in 138 cases and in our 19 cases are presented ... structural defects of the outer, middle and inner ear",
+      "negation": false,
+      "hpo_matched_name": "abnormal middle ear morphology",
+      "atomic_statement": "structural defects of the middle ear"
+    },
+    {
+      "name": "structural defects of the inner ear",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "features found in 138 cases and in our 19 cases are presented ... structural defects of the outer, middle and inner ear",
+      "negation": false,
+      "hpo_matched_name": "abnormal inner ear morphology",
+      "atomic_statement": "structural defects of the inner ear"
+    },
+    {
+      "name": "lacrimal duct stenosis",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "affected individuals may have ... lacrimal duct stenosis",
+      "negation": false,
+      "hpo_matched_name": "lacrimal duct stenosis",
+      "atomic_statement": "lacrimal duct stenosis"
+    },
+    {
+      "name": "branchial fistula",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "affected individuals may have ... branchial fistulas or cysts of the second branchial arch",
+      "negation": false,
+      "hpo_matched_name": "branchial fistula",
+      "atomic_statement": "branchial fistula"
+    },
+    {
+      "name": "branchial cyst",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "affected individuals may have ... branchial fistulas or cysts of the second branchial arch",
+      "negation": false,
+      "hpo_matched_name": "branchial cyst",
+      "atomic_statement": "branchial cyst"
+    },
+    {
+      "name": "renal hypoplasia",
+      "status": "mild",
+      "is_new_information": true,
+      "details": "renal anomalies ranging from mild hypoplasia to complete absence",
+      "negation": false,
+      "hpo_matched_name": "renal hypoplasia",
+      "atomic_statement": "renal hypoplasia"
+    },
+    {
+      "name": "renal agenesis",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "renal anomalies ranging from mild hypoplasia to complete absence",
+      "negation": false,
+      "hpo_matched_name": "renal agenesis",
+      "atomic_statement": "renal agenesis"
+    }
+  ],
+  "7057963": [],
+  "7091188": [
+    {
+      "name": "severe intellectual disability",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "The results confirm the classic findings of severe mental retardation",
+      "negation": false,
+      "hpo_matched_name": "Intellectual disability",
+      "atomic_statement": "severe intellectual disability"
+    },
+    {
+      "name": "puppet-like gait",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "severe mental retardation, \"puppet-like\" gait",
+      "negation": false,
+      "hpo_matched_name": "Gait abnormality",
+      "atomic_statement": "puppet-like gait"
+    },
+    {
+      "name": "craniofacial abnormalities",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "characteristic craniofacial abnormalities",
+      "negation": false,
+      "hpo_matched_name": "Craniofacial abnormality",
+      "atomic_statement": "craniofacial abnormalities"
+    },
+    {
+      "name": "episodes of laughter",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "frequent episodes of laughter",
+      "negation": false,
+      "hpo_matched_name": "Laughter",
+      "atomic_statement": "episodes of laughter"
+    },
+    {
+      "name": "cerebellar atrophy",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Computerized axial tomographs of the brain demonstrating unilateral cerebellar atrophy in one patient",
+      "negation": false,
+      "hpo_matched_name": "Cerebellar atrophy",
+      "atomic_statement": "cerebellar atrophy"
+    }
+  ],
+  "7200726": [
+    {
+      "name": "bilateral branchial sinus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "A mother and son with bilateral branchial sinuses",
+      "negation": false,
+      "hpo_matched_name": "branchial sinus",
+      "atomic_statement": "bilateral branchial sinus"
+    },
+    {
+      "name": "growth retardation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "intrauterine and postnatal growth retardation",
+      "negation": false,
+      "hpo_matched_name": "growth retardation",
+      "atomic_statement": "intrauterine and postnatal growth retardation"
+    },
+    {
+      "name": "unusual facial appearance",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "unusual facial appearance",
+      "negation": false,
+      "hpo_matched_name": "abnormal face morphology",
+      "atomic_statement": "unusual facial appearance"
+    },
+    {
+      "name": "premature aging",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "premature aging in the mother",
+      "negation": false,
+      "hpo_matched_name": "premature aging",
+      "atomic_statement": "premature aging in the mother"
+    },
+    {
+      "name": "hormonal or systemic cause of growth retardation not identified",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "No hormonal or systemic cause of growth retardation was identified",
+      "negation": true,
+      "hpo_matched_name": "growth retardation",
+      "atomic_statement": "no hormonal or systemic cause of growth retardation was identified"
+    }
+  ],
+  "7246489": [
+    {
+      "name": "severe intellectual disability",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "Five new cases are presented of a syndrome characterized mainly by severe mental retardation, epilepsy, puppet-like ataxic movements, microbrachycephaly, prognathism, tongue protrusion, and inappropriate paroxysms of laughter.",
+      "negation": false,
+      "hpo_matched_name": "Intellectual disability",
+      "atomic_statement": "severe intellectual disability"
+    },
+    {
+      "name": "epilepsy",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Five new cases are presented of a syndrome characterized mainly by severe mental retardation, epilepsy, puppet-like ataxic movements, microbrachycephaly, prognathism, tongue protrusion, and inappropriate paroxysms of laughter.",
+      "negation": false,
+      "hpo_matched_name": "Epilepsy",
+      "atomic_statement": "epilepsy"
+    },
+    {
+      "name": "ataxia",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "Five new cases are presented of a syndrome characterized mainly by severe mental retardation, epilepsy, puppet-like ataxic movements, microbrachycephaly, prognathism, tongue protrusion, and inappropriate paroxysms of laughter.",
+      "negation": false,
+      "hpo_matched_name": "Ataxia",
+      "atomic_statement": "puppet-like ataxic movements"
+    },
+    {
+      "name": "microbrachycephaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Five new cases are presented of a syndrome characterized mainly by severe mental retardation, epilepsy, puppet-like ataxic movements, microbrachycephaly, prognathism, tongue protrusion, and inappropriate paroxysms of laughter.",
+      "negation": false,
+      "hpo_matched_name": "Microbrachycephaly",
+      "atomic_statement": "microbrachycephaly"
+    },
+    {
+      "name": "prognathism",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Five new cases are presented of a syndrome characterized mainly by severe mental retardation, epilepsy, puppet-like ataxic movements, microbrachycephaly, prognathism, tongue protrusion, and inappropriate paroxysms of laughter.",
+      "negation": false,
+      "hpo_matched_name": "Prognathism",
+      "atomic_statement": "prognathism"
+    },
+    {
+      "name": "tongue protrusion",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Five new cases are presented of a syndrome characterized mainly by severe mental retardation, epilepsy, puppet-like ataxic movements, microbrachycephaly, prognathism, tongue protrusion, and inappropriate paroxysms of laughter.",
+      "negation": false,
+      "hpo_matched_name": "Protruding tongue",
+      "atomic_statement": "tongue protrusion"
+    },
+    {
+      "name": "inappropriate paroxysms of laughter",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Five new cases are presented of a syndrome characterized mainly by severe mental retardation, epilepsy, puppet-like ataxic movements, microbrachycephaly, prognathism, tongue protrusion, and inappropriate paroxysms of laughter.",
+      "negation": false,
+      "hpo_matched_name": "Inappropriate paroxysms of laughter",
+      "atomic_statement": "inappropriate paroxysms of laughter"
+    }
+  ],
+  "7039311": [],
+  "730159": [
+    {
+      "name": "multiple basal cell nevi",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The basal cell nevus syndrome is characterized by multiple basal cell nevi and basal cell carcinoma, cysts of the jaw, anomalies of ribs and spine, abnormal calcifications, and additional anomalies of the facial skull.",
+      "negation": false,
+      "hpo_matched_name": "Multiple basal cell nevi",
+      "atomic_statement": "Presence of multiple basal cell nevi"
+    },
+    {
+      "name": "basal cell carcinoma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The basal cell nevus syndrome is characterized by multiple basal cell nevi and basal cell carcinoma, cysts of the jaw, anomalies of ribs and spine, abnormal calcifications, and additional anomalies of the facial skull.",
+      "negation": false,
+      "hpo_matched_name": "Basal cell carcinoma",
+      "atomic_statement": "Presence of basal cell carcinoma"
+    },
+    {
+      "name": "jaw cysts",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The basal cell nevus syndrome is characterized by multiple basal cell nevi and basal cell carcinoma, cysts of the jaw, anomalies of ribs and spine, abnormal calcifications, and additional anomalies of the facial skull.",
+      "negation": false,
+      "hpo_matched_name": "Jaw cysts",
+      "atomic_statement": "Presence of cysts of the jaw"
+    },
+    {
+      "name": "rib anomalies",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The basal cell nevus syndrome is characterized by multiple basal cell nevi and basal cell carcinoma, cysts of the jaw, anomalies of ribs and spine, abnormal calcifications, and additional anomalies of the facial skull.",
+      "negation": false,
+      "hpo_matched_name": "Rib anomalies",
+      "atomic_statement": "Presence of anomalies of ribs"
+    },
+    {
+      "name": "spinal anomalies",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The basal cell nevus syndrome is characterized by multiple basal cell nevi and basal cell carcinoma, cysts of the jaw, anomalies of ribs and spine, abnormal calcifications, and additional anomalies of the facial skull.",
+      "negation": false,
+      "hpo_matched_name": "Spinal anomalies",
+      "atomic_statement": "Presence of anomalies of spine"
+    },
+    {
+      "name": "abnormal calcifications",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The basal cell nevus syndrome is characterized by multiple basal cell nevi and basal cell carcinoma, cysts of the jaw, anomalies of ribs and spine, abnormal calcifications, and additional anomalies of the facial skull.",
+      "negation": false,
+      "hpo_matched_name": "Abnormal calcifications",
+      "atomic_statement": "Presence of abnormal calcifications"
+    },
+    {
+      "name": "facial skull anomalies",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The basal cell nevus syndrome is characterized by multiple basal cell nevi and basal cell carcinoma, cysts of the jaw, anomalies of ribs and spine, abnormal calcifications, and additional anomalies of the facial skull.",
+      "negation": false,
+      "hpo_matched_name": "Facial skull anomalies",
+      "atomic_statement": "Presence of additional anomalies of the facial skull"
+    }
+  ],
+  "7319144": [],
+  "7468659": [],
+  "7446562": [
+    {
+      "name": "joint contractures",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "all of whom had congenital joint contractures",
+      "negation": false,
+      "hpo_matched_name": "joint contractures",
+      "atomic_statement": "The patient has joint contractures"
+    },
+    {
+      "name": "ulnar deviation of fingers",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "severe ulnar deviation of fingers",
+      "negation": false,
+      "hpo_matched_name": "ulnar deviation of fingers",
+      "atomic_statement": "The patient has ulnar deviation of fingers"
+    },
+    {
+      "name": "soft-tissue contractures of hands",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "soft-tissue contractures of both hands",
+      "negation": false,
+      "hpo_matched_name": "soft tissue contracture",
+      "atomic_statement": "The patient has soft-tissue contractures of hands"
+    },
+    {
+      "name": "bilateral clubfeet",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "bilateral clubfeet at birth",
+      "negation": false,
+      "hpo_matched_name": "clubfoot",
+      "atomic_statement": "The patient has bilateral clubfeet"
+    },
+    {
+      "name": "short stature",
+      "status": "moderate",
+      "is_new_information": true,
+      "details": "The father is short in stature, as are the children",
+      "negation": false,
+      "hpo_matched_name": "short stature",
+      "atomic_statement": "The patient has short stature"
+    },
+    {
+      "name": "delayed carpal ossification",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "who also have delayed carpal ossification",
+      "negation": false,
+      "hpo_matched_name": "delayed carpal ossification",
+      "atomic_statement": "The patient has delayed carpal ossification"
+    }
+  ],
+  "7450780": [
+    {
+      "name": "seizures",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "severe mental retardation, epileptic seizures, easily provoked and prolonged paroxysms of laughter, atactic jerky movements, hypotonia, large mandible with prognathia, and 2-3 cps spike and wave activity in the EEG",
+      "negation": false,
+      "hpo_matched_name": "Seizures",
+      "atomic_statement": "seizures"
+    },
+    {
+      "name": "mental retardation",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "severe mental retardation",
+      "negation": false,
+      "hpo_matched_name": "Intellectual disability",
+      "atomic_statement": "severe mental retardation"
+    },
+    {
+      "name": "abnormal gait",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "atatic jerky movements",
+      "negation": false,
+      "hpo_matched_name": "Abnormal gait",
+      "atomic_statement": "atatic jerky movements"
+    },
+    {
+      "name": "hypotonia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "hypotonia",
+      "negation": false,
+      "hpo_matched_name": "Hypotonia",
+      "atomic_statement": "hypotonia"
+    },
+    {
+      "name": "macrognathia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "large mandible with prognathia",
+      "negation": false,
+      "hpo_matched_name": "Macrognathia",
+      "atomic_statement": "large mandible with prognathia"
+    }
+  ],
+  "7628117": [
+    {
+      "name": "popliteal pterygium syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Three successive generations in two families affected with the popliteal pterygium syndrome are reported. While expression of the syndrome was relatively mild in the first and second generation, the patients in the third generation showed the full-blown syndrome.",
+      "negation": false,
+      "hpo_matched_name": "popliteal pterygium syndrome",
+      "atomic_statement": "popliteal pterygium syndrome present"
+    }
+  ],
+  "7835901": [],
+  "7849713": [
+    {
+      "name": "Branchio-oto-renal syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "a proposed previously undescribed contiguous gene syndrome consisting of Branchio-Oto-Renal (BOR) syndrome",
+      "negation": false,
+      "hpo_matched_name": "Branchio-oto-renal syndrome",
+      "atomic_statement": "The analysis of a de novo 8q12.2-q21.2 deletion led to the identification of a proposed previously undescribed contiguous gene syndrome consisting of Branchio-Oto-Renal (BOR) syndrome"
+    },
+    {
+      "name": "Duane syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "a proposed previously undescribed contiguous gene syndrome consisting of ... Duane syndrome",
+      "negation": false,
+      "hpo_matched_name": "Duane syndrome",
+      "atomic_statement": "The analysis of a de novo 8q12.2-q21.2 deletion led to the identification of ... Duane syndrome"
+    },
+    {
+      "name": "hydrocephalus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "a proposed previously undescribed contiguous gene syndrome consisting of ... hydrocephalus",
+      "negation": false,
+      "hpo_matched_name": "hydrocephalus",
+      "atomic_statement": "The analysis of a de novo 8q12.2-q21.2 deletion led to the identification of ... hydrocephalus"
+    },
+    {
+      "name": "aplasia of the trapezoid",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "consisting of ... trapeze aplasia",
+      "negation": false,
+      "hpo_matched_name": "aplasia of the trapezoid",
+      "atomic_statement": "The analysis of a de novo 8q12.2-q21.2 deletion led to the identification of ... trapeze aplasia"
+    }
+  ],
+  "7747758": [],
+  "7762579": [
+    {
+      "name": "congenital spinal stenosis",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The index case was a Maori bushman who presented with severe congenital spinal stenosis",
+      "negation": false,
+      "hpo_matched_name": "spinal stenosis",
+      "atomic_statement": "severe congenital spinal stenosis"
+    },
+    {
+      "name": "distal arthrogryposis",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "manifestations of distal arthrogryposis",
+      "negation": false,
+      "hpo_matched_name": "distal arthrogryposis",
+      "atomic_statement": "manifestations of distal arthrogryposis"
+    },
+    {
+      "name": "hand and foot involvement",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "2 having severe hand and foot involvement in addition to craniofacial changes compatible with a diagnosis of Freeman-Sheldon syndrome",
+      "negation": false,
+      "hpo_matched_name": "hand involvement",
+      "atomic_statement": "severe hand and foot involvement"
+    },
+    {
+      "name": "craniofacial abnormalities",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "craniofacial changes compatible with a diagnosis of Freeman-Sheldon syndrome",
+      "negation": false,
+      "hpo_matched_name": "craniofacial abnormality",
+      "atomic_statement": "craniofacial changes compatible with Freeman-Sheldon syndrome"
+    },
+    {
+      "name": "ectrodactyly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Other apparently unrelated hereditary disorders in the family included ectrodactyly",
+      "negation": false,
+      "hpo_matched_name": "ectrodactyly",
+      "atomic_statement": "ectrodactyly"
+    },
+    {
+      "name": "biliary atresia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Other apparently unrelated hereditary disorders in the family included biliary atresia",
+      "negation": false,
+      "hpo_matched_name": "biliary atresia",
+      "atomic_statement": "biliary atresia"
+    },
+    {
+      "name": "Brachmann-de Lange syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Other apparently unrelated hereditary disorders in the family included Brachmann-de Lange syndrome",
+      "negation": false,
+      "hpo_matched_name": "Brachmann-de Lange syndrome",
+      "atomic_statement": "Brachmann-de Lange syndrome"
+    }
+  ],
+  "7977374": [],
+  "7747785": [
+    {
+      "name": "cervical skin defect",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Virtually ubiquitous and possibly pathognomonic are the cervical/infra-auricular skin defects.",
+      "negation": false,
+      "hpo_matched_name": "cervical skin defect",
+      "atomic_statement": "cervical skin defect"
+    },
+    {
+      "name": "infra-auricular skin defect",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Virtually ubiquitous and possibly pathognomonic are the cervical/infra-auricular skin defects.",
+      "negation": false,
+      "hpo_matched_name": "infra-auricular skin defect",
+      "atomic_statement": "infra-auricular skin defect"
+    },
+    {
+      "name": "supra-auricular skin defect",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Much less common are supra-auricular defects occurring as isolated anomalies or with cervical defects.",
+      "negation": false,
+      "hpo_matched_name": "supra-auricular skin defect",
+      "atomic_statement": "supra-auricular skin defect"
+    },
+    {
+      "name": "renal malformation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Renal malformations are frequent",
+      "negation": false,
+      "hpo_matched_name": "renal malformation",
+      "atomic_statement": "renal malformation"
+    },
+    {
+      "name": "developmental delay",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "development delays, hypotonia, and visual, hearing, and speech problems are common.",
+      "negation": false,
+      "hpo_matched_name": "developmental delay",
+      "atomic_statement": "developmental delay"
+    },
+    {
+      "name": "hypotonia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "development delays, hypotonia, and visual, hearing, and speech problems are common.",
+      "negation": false,
+      "hpo_matched_name": "hypotonia",
+      "atomic_statement": "hypotonia"
+    },
+    {
+      "name": "visual impairment",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "development delays, hypotonia, and visual, hearing, and speech problems are common.",
+      "negation": false,
+      "hpo_matched_name": "visual impairment",
+      "atomic_statement": "visual impairment"
+    },
+    {
+      "name": "hearing impairment",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "development delays, hypotonia, and visual, hearing, and speech problems are common.",
+      "negation": false,
+      "hpo_matched_name": "hearing impairment",
+      "atomic_statement": "hearing impairment"
+    },
+    {
+      "name": "speech impairment",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "development delays, hypotonia, and visual, hearing, and speech problems are common.",
+      "negation": false,
+      "hpo_matched_name": "speech impairment",
+      "atomic_statement": "speech impairment"
+    }
+  ],
+  "7625442": [
+    {
+      "name": "microcephaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Most patients of this age group show at least 8 of the major characteristics (bursts of laughter, happy disposition, hyperactive behaviour, microcephaly, brachycephaly, macrostomia, tongue protrusion, mandibular prognathism, widely spaced teeth, stiff and puppetlike movements, typical stature, wide based gait) beside the mental retardation and (almost) absence of speech, which is a universal trait.",
+      "negation": false,
+      "hpo_matched_name": "microcephaly",
+      "atomic_statement": "microcephaly"
+    },
+    {
+      "name": "brachycephaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Most patients of this age group show at least 8 of the major characteristics (bursts of laughter, happy disposition, hyperactive behaviour, microcephaly, brachycephaly, macrostomia, tongue protrusion, mandibular prognathism, widely spaced teeth, stiff and puppetlike movements, typical stature, wide based gait) beside the mental retardation and (almost) absence of speech, which is a universal trait.",
+      "negation": false,
+      "hpo_matched_name": "brachycephaly",
+      "atomic_statement": "brachycephaly"
+    },
+    {
+      "name": "macrostomia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Most patients of this age group show at least 8 of the major characteristics (bursts of laughter, happy disposition, hyperactive behaviour, microcephaly, brachycephaly, macrostomia, tongue protrusion, mandibular prognathism, widely spaced teeth, stiff and puppetlike movements, typical stature, wide based gait) beside the mental retardation and (almost) absence of speech, which is a universal trait.",
+      "negation": false,
+      "hpo_matched_name": "macrostomia",
+      "atomic_statement": "macrostomia"
+    },
+    {
+      "name": "tongue protrusion",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Most patients of this age group show at least 8 of the major characteristics (bursts of laughter, happy disposition, hyperactive behaviour, microcephaly, brachycephaly, macrostomia, tongue protrusion, mandibular prognathism, widely spaced teeth, stiff and puppetlike movements, typical stature, wide based gait) beside the mental retardation and (almost) absence of speech, which is a universal trait.",
+      "negation": false,
+      "hpo_matched_name": "tongue protrusion",
+      "atomic_statement": "tongue protrusion"
+    },
+    {
+      "name": "mandibular prognathism",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Most patients of this age group show at least 8 of the major characteristics (bursts of laughter, happy disposition, hyperactive behaviour, microcephaly, brachycephaly, macrostomia, tongue protrusion, mandibular prognathism, widely spaced teeth, stiff and puppetlike movements, typical stature, wide based gait) beside the mental retardation and (almost) absence of speech, which is a universal trait.",
+      "negation": false,
+      "hpo_matched_name": "mandibular prognathism",
+      "atomic_statement": "mandibular prognathism"
+    },
+    {
+      "name": "widely spaced teeth",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Most patients of this age group show at least 8 of the major characteristics (bursts of laughter, happy disposition, hyperactive behaviour, microcephaly, brachycephaly, macrostomia, tongue protrusion, mandibular prognathism, widely spaced teeth, stiff and puppetlike movements, typical stature, wide based gait) beside the mental retardation and (almost) absence of speech, which is a universal trait.",
+      "negation": false,
+      "hpo_matched_name": "widely spaced teeth",
+      "atomic_statement": "widely spaced teeth"
+    },
+    {
+      "name": "stiff and puppetlike movements",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Most patients of this age group show at least 8 of the major characteristics (bursts of laughter, happy disposition, hyperactive behaviour, microcephaly, brachycephaly, macrostomia, tongue protrusion, mandibular prognathism, widely spaced teeth, stiff and puppetlike movements, typical stature, wide based gait) beside the mental retardation and (almost) absence of speech, which is a universal trait.",
+      "negation": false,
+      "hpo_matched_name": "stiff and puppetlike movements",
+      "atomic_statement": "stiff and puppetlike movements"
+    },
+    {
+      "name": "mental retardation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Most patients of this age group show at least 8 of the major characteristics (bursts of laughter, happy disposition, hyperactive behaviour, microcephaly, brachycephaly, macrostomia, tongue protrusion, mandibular prognathism, widely spaced teeth, stiff and puppetlike movements, typical stature, wide based gait) beside the mental retardation and (almost) absence of speech, which is a universal trait.",
+      "negation": false,
+      "hpo_matched_name": "mental retardation",
+      "atomic_statement": "mental retardation"
+    },
+    {
+      "name": "absence of speech",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Most patients of this age group show at least 8 of the major characteristics (bursts of laughter, happy disposition, hyperactive behaviour, microcephaly, brachycephaly, macrostomia, tongue protrusion, mandibular prognathism, widely spaced teeth, stiff and puppetlike movements, typical stature, wide based gait) beside the mental retardation and (almost) absence of speech, which is a universal trait.",
+      "negation": false,
+      "hpo_matched_name": "absent speech",
+      "atomic_statement": "absence of speech"
+    },
+    {
+      "name": "scoliosis",
+      "status": "unknown",
+      "is_new_information": false,
+      "details": "Other manifestations, such as scoliosis, may become more pronounced with age.",
+      "negation": false,
+      "hpo_matched_name": "scoliosis",
+      "atomic_statement": "scoliosis"
+    }
+  ],
+  "8042673": [],
+  "8001963": [],
+  "8102569": [],
+  "8092199": [],
+  "8042672": [
+    {
+      "name": "nevoid basal cell carcinoma syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The nevoid basal cell carcinoma syndrome (NBCC) is an autosomal dominant multisystem disorder with variable expressivity.",
+      "negation": false,
+      "hpo_matched_name": "nevoid basal cell carcinoma syndrome",
+      "atomic_statement": "The patient has nevoid basal cell carcinoma syndrome"
+    },
+    {
+      "name": "jaw cyst",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The 3 most common findings in the 11 cases were jaw cysts, palmar and/or plantar pits, and calcification of the falx cerebri.",
+      "negation": false,
+      "hpo_matched_name": "jaw cyst",
+      "atomic_statement": "The patient has jaw cyst"
+    },
+    {
+      "name": "palmar pit",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The 3 most common findings in the 11 cases were jaw cysts, palmar and/or plantar pits, and calcification of the falx cerebri.",
+      "negation": false,
+      "hpo_matched_name": "palmar pit",
+      "atomic_statement": "The patient has palmar pit"
+    },
+    {
+      "name": "plantar pit",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The 3 most common findings in the 11 cases were jaw cysts, palmar and/or plantar pits, and calcification of the falx cerebri.",
+      "negation": false,
+      "hpo_matched_name": "plantar pit",
+      "atomic_statement": "The patient has plantar pit"
+    },
+    {
+      "name": "calcification of the falx cerebri",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The 3 most common findings in the 11 cases were jaw cysts, palmar and/or plantar pits, and calcification of the falx cerebri.",
+      "negation": false,
+      "hpo_matched_name": "calcification of the falx cerebri",
+      "atomic_statement": "The patient has calcification of the falx cerebri"
+    }
+  ],
+  "8103288": [],
+  "8092198": [
+    {
+      "name": "branchial arch anomaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Branchio-oto-renal (BOR) syndrome is an autosomal dominant condition of branchial arch anomalies, deafness and renal dysplasia.",
+      "negation": false,
+      "hpo_matched_name": "branchial arch anomaly",
+      "atomic_statement": "Presence of branchial arch anomaly"
+    },
+    {
+      "name": "deafness",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Branchio-oto-renal (BOR) syndrome is an autosomal dominant condition of branchial arch anomalies, deafness and renal dysplasia.",
+      "negation": false,
+      "hpo_matched_name": "deafness",
+      "atomic_statement": "Presence of deafness"
+    },
+    {
+      "name": "renal dysplasia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Branchio-oto-renal (BOR) syndrome is an autosomal dominant condition of branchial arch anomalies, deafness and renal dysplasia.",
+      "negation": false,
+      "hpo_matched_name": "renal dysplasia",
+      "atomic_statement": "Presence of renal dysplasia"
+    }
+  ],
+  "8379998": [],
+  "8318482": [],
+  "8414026": [],
+  "8160736": [
+    {
+      "name": "branchial arch abnormality",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "a spectrum involving the development of the optic vesicles, branchial arches, eyes, face, lips, and kidneys",
+      "negation": false,
+      "hpo_matched_name": "abnormality of the branchial arch",
+      "atomic_statement": "The patient has a spectrum involving the development of the branchial arches"
+    },
+    {
+      "name": "ocular abnormality",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "the development of the optic vesicles",
+      "negation": false,
+      "hpo_matched_name": "abnormality of the eye",
+      "atomic_statement": "The patient has abnormal development of the optic vesicles"
+    },
+    {
+      "name": "facial dysmorphism",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "development of the face",
+      "negation": false,
+      "hpo_matched_name": "abnormality of the face",
+      "atomic_statement": "The patient has abnormal development of the face"
+    },
+    {
+      "name": "lip abnormality",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "development of the lips",
+      "negation": false,
+      "hpo_matched_name": "abnormality of the lips",
+      "atomic_statement": "The patient has abnormal development of the lips"
+    },
+    {
+      "name": "kidney abnormality",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "development of the kidneys",
+      "negation": false,
+      "hpo_matched_name": "renal agenesis",
+      "atomic_statement": "The patient has renal agenesis"
+    },
+    {
+      "name": "renal agenesis",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "unilateral renal agenesis was present in the first child",
+      "negation": false,
+      "hpo_matched_name": "renal agenesis",
+      "atomic_statement": "Unilateral renal agenesis was present in the first child"
+    },
+    {
+      "name": "bilateral supra-auricular sinus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Both the mother and her son also had bilateral supra-auricular sinuses",
+      "negation": false,
+      "hpo_matched_name": "superior auricular sinus",
+      "atomic_statement": "Both the mother and her son had bilateral supra-auricular sinuses"
+    },
+    {
+      "name": "mild expression of BOFS",
+      "status": "mild",
+      "is_new_information": true,
+      "details": "The second child has a mild expression of this condition, among the mildest reported in the literature",
+      "negation": false,
+      "hpo_matched_name": "mild phenotype",
+      "atomic_statement": "The second child has a mild expression of BOFS"
+    }
+  ],
+  "8326488": [
+    {
+      "name": "nevoid basal cell carcinoma syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "There are many potential complications which have been reported in association with the naevoid basal cell carcinoma syndrome.",
+      "negation": false,
+      "hpo_matched_name": "nevoid basal cell carcinoma syndrome",
+      "atomic_statement": "The patient has nevoid basal cell carcinoma syndrome"
+    },
+    {
+      "name": "jaw cyst",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The major complications of basal cell carcinomas and jaw cysts occur in over 90% of patients by 40 years of age",
+      "negation": false,
+      "hpo_matched_name": "jaw cyst",
+      "atomic_statement": "The patient has jaw cyst"
+    },
+    {
+      "name": "ovarian calcification",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Less well described complications are ovarian calcification or fibroma (24%)",
+      "negation": false,
+      "hpo_matched_name": "ovarian calcification",
+      "atomic_statement": "The patient has ovarian calcification"
+    },
+    {
+      "name": "ovarian fibroma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Less well described complications are ovarian calcification or fibroma (24%)",
+      "negation": false,
+      "hpo_matched_name": "ovarian fibroma",
+      "atomic_statement": "The patient has ovarian fibroma"
+    },
+    {
+      "name": "medulloblastoma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Less well described complications are medulloblastoma (5%)",
+      "negation": false,
+      "hpo_matched_name": "medulloblastoma",
+      "atomic_statement": "The patient has medulloblastoma"
+    },
+    {
+      "name": "cardiac fibroma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Less well described complications are cardiac fibroma (3%)",
+      "negation": false,
+      "hpo_matched_name": "cardiac fibroma",
+      "atomic_statement": "The patient has cardiac fibroma"
+    },
+    {
+      "name": "cleft palate",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Less well described complications are cleft palate (5%)",
+      "negation": false,
+      "hpo_matched_name": "cleft palate",
+      "atomic_statement": "The patient has cleft palate"
+    },
+    {
+      "name": "squint",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Less well described complications are ophthalmic abnormalities such as squint or cataract (26%)",
+      "negation": false,
+      "hpo_matched_name": "strabismus",
+      "atomic_statement": "The patient has squint"
+    },
+    {
+      "name": "cataract",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Less well described complications are ophthalmic abnormalities such as squint or cataract (26%)",
+      "negation": false,
+      "hpo_matched_name": "cataract",
+      "atomic_statement": "The patient has cataract"
+    }
+  ],
+  "8592325": [],
+  "8533848": [
+    {
+      "name": "Branchiootorenal syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Branchiootorenal (BOR) syndrome is a variable, autosomal-dominant disorder of the first and second embryonic branchial arches, kidneys, and urinary tract.",
+      "negation": false,
+      "hpo_matched_name": "Branchiootorenal syndrome",
+      "atomic_statement": "The patient has Branchiootorenal syndrome."
+    },
+    {
+      "name": "cochlear hypoplasia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Characteristic temporal bone findings include cochlear hypoplasia (4/5 of normal size with only 2 turns)",
+      "negation": false,
+      "hpo_matched_name": "Cochlear hypoplasia",
+      "atomic_statement": "The patient has cochlear hypoplasia."
+    },
+    {
+      "name": "dilation of the vestibular aqueduct",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "dilation of the vestibular aqueduct",
+      "negation": false,
+      "hpo_matched_name": "Dilation of the vestibular aqueduct",
+      "atomic_statement": "The patient has dilation of the vestibular aqueduct."
+    },
+    {
+      "name": "bulbous internal auditory canals",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "bulbous internal auditory canals",
+      "negation": false,
+      "hpo_matched_name": "Bulbous internal auditory canal",
+      "atomic_statement": "The patient has bulbous internal auditory canals."
+    },
+    {
+      "name": "deep posterior fossae",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "deep posterior fossae",
+      "negation": false,
+      "hpo_matched_name": "Deep posterior fossa",
+      "atomic_statement": "The patient has deep posterior fossae."
+    },
+    {
+      "name": "acutely-angled promontories",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "acutely-angled promontories",
+      "negation": false,
+      "hpo_matched_name": "Acutely-angled promontory",
+      "atomic_statement": "The patient has acutely-angled promontories."
+    }
+  ],
+  "8494033": [
+    {
+      "name": "hypopigmentation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Hypopigmentation has been identified in the Prader-Willi (PWS) and Angelman (AS) syndromes.",
+      "negation": false,
+      "hpo_matched_name": "hypopigmentation",
+      "atomic_statement": "hypopigmentation"
+    },
+    {
+      "name": "nystagmus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Eye changes included nystagmus in 2",
+      "negation": false,
+      "hpo_matched_name": "nystagmus",
+      "atomic_statement": "nystagmus"
+    },
+    {
+      "name": "strabismus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Eye changes included ... strabismus in 4",
+      "negation": false,
+      "hpo_matched_name": "strabismus",
+      "atomic_statement": "strabismus"
+    },
+    {
+      "name": "reduced retinal pigment",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Eye changes included ... reduced retinal pigment in 5",
+      "negation": false,
+      "hpo_matched_name": "reduced retinal pigment",
+      "atomic_statement": "reduced retinal pigment"
+    }
+  ],
+  "8658145": [],
+  "8576558": [
+    {
+      "name": "seizures",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Seven patients had partial seizures with eye deviation and vomiting, similar to those of childhood occipital epilepsies.",
+      "negation": false,
+      "hpo_matched_name": "Seizures",
+      "atomic_statement": "seizures"
+    },
+    {
+      "name": "myoclonic status epilepticus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The polygraphic recording showed a myoclonic status epilepticus in nine of them.",
+      "negation": false,
+      "hpo_matched_name": "Myoclonic status epilepticus",
+      "atomic_statement": "myoclonic status epilepticus"
+    },
+    {
+      "name": "movement disorder",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "All patients showed movement problems.",
+      "negation": false,
+      "hpo_matched_name": "Abnormal involuntary movement",
+      "atomic_statement": "movement problems"
+    },
+    {
+      "name": "jerky movements",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Eleven patients were also reported to have long-lasting periods of jerky movements.",
+      "negation": false,
+      "hpo_matched_name": "Myoclonus",
+      "atomic_statement": "jerky movements"
+    },
+    {
+      "name": "ataxia",
+      "status": "constant",
+      "is_new_information": true,
+      "details": "ataxia is a constant symptom in Angelman's syndrome",
+      "negation": false,
+      "hpo_matched_name": "Ataxia",
+      "atomic_statement": "ataxia"
+    }
+  ],
+  "8681379": [],
+  "8755919": [],
+  "8751853": [
+    {
+      "name": "bilateral vestibular schwannoma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Neurofibromatosis 2 (NF2) features bilateral vestibular schwannomas",
+      "negation": false,
+      "hpo_matched_name": "bilateral vestibular schwannoma",
+      "atomic_statement": "bilateral vestibular schwannoma"
+    },
+    {
+      "name": "benign neural tumor",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "other benign neural tumors",
+      "negation": false,
+      "hpo_matched_name": "benign neural tumor",
+      "atomic_statement": "benign neural tumor"
+    },
+    {
+      "name": "cataract",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "cataracts",
+      "negation": false,
+      "hpo_matched_name": "cataract",
+      "atomic_statement": "cataract"
+    },
+    {
+      "name": "retinal hamartoma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "retinal hamartomas and/or epiretinal membranes in nine patients",
+      "negation": false,
+      "hpo_matched_name": "retinal hamartoma",
+      "atomic_statement": "retinal hamartoma"
+    },
+    {
+      "name": "epiretinal membrane",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "retinal hamartomas and/or epiretinal membranes in nine patients",
+      "negation": false,
+      "hpo_matched_name": "epiretinal membrane",
+      "atomic_statement": "epiretinal membrane"
+    }
+  ],
+  "8669439": [
+    {
+      "name": "anal atresia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The Townes-Brocks syndrome (TBS) is comprised of a triad including characteristic anal, thumb, and ear anomalies.",
+      "negation": false,
+      "hpo_matched_name": "anal atresia",
+      "atomic_statement": "anal atresia"
+    },
+    {
+      "name": "thumb anomaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The Townes-Brocks syndrome (TBS) is comprised of a triad including characteristic anal, thumb, and ear anomalies.",
+      "negation": false,
+      "hpo_matched_name": "thumb anomaly",
+      "atomic_statement": "thumb anomaly"
+    },
+    {
+      "name": "ear anomaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The Townes-Brocks syndrome (TBS) is comprised of a triad including characteristic anal, thumb, and ear anomalies.",
+      "negation": false,
+      "hpo_matched_name": "ear anomaly",
+      "atomic_statement": "ear anomaly"
+    },
+    {
+      "name": "epibulbar dermoid",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The family manifests a variety of Goldenhar-like findings, including epibulbar dermoids, hemifacial microsomia, preauricular tags, macrostomia, and micrognathia in addition to classical ear, radial, and anal findings of TBS.",
+      "negation": false,
+      "hpo_matched_name": "epibulbar dermoid",
+      "atomic_statement": "epibulbar dermoid"
+    },
+    {
+      "name": "hemifacial microsomia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The family manifests a variety of Goldenhar-like findings, including epibulbar dermoids, hemifacial microsomia, preauricular tags, macrostomia, and micrognathia in addition to classical ear, radial, and anal findings of TBS.",
+      "negation": false,
+      "hpo_matched_name": "hemifacial microsomia",
+      "atomic_statement": "hemifacial microsomia"
+    },
+    {
+      "name": "preauricular tags",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The family manifests a variety of Goldenhar-like findings, including epibulbar dermoids, hemifacial microsomia, preauricular tags, macrostomia, and micrognathia in addition to classical ear, radial, and anal findings of TBS.",
+      "negation": false,
+      "hpo_matched_name": "preauricular tags",
+      "atomic_statement": "preauricular tags"
+    },
+    {
+      "name": "macrostomia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The family manifests a variety of Goldenhar-like findings, including epibulbar dermoids, hemifacial microsomia, preauricular tags, macrostomia, and micrognathia in addition to classical ear, radial, and anal findings of TBS.",
+      "negation": false,
+      "hpo_matched_name": "macrostomia",
+      "atomic_statement": "macrostomia"
+    },
+    {
+      "name": "micrognathia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The family manifests a variety of Goldenhar-like findings, including epibulbar dermoids, hemifacial microsomia, preauricular tags, macrostomia, and micrognathia in addition to classical ear, radial, and anal findings of TBS.",
+      "negation": false,
+      "hpo_matched_name": "micrognathia",
+      "atomic_statement": "micrognathia"
+    }
+  ],
+  "8786067": [],
+  "8755929": [
+    {
+      "name": "multiple basal cell carcinomas",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Gorlin syndrome is an autosomal dominant disorder characterized by multiple basal cell carcinomas",
+      "negation": false,
+      "hpo_matched_name": "basal cell carcinoma",
+      "atomic_statement": "presence of multiple basal cell carcinomas"
+    },
+    {
+      "name": "medulloblastoma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Gorlin syndrome is an autosomal dominant disorder characterized by ... medulloblastomas",
+      "negation": false,
+      "hpo_matched_name": "medulloblastoma",
+      "atomic_statement": "presence of medulloblastoma"
+    },
+    {
+      "name": "ovarian fibroma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Gorlin syndrome is an autosomal dominant disorder characterized by ... ovarian fibromas",
+      "negation": false,
+      "hpo_matched_name": "ovarian fibroma",
+      "atomic_statement": "presence of ovarian fibroma"
+    },
+    {
+      "name": "developmental defects",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Gorlin syndrome is an autosomal dominant disorder characterized by ... a variety of developmental defects",
+      "negation": false,
+      "hpo_matched_name": "developmental delay",
+      "atomic_statement": "presence of developmental defects"
+    },
+    {
+      "name": "mental retardation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "additional findings, including mental retardation",
+      "negation": false,
+      "hpo_matched_name": "intellectual disability",
+      "atomic_statement": "presence of mental retardation"
+    },
+    {
+      "name": "conductive hearing loss",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "additional findings, including ... conductive hearing loss",
+      "negation": false,
+      "hpo_matched_name": "conductive hearing loss",
+      "atomic_statement": "presence of conductive hearing loss"
+    },
+    {
+      "name": "failure to thrive",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "additional findings, including ... failure to thrive",
+      "negation": false,
+      "hpo_matched_name": "failure to thrive",
+      "atomic_statement": "presence of failure to thrive"
+    }
+  ],
+  "8923935": [],
+  "8954778": [],
+  "8981943": [],
+  "8923936": [
+    {
+      "name": "overlapping fingers",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The most consistent findings among individuals were overlapping fingers at birth",
+      "negation": false,
+      "hpo_matched_name": "clinodactyly of finger",
+      "atomic_statement": "overlapping fingers"
+    },
+    {
+      "name": "abnormal digital flexion creases",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "abnormal digital flexion creases",
+      "negation": false,
+      "hpo_matched_name": "abnormal digital flexion creases",
+      "atomic_statement": "abnormal digital flexion creases"
+    },
+    {
+      "name": "talipes equinovarus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "foot deformities, including talipes equinovarus",
+      "negation": false,
+      "hpo_matched_name": "talipes equinovarus",
+      "atomic_statement": "talipes equinovarus"
+    },
+    {
+      "name": "vertical talus",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "foot deformities, including talipes equinovarus and vertical talus",
+      "negation": false,
+      "hpo_matched_name": "vertical talus",
+      "atomic_statement": "vertical talus"
+    }
+  ],
+  "8832722": [
+    {
+      "name": "bilateral cleft lip",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "A young male infant was noted at birth to have bilateral cleft lip and palate",
+      "negation": false,
+      "hpo_matched_name": "cleft lip",
+      "atomic_statement": "bilateral cleft lip"
+    },
+    {
+      "name": "bilateral cleft palate",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "A young male infant was noted at birth to have bilateral cleft lip and palate",
+      "negation": false,
+      "hpo_matched_name": "cleft palate",
+      "atomic_statement": "bilateral cleft palate"
+    },
+    {
+      "name": "microphthalmia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "bilateral microphthalmos",
+      "negation": false,
+      "hpo_matched_name": "microphthalmia",
+      "atomic_statement": "bilateral microphthalmia"
+    },
+    {
+      "name": "ocular coloboma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "bilateral microphthalmos and ocular colobomata",
+      "negation": false,
+      "hpo_matched_name": "ocular coloboma",
+      "atomic_statement": "ocular coloboma"
+    },
+    {
+      "name": "dysplastic kidney",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "a dysplastic left kidney",
+      "negation": false,
+      "hpo_matched_name": "renal dysplasia",
+      "atomic_statement": "dysplastic kidney"
+    },
+    {
+      "name": "abnormality of the philtrum",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "milder facial anomalies which included abnormality of the philtrum",
+      "negation": false,
+      "hpo_matched_name": "short philtrum",
+      "atomic_statement": "abnormality of the philtrum"
+    },
+    {
+      "name": "bilateral congenital nasolacrimal duct obstruction",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "bilateral congenital nasolacrimal duct obstruction",
+      "negation": false,
+      "hpo_matched_name": "congenital nasolacrimal duct obstruction",
+      "atomic_statement": "bilateral congenital nasolacrimal duct obstruction"
+    }
+  ],
+  "8988171": [
+    {
+      "name": "seizures",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Angelman syndrome (AS), characterized by mental retardation, seizures, frequent smiling and laughter, and abnormal gait",
+      "negation": false,
+      "hpo_matched_name": "seizures",
+      "atomic_statement": "seizures"
+    },
+    {
+      "name": "abnormal gait",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Angelman syndrome (AS), characterized by mental retardation, seizures, frequent smiling and laughter, and abnormal gait",
+      "negation": false,
+      "hpo_matched_name": "abnormal gait",
+      "atomic_statement": "abnormal gait"
+    }
+  ],
+  "9012416": [
+    {
+      "name": "congenital contractures",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Evaluation.\n\nHistory_of_present_illness:\n[Current Visit] 2024-01-01: Distal arthrogryposis type 1 (DA1) and Freeman-Sheldon syndrome (FSS) are the two most common known causes of inherited multiple congenital contractures.",
+      "negation": false,
+      "hpo_matched_name": "joint contractures",
+      "atomic_statement": "congenital contractures"
+    }
+  ],
+  "9024575": [
+    {
+      "name": "brachydactyly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Brachydactyly type C is characterized by shortness of the second and fifth middle phalanges and the first metacarpal.",
+      "negation": false,
+      "hpo_matched_name": "brachydactyly",
+      "atomic_statement": "brachydactyly"
+    },
+    {
+      "name": "shortening of the second phalanx",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "shortness of the second and fifth middle phalanges",
+      "negation": false,
+      "hpo_matched_name": "shortening of the second phalanx",
+      "atomic_statement": "shortening of the second phalanx"
+    },
+    {
+      "name": "shortening of the fifth phalanx",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "shortness of the second and fifth middle phalanges",
+      "negation": false,
+      "hpo_matched_name": "shortening of the fifth phalanx",
+      "atomic_statement": "shortening of the fifth phalanx"
+    },
+    {
+      "name": "shortening of the first metacarpal",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "shortness of the first metacarpal",
+      "negation": false,
+      "hpo_matched_name": "shortening of the first metacarpal",
+      "atomic_statement": "shortening of the first metacarpal"
+    },
+    {
+      "name": "bilateral Madelung deformity",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "one affected individual had a bilateral Madelung deformity",
+      "negation": false,
+      "hpo_matched_name": "Madelung deformity",
+      "atomic_statement": "bilateral Madelung deformity"
+    }
+  ],
+  "8929945": [
+    {
+      "name": "ataxia",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "All patients were ataxic",
+      "negation": false,
+      "hpo_matched_name": "ataxia",
+      "atomic_statement": "All patients were ataxic"
+    },
+    {
+      "name": "severe intellectual disability",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "100% showed severe mental retardation",
+      "negation": false,
+      "hpo_matched_name": "severe intellectual disability",
+      "atomic_statement": "100% showed severe mental retardation"
+    },
+    {
+      "name": "absent speech",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "absent language",
+      "negation": false,
+      "hpo_matched_name": "absent speech",
+      "atomic_statement": "absent language"
+    },
+    {
+      "name": "happy disposition",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "happy disposition (noted in infancy in 95%)",
+      "negation": false,
+      "hpo_matched_name": "happy disposition",
+      "atomic_statement": "happy disposition (noted in infancy in 95%)"
+    },
+    {
+      "name": "abnormal EEG",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "abnormal EEG was reported in 25/25 patients",
+      "negation": false,
+      "hpo_matched_name": "abnormal EEG",
+      "atomic_statement": "abnormal EEG was reported in 25/25 patients"
+    },
+    {
+      "name": "hypopigmentation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Hypopigmentation was present in 19/26 (73%)",
+      "negation": false,
+      "hpo_matched_name": "hypopigmentation",
+      "atomic_statement": "Hypopigmentation was present in 19/26 (73%)"
+    },
+    {
+      "name": "oculocutaneous albinism",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "One patient had oculocutaneous albinism",
+      "negation": false,
+      "hpo_matched_name": "oculocutaneous albinism",
+      "atomic_statement": "One patient had oculocutaneous albinism"
+    },
+    {
+      "name": "delayed walking",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "age of onset of walking ranged from 2 to 8 years",
+      "negation": false,
+      "hpo_matched_name": "delayed walking",
+      "atomic_statement": "age of onset of walking ranged from 2 to 8 years"
+    },
+    {
+      "name": "disrupted sleep patterns",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Disrupted sleep patterns were present in 18/21 patients (86%)",
+      "negation": false,
+      "hpo_matched_name": "disrupted sleep patterns",
+      "atomic_statement": "Disrupted sleep patterns were present in 18/21 patients (86%)"
+    },
+    {
+      "name": "improvement in epilepsy",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "improvement in epilepsy was reported in 11/16 patients (69%) with age",
+      "negation": false,
+      "hpo_matched_name": "improvement in epilepsy",
+      "atomic_statement": "improvement in epilepsy was reported in 11/16 patients (69%) with age"
+    }
+  ],
+  "9207339": [],
+  "9096762": [
+    {
+      "name": "nevoid basal cell carcinoma syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "We present an 8-year-old African-American boy with medulloblastoma and nevoid basal cell carcinoma syndrome (NBCCS)",
+      "negation": false,
+      "hpo_matched_name": "nevoid basal cell carcinoma syndrome",
+      "atomic_statement": "The patient has nevoid basal cell carcinoma syndrome"
+    },
+    {
+      "name": "basal cell carcinoma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "he was diagnosed with NBCCS following his presentation with ... numerous BCCs in the area of the back and neck that had been irradiated previously for medulloblastoma",
+      "negation": false,
+      "hpo_matched_name": "basal cell carcinoma",
+      "atomic_statement": "The patient has basal cell carcinoma"
+    },
+    {
+      "name": "pits of the palms and soles",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "pits of the palms and soles",
+      "negation": false,
+      "hpo_matched_name": "pits of the palms and soles",
+      "atomic_statement": "The patient has pits of the palms and soles"
+    },
+    {
+      "name": "odontogenic keratocyst",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "large odontogenic keratocyst of the mandible",
+      "negation": false,
+      "hpo_matched_name": "odontogenic keratocyst",
+      "atomic_statement": "The patient has an odontogenic keratocyst"
+    },
+    {
+      "name": "skin pigmentation",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "increased skin pigmentation in African-Americans is presumably protective against ultraviolet, but not ionizing, radiation",
+      "negation": false,
+      "hpo_matched_name": "skin pigmentation",
+      "atomic_statement": "The patient has increased skin pigmentation"
+    },
+    {
+      "name": "BCC in the area of the back and neck",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "numerous BCCs in the area of the back and neck that had been irradiated previously for medulloblastoma",
+      "negation": false,
+      "hpo_matched_name": "basal cell carcinoma",
+      "atomic_statement": "The patient has basal cell carcinoma in the area of the back and neck"
+    }
+  ],
+  "9225971": [
+    {
+      "name": "neurofibromatosis type 2",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The case of a seriously disabled and retarded female patient with neurofibromatosis type 2 (NF2) is reported.",
+      "negation": false,
+      "hpo_matched_name": "neurofibromatosis type 2",
+      "atomic_statement": "The patient has neurofibromatosis type 2 (NF2)."
+    },
+    {
+      "name": "bilateral vestibular schwannoma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "She suffered from bilateral vestibular schwannomas.",
+      "negation": false,
+      "hpo_matched_name": "bilateral vestibular schwannoma",
+      "atomic_statement": "The patient has bilateral vestibular schwannomas."
+    },
+    {
+      "name": "intracranial meningioma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "She suffered from multiple intracranial meningiomas.",
+      "negation": false,
+      "hpo_matched_name": "intracranial meningioma",
+      "atomic_statement": "The patient has intracranial meningiomas."
+    },
+    {
+      "name": "neurinoma",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "She suffered from neurinomas.",
+      "negation": false,
+      "hpo_matched_name": "vestibular schwannoma",
+      "atomic_statement": "The patient has neurinomas."
+    }
+  ],
+  "9321755": [],
+  "9425907": [
+    {
+      "name": "anal atresia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "a combination of anal, renal, limb and ear anomalies",
+      "negation": false,
+      "hpo_matched_name": "anal atresia",
+      "atomic_statement": "anal atresia"
+    },
+    {
+      "name": "renal hypoplasia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "a combination of anal, renal, limb and ear anomalies",
+      "negation": false,
+      "hpo_matched_name": "renal hypoplasia",
+      "atomic_statement": "renal hypoplasia"
+    },
+    {
+      "name": "limb anomalies",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "a combination of anal, renal, limb and ear anomalies",
+      "negation": false,
+      "hpo_matched_name": "limb anomaly",
+      "atomic_statement": "limb anomalies"
+    },
+    {
+      "name": "ear anomalies",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "a combination of anal, renal, limb and ear anomalies",
+      "negation": false,
+      "hpo_matched_name": "ear anomaly",
+      "atomic_statement": "ear anomalies"
+    }
+  ],
+  "9182785": [
+    {
+      "name": "severe intellectual disability",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "The selection criteria included severe intellectual disability",
+      "negation": false,
+      "hpo_matched_name": "Intellectual disability",
+      "atomic_statement": "severe intellectual disability"
+    },
+    {
+      "name": "ataxic gait",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "All had epilepsy, with some patients ataxic with an awkward, clumsy, heavy, and/or lilting gait",
+      "negation": false,
+      "hpo_matched_name": "Gait ataxic",
+      "atomic_statement": "ataxic gait"
+    },
+    {
+      "name": "lack of speech",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "No patient had a single word of speech",
+      "negation": false,
+      "hpo_matched_name": "Absence of speech",
+      "atomic_statement": "lack of speech"
+    },
+    {
+      "name": "happy demeanor",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "a constant happy demeanour was present in 5/11",
+      "negation": false,
+      "hpo_matched_name": "Euphoric mood",
+      "atomic_statement": "constant happy demeanour"
+    },
+    {
+      "name": "epilepsy",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "All had epilepsy, with improvement in 5/11, no change in 4, and deterioration in 2",
+      "negation": false,
+      "hpo_matched_name": "Epilepsy",
+      "atomic_statement": "epilepsy"
+    },
+    {
+      "name": "abnormal EEG",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The EEG was abnormal in 10/10 patients",
+      "negation": false,
+      "hpo_matched_name": "Abnormal electroencephalogram",
+      "atomic_statement": "abnormal EEG"
+    },
+    {
+      "name": "ocular abnormalities",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Ocular abnormalities were reported in 3/8 patients",
+      "negation": false,
+      "hpo_matched_name": "Ocular abnormality",
+      "atomic_statement": "ocular abnormalities"
+    },
+    {
+      "name": "kyphosis",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "4/11 (36%) had developed kyphosis",
+      "negation": false,
+      "hpo_matched_name": "Kyphosis",
+      "atomic_statement": "kyphosis"
+    },
+    {
+      "name": "microcephaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "clinical assessment documented findings of microcephaly in nine patients",
+      "negation": false,
+      "hpo_matched_name": "Microcephaly",
+      "atomic_statement": "microcephaly"
+    },
+    {
+      "name": "large mouth and jaw",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "clinical assessment documented findings of large mouth and jaw",
+      "negation": false,
+      "hpo_matched_name": "Large mouth",
+      "atomic_statement": "large mouth and jaw"
+    }
+  ],
+  "9096761": [
+    {
+      "name": "nevoid basal cell carcinoma syndrome",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Nevoid basal cell carcinoma syndrome (NBCC; Gorlin syndrome), an autosomal dominant disorder linked to 9q22.3-q31, and caused by mutations in PTC, the human homologue of the Drosophila patched gene, comprises multiple basal cell carcinomas, keratocysts of the jaw, palmar/plantar pits, spine and rib anomalies and calcification of the falx cerebri.",
+      "negation": false,
+      "hpo_matched_name": "Nevoid basal cell carcinoma syndrome",
+      "atomic_statement": "Nevoid basal cell carcinoma syndrome (NBCC) is present"
+    },
+    {
+      "name": "multiple basal cell carcinomas",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "comprises multiple basal cell carcinomas",
+      "negation": false,
+      "hpo_matched_name": "Basal cell carcinoma",
+      "atomic_statement": "Multiple basal cell carcinomas are present"
+    },
+    {
+      "name": "keratocyst of the jaw",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "keratocysts of the jaw",
+      "negation": false,
+      "hpo_matched_name": "Keratocyst of the jaw",
+      "atomic_statement": "Keratocyst of the jaw is present"
+    },
+    {
+      "name": "palmar pits",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "palmar pits",
+      "negation": false,
+      "hpo_matched_name": "Palmar pit",
+      "atomic_statement": "Palmar pits are present"
+    },
+    {
+      "name": "plantar pits",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "plantar pits",
+      "negation": false,
+      "hpo_matched_name": "Palmar pit",
+      "atomic_statement": "Plantar pits are present"
+    },
+    {
+      "name": "calcification of the falx cerebri",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "calcification of the falx cerebri",
+      "negation": false,
+      "hpo_matched_name": "Calcification of the falx cerebri",
+      "atomic_statement": "Calcification of the falx cerebri is present"
+    },
+    {
+      "name": "coarse face",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "coarse face",
+      "negation": false,
+      "hpo_matched_name": "Coarse face",
+      "atomic_statement": "Coarse face is present"
+    },
+    {
+      "name": "relative macrocephaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "relative macrocephaly",
+      "negation": false,
+      "hpo_matched_name": "Macrocephaly",
+      "atomic_statement": "Relative macrocephaly is present"
+    },
+    {
+      "name": "hypertelorism",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "hypertelorism",
+      "negation": false,
+      "hpo_matched_name": "Hypertelorism",
+      "atomic_statement": "Hypertelorism is present"
+    },
+    {
+      "name": "frontal bossing",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "frontal bossing",
+      "negation": false,
+      "hpo_matched_name": "Frontal bossing",
+      "atomic_statement": "Frontal bossing is present"
+    },
+    {
+      "name": "pectus deformity",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "pectus deformity",
+      "negation": false,
+      "hpo_matched_name": "Pectus deformity",
+      "atomic_statement": "Pectus deformity is present"
+    },
+    {
+      "name": "Sprengel deformity",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "Sprengel deformity",
+      "negation": false,
+      "hpo_matched_name": "Sprengel deformity",
+      "atomic_statement": "Sprengel deformity is present"
+    }
+  ],
+  "9556704": [],
+  "9486718": [
+    {
+      "name": "exotropia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "presented with exotropia",
+      "negation": false,
+      "hpo_matched_name": "exotropia",
+      "atomic_statement": "exotropia"
+    },
+    {
+      "name": "odontogenic keratocyst",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "odontogenic keratocysts with palmar and plantar pitting",
+      "negation": false,
+      "hpo_matched_name": "odontogenic keratocyst",
+      "atomic_statement": "odontogenic keratocyst"
+    },
+    {
+      "name": "palmar pitting",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "palmar and plantar pitting",
+      "negation": false,
+      "hpo_matched_name": "pitting of palms",
+      "atomic_statement": "palmar pitting"
+    },
+    {
+      "name": "plantar pitting",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "palmar and plantar pitting",
+      "negation": false,
+      "hpo_matched_name": "pitting of soles",
+      "atomic_statement": "plantar pitting"
+    },
+    {
+      "name": "impacted molar",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "an impacted molar displaced into the orbit by an odontogenic keratocyst",
+      "negation": false,
+      "hpo_matched_name": "impacted tooth",
+      "atomic_statement": "impacted molar"
+    }
+  ],
+  "9808466": [],
+  "9546330": [],
+  "9643284": [],
+  "9931336": [],
+  "955942": [
+    {
+      "name": "microbrachycephaly",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The syndrome's main features are microbrachycephaly and peculiar face",
+      "negation": false,
+      "hpo_matched_name": "microcephaly",
+      "atomic_statement": "microbrachycephaly"
+    },
+    {
+      "name": "peculiar face",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The syndrome's main features are microbrachycephaly and peculiar face",
+      "negation": false,
+      "hpo_matched_name": "abnormal face",
+      "atomic_statement": "peculiar face"
+    },
+    {
+      "name": "mental deficiency",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The syndrome's main features are ... mental deficiency with euphoria and laughter",
+      "negation": false,
+      "hpo_matched_name": "intellectual disability",
+      "atomic_statement": "mental deficiency"
+    },
+    {
+      "name": "euphoria",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The syndrome's main features are ... mental deficiency with euphoria and laughter",
+      "negation": false,
+      "hpo_matched_name": "euphoria",
+      "atomic_statement": "euphoria"
+    },
+    {
+      "name": "laughter",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The syndrome's main features are ... mental deficiency with euphoria and laughter",
+      "negation": false,
+      "hpo_matched_name": "abnormal laughter",
+      "atomic_statement": "laughter"
+    },
+    {
+      "name": "ataxia",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The syndrome's main features are ... ataxia and epilepsy",
+      "negation": false,
+      "hpo_matched_name": "ataxia",
+      "atomic_statement": "ataxia"
+    },
+    {
+      "name": "epilepsy",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The syndrome's main features are ... ataxia and epilepsy consisting in infantile spasms and grand-mal attacks",
+      "negation": false,
+      "hpo_matched_name": "epilepsy",
+      "atomic_statement": "epilepsy"
+    },
+    {
+      "name": "infantile spasms",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "epilepsy consisting in infantile spasms and grand-mal attacks",
+      "negation": false,
+      "hpo_matched_name": "infantile spasms",
+      "atomic_statement": "infantile spasms"
+    },
+    {
+      "name": "grand-mal seizures",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "epilepsy consisting in infantile spasms and grand-mal attacks",
+      "negation": false,
+      "hpo_matched_name": "generalized tonic-clonic seizure",
+      "atomic_statement": "grand-mal attacks"
+    }
+  ],
+  "9811917": [],
+  "9831341": [],
+  "9863591": [],
+  "9949213": [],
+  "998578": [
+    {
+      "name": "preauricular pits",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "A woman with the autosomal dominant syndrome of preauricular pits, cervical fistulae, and partial deafness gave birth to two children with preauricular pits and severe renal dysgenesis.",
+      "negation": false,
+      "hpo_matched_name": "Preauricular skin tags and pits",
+      "atomic_statement": "presence of preauricular pits"
+    },
+    {
+      "name": "cervical fistulae",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "A woman with the autosomal dominant syndrome of preauricular pits, cervical fistulae, and partial deafness gave birth to two children with preauricular pits and severe renal dysgenesis.",
+      "negation": false,
+      "hpo_matched_name": "Cervical fistula",
+      "atomic_statement": "presence of cervical fistulae"
+    },
+    {
+      "name": "partial deafness",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "A woman with the autosomal dominant syndrome of preauricular pits, cervical fistulae, and partial deafness gave birth to two children with preauricular pits and severe renal dysgenesis.",
+      "negation": false,
+      "hpo_matched_name": "Partial deafness",
+      "atomic_statement": "presence of partial deafness"
+    },
+    {
+      "name": "renal dysgenesis",
+      "status": "severe",
+      "is_new_information": true,
+      "details": "A woman with the autosomal dominant syndrome of preauricular pits, cervical fistulae, and partial deafness gave birth to two children with preauricular pits and severe renal dysgenesis.",
+      "negation": false,
+      "hpo_matched_name": "Renal agenesis",
+      "atomic_statement": "severe renal dysgenesis"
+    },
+    {
+      "name": "Potter facies",
+      "status": "unknown",
+      "is_new_information": true,
+      "details": "The facies had some features of the Potter facies of renal agenesis.",
+      "negation": false,
+      "hpo_matched_name": "Potter facies",
+      "atomic_statement": "features of Potter facies of renal agenesis"
+    }
+  ]
+}

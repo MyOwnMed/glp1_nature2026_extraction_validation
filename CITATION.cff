@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "GLP-1 technical development and validation code (Part I)"
+abstract: >-
+  Technical development and validation code for the GLP-1 receptor agonist
+  patient-journey study: physician adjudication analysis, inter-rater agreement,
+  benchmark comparison against the HPO gold-standard corpus, fine-tuned and
+  base language-model evaluation, and phenotype concept-discovery analysis.
+version: "1.0.0"
+date-released: "2026-08-18"
+license: Apache-2.0
+type: software
+repository-code: "https://github.com/MyOwnMed/glp1_nature2026_extraction_validation"
+authors:
+  - given-names: Edward
+    family-names: Kim
+  - given-names: Richard
+    family-names: Foty
+  - given-names: Avnesh S.
+    family-names: Thakor
+  - given-names: Jay S.
+    family-names: Skyler
+  - given-names: Lucy F.
+    family-names: Robinson
+  - given-names: James D.
+    family-names: Park
+  - given-names: Monica
+    family-names: Kraft
+  - given-names: Charles B.
+    family-names: Cairns
+  - given-names: Vicki
+    family-names: Seyfert-Margolis
+preferred-citation:
+  type: article
+  title: >-
+    Computable longitudinal patient journeys derived from structured and
+    unstructured EHR data: development, validation, and clinical application in
+    GLP-1 receptor agonist therapy
+  journal: "Nature Medicine"
+  year: 2026
+  doi: "REPLACE-WITH-ARTICLE-DOI"
+  authors:
+    - given-names: Edward
+      family-names: Kim
+    - given-names: Richard
+      family-names: Foty
+    - given-names: Avnesh S.
+      family-names: Thakor
+    - given-names: Jay S.
+      family-names: Skyler
+    - given-names: Lucy F.
+      family-names: Robinson
+    - given-names: James D.
+      family-names: Park
+    - given-names: Monica
+      family-names: Kraft
+    - given-names: Charles B.
+      family-names: Cairns
+    - given-names: Vicki
+      family-names: Seyfert-Margolis

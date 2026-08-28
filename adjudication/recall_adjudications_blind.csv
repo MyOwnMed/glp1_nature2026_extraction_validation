@@ -1,0 +1,35 @@
+visit_num,section,finding,flagged_by,term_in_note,adjudication,timestamp
+19,assessment_status,"Body Mass Index BMI 40.0-44.9, adult",PhysicianA,yes,ok_to_omit,2026-07-01T17:31:52.092Z
+21,assessment_status,CIMT vascular score of 61 years old,physicianB,yes,ok_to_omit,2026-07-01T17:33:31.602Z
+26,assessment_status,"HbA1c 9.4. Glu 99, Cr 0.46, AST 32, ALT 36. TC 133, TG 105, HDL 57, LDL 57",physicianB,yes,ok_to_omit,2026-07-01T17:34:08.781Z
+26,assessment_status,Hemoglobin A1c 10.1. C-peptide 1.1. Total cholesterol 130 triglycerides 112 HDL 50 LDL 60. Urine microalbumin less than 3,physicianB,yes,ok_to_omit,2026-07-01T17:35:08.122Z
+26,assessment_status,"Hemoglobin A1c 10.3. Urine microalbumin 18 milligram/gram creatinine. Total cholesterol 143 triglycerides 85 HDL 63 LDL 63. Glucose 309 BUN 19 creatinine 0.6. Sodium 136 potassium 4.1 chloride 102 bicarb 18 calcium 9.6 alk-phos 159 AST 22 ALT 24. Rheumatoid factor less than 14, RICKEY negative, C-reactive protein 7.1",physicianB,yes,ok_to_omit,2026-07-01T17:35:29.977Z
+26,assessment_status,Hemoglobin A1c 9.2. Glucose 114 creatinine 0.51 alk-phos 183 AST 32 ALT 52. Total cholesterol 159 triglycerides 85 HDL 58 LDL 85,physicianB,yes,ok_to_omit,2026-07-01T17:35:39.447Z
+26,assessment_status,Hemoglobin A1c 9.9. Glucose 208 creatinine 0.62 AST 22 ALT 21. Urine microalbumin 29 milligram/gram creatinine. Total cholesterol 137 triglycerides 98 HDL 50 LDL 69,physicianB,yes,ok_to_omit,2026-07-01T17:35:49.866Z
+26,assessment_status,"lucose 146 creatinine 0.64 alk-phos 545, AST 388, ALT 396",physicianB,yes,ok_to_omit,2026-07-01T17:36:15.913Z
+29,assessment_status,1/2 pack of cigarettes daily. Only smoked for 3-4 years.,physicianB,yes,ok_to_omit,2026-07-01T17:36:39.739Z
+29,assessment_status,F/U 4 months,physicianB,yes,ok_to_omit,2026-07-01T17:36:50.472Z
+30,assessment_status,FSG(F)= 92,physicianB,yes,ok_to_omit,2026-07-01T17:37:39.538Z
+19,medications,antidepressant,PhysicianA,yes,ok_to_omit,2026-07-01T17:41:49.841Z
+19,medications,anxiolytic,PhysicianA,yes,ok_to_omit,2026-07-01T17:43:15.577Z
+19,medications,lovaza 1000mg oral capsule,PhysicianA,yes,ok_to_omit,2026-07-01T17:44:37.686Z
+19,medications,stool softners,PhysicianA,yes,ok_to_omit,2026-07-01T17:45:51.789Z
+21,medications,Shingrix,PhysicianA,yes,ok_to_omit,2026-07-01T17:46:27.946Z
+22,medications,ativan,PhysicianA,yes,ok_to_omit,2026-07-01T17:48:13.924Z
+22,medications,butal,PhysicianA,yes,ok_to_omit,2026-07-01T17:51:20.811Z
+22,medications,duoneb,PhysicianA,yes,should_extract,2026-07-01T17:52:42.423Z
+22,medications,firocet w codeine,PhysicianA,yes,ok_to_omit,2026-07-01T17:55:09.700Z
+22,medications,fosamax,PhysicianA,yes,ok_to_omit,2026-07-01T17:56:57.629Z
+22,medications,metformin,PhysicianA,yes,should_extract,2026-07-01T18:02:49.308Z
+22,medications,orazepam 1mg oral tablet,PhysicianA,yes,ok_to_omit,2026-07-01T18:03:29.899Z
+22,medications,pedialyte,PhysicianA,yes,ok_to_omit,2026-07-01T18:03:45.749Z
+22,medications,protonix,PhysicianA,yes,ok_to_omit,2026-07-01T18:05:16.049Z
+22,medications,reglan,PhysicianA,yes,should_extract,2026-07-01T18:12:49.775Z
+22,medications,restoril,PhysicianA,yes,ok_to_omit,2026-07-01T18:01:29.220Z
+22,medications,silvadene cream,PhysicianA,yes,ok_to_omit,2026-07-01T17:59:23.508Z
+24,phenotypes,Diastolic Blood Pressure 86,PhysicianA,yes,ok_to_omit,2026-07-01T17:58:55.634Z
+24,phenotypes,Height 172.7 cm,PhysicianA,yes,ok_to_omit,2026-07-01T17:58:47.488Z
+24,phenotypes,Height 5' 8,PhysicianA,yes,ok_to_omit,2026-07-01T17:58:26.974Z
+24,phenotypes,Pulse Rate  89,PhysicianA,yes,ok_to_omit,2026-07-01T17:57:38.179Z
+24,phenotypes,Systolic Blood Pressure 137,PhysicianA,yes,ok_to_omit,2026-07-01T17:57:29.739Z
+24,phenotypes,"Weight ,218 lb",PhysicianA,yes,ok_to_omit,2026-07-01T17:57:19.460Z

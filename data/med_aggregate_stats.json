@@ -1,0 +1,20 @@
+{
+  "med_ner": {
+    "total_extracted": 344,
+    "correct": 225,
+    "neg_err": 13,
+    "other_err": 106
+  },
+  "disease_ner_meds": {
+    "total_extracted": 179,
+    "correct": 146,
+    "neg_err": 6,
+    "other_err": 27
+  },
+  "medications": {
+    "total_extracted": 221,
+    "correct": 211,
+    "neg_err": 5,
+    "other_err": 5
+  }
+}
